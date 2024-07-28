@@ -1,0 +1,130 @@
+{
+  "vid": 4921,
+  "products": [
+    {
+      "pid": 137,
+      "name": "Cync Full Color A19",
+      "partNumber": "CLEDA199CDM"
+    },
+    {
+      "pid": 68,
+      "name": "Cync Smart Indoor Plug",
+      "partNumber": "CPLGSTDBLWM"
+    },
+    {
+      "pid": 172,
+      "name": "Cync Indoor Smart Plug ",
+      "partNumber": "CPLGSTDBLWM"
+    },
+    {
+      "pid": 180,
+      "name": "Cync Full Color Fixture",
+      "partNumber": "CFIXCNLRH4CRVDMS"
+    },
+    {
+      "pid": 181,
+      "name": "Cync Full Color Fixture",
+      "partNumber": "CFIXCNLRH6CRVDMS"
+    },
+    {
+      "pid": 177,
+      "name": "Cync Full Color Fixture",
+      "partNumber": "CFIXCNLR2CRVDMS"
+    },
+    {
+      "pid": 44,
+      "name": "Cync Full Color Fixture",
+      "partNumber": "CFIXUNCPK03CRVDMS"
+    },
+    {
+      "pid": 174,
+      "name": "Cync Full Color Fixture",
+      "partNumber": "CFIXCNLR4C1MS"
+    },
+    {
+      "pid": 175,
+      "name": "Cync Full Color Fixture",
+      "partNumber": "CFIXCNLR6C1MS"
+    },
+    {
+      "pid": 41,
+      "name": "Cync Full Color Fixture",
+      "partNumber": "CFIXUNCBR12CRVDMS"
+    },
+    {
+      "pid": 42,
+      "name": "Cync Full Color Fixture",
+      "partNumber": "CFIXUNCBR18CRVDMS"
+    },
+    {
+      "pid": 43,
+      "name": "Cync Full Color Fixture",
+      "partNumber": "CFIXUNCBR24CRVDMS"
+    },
+    {
+      "pid": 171,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CLEDA199CD1MS"
+    },
+    {
+      "pid": 105,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CLEDA2116CDMS"
+    },
+    {
+      "pid": 173,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CLEDR309CD1MS"
+    },
+    {
+      "pid": 102,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CLEDBM6CDMS"
+    },
+    {
+      "pid": 101,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CLEDBC6CDMS"
+    },
+    {
+      "pid": 98,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CLEDG256CDGSMS"
+    },
+    {
+      "pid": 104,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CLEDP3815CD1MS"
+    },
+    {
+      "pid": 46,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CFIXRSCR6CRVDMS"
+    },
+    {
+      "pid": 97,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CLEDST196CDGSMS"
+    },
+    {
+      "pid": 110,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CSTR16CBDM"
+    },
+    {
+      "pid": 123,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CSTR32CBDM"
+    },
+    {
+      "pid": 111,
+      "name": "Cync Outdoor Plug",
+      "partNumber": "CPLGOD2BLMS"
+    },
+    {
+      "pid": 64,
+      "name": "Cync Indoor Plug",
+      "partNumber": "CPLGSTDBLW1MS"
+    }
+  ]
+}

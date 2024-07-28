@@ -1,0 +1,20 @@
+{
+  "vid": 4953,
+  "products": [
+    {
+      "pid": 1742,
+      "name": "Thread Smart Motion Sensor",
+      "partNumber": "GKMT-MO021"
+    },
+    {
+      "pid": 1741,
+      "name": "Thread Smart Door sensor",
+      "partNumber": "GKMT-DO021"
+    },
+    {
+      "pid": 1743,
+      "name": "Hejhome's Smart Gateway Hub – Matter",
+      "partNumber": "GKMZ-GW021"
+    }
+  ]
+}

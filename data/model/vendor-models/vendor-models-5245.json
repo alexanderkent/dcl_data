@@ -1,0 +1,25 @@
+{
+  "vid": 5245,
+  "products": [
+    {
+      "pid": 1412,
+      "name": "MOES Matter Light",
+      "partNumber": "-"
+    },
+    {
+      "pid": 1592,
+      "name": "The Matter Wired Gateway by MOES",
+      "partNumber": "The Matter Wired Gateway by MOES"
+    },
+    {
+      "pid": 2126,
+      "name": "Smart Switch",
+      "partNumber": "Smart Switch"
+    },
+    {
+      "pid": 2270,
+      "name": "Smart Thermostat",
+      "partNumber": "MWHT-S02"
+    }
+  ]
+}

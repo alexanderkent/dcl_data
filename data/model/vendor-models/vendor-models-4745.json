@@ -1,0 +1,15 @@
+{
+  "vid": 4745,
+  "products": [
+    {
+      "pid": 770,
+      "name": "Smart Plug",
+      "partNumber": "HG10491"
+    },
+    {
+      "pid": 774,
+      "name": "Smart Plug",
+      "partNumber": "HG10491-FR"
+    }
+  ]
+}

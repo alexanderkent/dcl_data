@@ -1,0 +1,17 @@
+{
+  "vid": 4874,
+  "pid": 77,
+  "softwareVersion": 6620,
+  "softwareVersionString": "3.2.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://eve-updates.evehome.com/matter/eve_door-3.2.0-matter-benc-enc-A80B865D-A6DB-4378-AD18-6C66F0DE1FDC.bin",
+  "otaFileSize": "825939",
+  "otaChecksum": "l1vtXWqSz/k8g1uJCVQLyI9ijDovQ7XK9bPmaxcbCck=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 6200,
+  "maxApplicableSoftwareVersion": 6619,
+  "releaseNotesUrl": "https://www.evehome.com/en-us/matter-release-notes?product=eve-door-window&version=3-2-0",
+  "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+}

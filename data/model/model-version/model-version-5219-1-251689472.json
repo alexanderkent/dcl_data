@@ -1,0 +1,17 @@
+{
+  "vid": 5219,
+  "pid": 1,
+  "softwareVersion": 251689472,
+  "softwareVersionString": "1.5.122.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://www.eberle.de/fileadmin/Software/CUTE_SW01_V15_APP_OTA.bin",
+  "otaFileSize": "1445975",
+  "otaChecksum": "77ZQ/JDyeRCw60XkNM4K3kmoQ6TzS4WzRog3TS4EQqQ=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 1,
+  "maxApplicableSoftwareVersion": 4294967295,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1x0nqnw767dxncqdhh4jnnhag4vvm9fx93gt5ap"
+}

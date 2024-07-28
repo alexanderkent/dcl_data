@@ -1,0 +1,17 @@
+{
+  "vid": 4961,
+  "pid": 2,
+  "softwareVersion": 4,
+  "softwareVersionString": "0.0.4",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://files.inovelli.com/firmware/VTM35-SN/Beta/0.0.4/VTM35-SN_V004.ota",
+  "otaFileSize": "517896",
+  "otaChecksum": "yW5sK/jfaWwX4XsD2588g7Uy9xJ4DSywsODbJHeNdS8=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 1,
+  "maxApplicableSoftwareVersion": 65535,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1d4hu84klpq60g483np70za283tl4j57qsu8sau"
+}

@@ -1,0 +1,25 @@
+{
+  "vid": 5170,
+  "products": [
+    {
+      "pid": 4096,
+      "name": "RFSAI-62B-SL/MT",
+      "partNumber": "-"
+    },
+    {
+      "pid": 4097,
+      "name": "RFGB-40B(W)/MT",
+      "partNumber": "-"
+    },
+    {
+      "pid": 4098,
+      "name": "RFWD-100/MT",
+      "partNumber": "-"
+    },
+    {
+      "pid": 4099,
+      "name": "RFWB-40G/MT",
+      "partNumber": "-"
+    }
+  ]
+}

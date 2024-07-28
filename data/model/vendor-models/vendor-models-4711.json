@@ -1,0 +1,15 @@
+{
+  "vid": 4711,
+  "products": [
+    {
+      "pid": 2712,
+      "name": "Matter On/Off plug",
+      "partNumber": "W4YCR-2300"
+    },
+    {
+      "pid": 6808,
+      "name": "Matter Dimmer Plug",
+      "partNumber": "W4YCR-200"
+    }
+  ]
+}

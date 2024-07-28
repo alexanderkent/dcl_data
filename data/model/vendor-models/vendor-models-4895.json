@@ -1,0 +1,135 @@
+{
+  "vid": 4895,
+  "products": [
+    {
+      "pid": 12288,
+      "name": "LY-WindowCover series",
+      "partNumber": "LY-CCWB01"
+    },
+    {
+      "pid": 12289,
+      "name": "LY-WindowCover series",
+      "partNumber": "LY-WM15M"
+    },
+    {
+      "pid": 12290,
+      "name": "LY-WindowCover series",
+      "partNumber": " LY-WM25M"
+    },
+    {
+      "pid": 12291,
+      "name": "LY-WindowCover series",
+      "partNumber": " LY-WM35M"
+    },
+    {
+      "pid": 12292,
+      "name": "LY-WindowCover series",
+      "partNumber": " LY-WM45M"
+    },
+    {
+      "pid": 12293,
+      "name": "LY-WindowCover series",
+      "partNumber": "LY-WM24M"
+    },
+    {
+      "pid": 12294,
+      "name": "LY-WindowCover series",
+      "partNumber": "LY-WM85M"
+    },
+    {
+      "pid": 12295,
+      "name": "LY-WindowCover series",
+      "partNumber": "LY-WM25"
+    },
+    {
+      "pid": 12296,
+      "name": "LY-WindowCover series",
+      "partNumber": "LY-WM28"
+    },
+    {
+      "pid": 12297,
+      "name": "LY-WindowCover series",
+      "partNumber": "LY-WM35"
+    },
+    {
+      "pid": 12298,
+      "name": "LY-WindowCover series",
+      "partNumber": "LY-WM45"
+    },
+    {
+      "pid": 12299,
+      "name": "LY-WindowCover series",
+      "partNumber": "LY-WM60"
+    },
+    {
+      "pid": 8192,
+      "name": "LY-Thermostat-W01",
+      "partNumber": "LY-Thermostat-W01"
+    },
+    {
+      "pid": 324,
+      "name": "JINK 8e switch series",
+      "partNumber": "JINK-SWTH04QT"
+    },
+    {
+      "pid": 326,
+      "name": "JINK 8e switch series",
+      "partNumber": "JINK-SWTH06QT"
+    },
+    {
+      "pid": 323,
+      "name": "JINK 8e switch series",
+      "partNumber": "JINK-SWTH03QT"
+    },
+    {
+      "pid": 322,
+      "name": "JINK 8e switch series",
+      "partNumber": "JINK-SWTH02QT"
+    },
+    {
+      "pid": 321,
+      "name": "JINK 8e switch series",
+      "partNumber": "JINK-SWTH01QT"
+    },
+    {
+      "pid": 325,
+      "name": "JINK 8e switch series",
+      "partNumber": "JINK-SWTH05QT"
+    },
+    {
+      "pid": 513,
+      "name": "LY-RGBW-W01",
+      "partNumber": "LY-RGBW-W01"
+    },
+    {
+      "pid": 260,
+      "name": "LY-switch-WIFI4-NL",
+      "partNumber": "LY-SWWB0104"
+    },
+    {
+      "pid": 259,
+      "name": "LY-switch-WIFI4-NL",
+      "partNumber": "LY-SWWB0103"
+    },
+    {
+      "pid": 258,
+      "name": "LY-switch-WIFI4-NL",
+      "partNumber": "LY-SWWB0102"
+    },
+    {
+      "pid": 257,
+      "name": "LY-switch-WIFI4-NL",
+      "partNumber": "LY-SWWB0101"
+    },
+    {
+      "pid": 12817,
+      "name": "LY-Smart Shade",
+      "partNumber": "LY-WCMG24S"
+    },
+    {
+      "pid": 8209,
+      "name": "LengCeoi HVAC Remote",
+      "partNumber": "LQ-HVAC-IR01"
+    }
+  ]
+}

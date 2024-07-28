@@ -1,0 +1,25 @@
+{
+  "vid": 4644,
+  "products": [
+    {
+      "pid": 257,
+      "name": "MT-RGBCCT",
+      "partNumber": "H-1224-0101"
+    },
+    {
+      "pid": 1025,
+      "name": "matter Bridge",
+      "partNumber": "H-1224-0401"
+    },
+    {
+      "pid": 258,
+      "name": "MT-CCT",
+      "partNumber": "H-1224-0102"
+    },
+    {
+      "pid": 259,
+      "name": "MT-SL-DIM",
+      "partNumber": "H-1224-0103"
+    }
+  ]
+}

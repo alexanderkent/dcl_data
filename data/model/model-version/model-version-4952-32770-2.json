@@ -1,0 +1,17 @@
+{
+  "vid": 4952,
+  "pid": 32770,
+  "softwareVersion": 2,
+  "softwareVersionString": "212.200",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 212,
+  "maxApplicableSoftwareVersion": 999,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1xcl57yq9r8ez5zkkw8nsu4ak2f07l7755vnng9"
+}

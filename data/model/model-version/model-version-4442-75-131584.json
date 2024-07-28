@@ -1,0 +1,17 @@
+{
+  "vid": 4442,
+  "pid": 75,
+  "softwareVersion": 131584,
+  "softwareVersionString": "2.2.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 131584,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1sggrrmw05e6alve8umwdaszade5qxyt53kthud"
+}

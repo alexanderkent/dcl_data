@@ -1,0 +1,17 @@
+{
+  "vid": 4874,
+  "pid": 89,
+  "softwareVersion": 6620,
+  "softwareVersionString": "3.2.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://eve-updates.evehome.com/matter/eve_motion-3.2.0-matter-benc-enc-3E2AC8E3-B2DD-455D-80DE-CB61A5442F43.bin",
+  "otaFileSize": "848658",
+  "otaChecksum": "ip5M9O2+MMZRQRZOu/bd8qBiD3kQsbSzrGeviQvps30=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 6200,
+  "maxApplicableSoftwareVersion": 6619,
+  "releaseNotesUrl": "https://www.evehome.com/en-us/matter-release-notes?product=eve-motion&version=3-2-0",
+  "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+}

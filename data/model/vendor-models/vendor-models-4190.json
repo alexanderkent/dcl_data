@@ -1,0 +1,45 @@
+{
+  "vid": 4190,
+  "products": [
+    {
+      "pid": 18903,
+      "name": "Square D Wifi Dimmer",
+      "partNumber": "SQR226U1XXWM"
+    },
+    {
+      "pid": 18902,
+      "name": "Square D Wifi Switch",
+      "partNumber": "SQR141U1XXWM"
+    },
+    {
+      "pid": 18904,
+      "name": "Square D Wifi Receptacle",
+      "partNumber": "SQR441U1XXWM"
+    },
+    {
+      "pid": 30002,
+      "name": "test_product_1",
+      "partNumber": "30002"
+    },
+    {
+      "pid": 3001,
+      "name": "test_product_3001",
+      "partNumber": "3001"
+    },
+    {
+      "pid": 17577,
+      "name": "ELKO One Thermostat",
+      "partNumber": " -"
+    },
+    {
+      "pid": 1237,
+      "name": "test_product",
+      "partNumber": "12345678"
+    },
+    {
+      "pid": 1230,
+      "name": "test_product_from_portal",
+      "partNumber": "12345678"
+    }
+  ]
+}

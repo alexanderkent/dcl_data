@@ -1,0 +1,140 @@
+{
+  "vid": 4447,
+  "products": [
+    {
+      "pid": 2050,
+      "name": "Aqara Hub",
+      "partNumber": "AG035"
+    },
+    {
+      "pid": 8194,
+      "name": "Aqara Door and Window Sensor P2",
+      "partNumber": "AS056"
+    },
+    {
+      "pid": 8195,
+      "name": "Aqara Motion and Light Sensor P2",
+      "partNumber": "AS057"
+    },
+    {
+      "pid": 2051,
+      "name": "Aqara Hub M3",
+      "partNumber": "AG042"
+    },
+    {
+      "pid": 20481,
+      "name": "Aqara Smart Lock U200",
+      "partNumber": "AD041"
+    },
+    {
+      "pid": 4098,
+      "name": "Aqara Smart Plug T2",
+      "partNumber": "AP022"
+    },
+    {
+      "pid": 63489,
+      "name": "Aqara Matter Test Device",
+      "partNumber": "Aqara Matter Test Device"
+    },
+    {
+      "pid": 10241,
+      "name": "Aqara Smart Lock U300",
+      "partNumber": "AD030"
+    },
+    {
+      "pid": 10242,
+      "name": "Aqara Smart Lock U200",
+      "partNumber": "AD040"
+    },
+    {
+      "pid": 12291,
+      "name": "Aqara Bridge",
+      "partNumber": "AC020"
+    },
+    {
+      "pid": 18433,
+      "name": "Aqara Test Product 4801",
+      "partNumber": "AA014"
+    },
+    {
+      "pid": 4104,
+      "name": "Aqara Light Switch",
+      "partNumber": "AK180"
+    },
+    {
+      "pid": 4105,
+      "name": "Aqara Light Switch",
+      "partNumber": "AK181"
+    },
+    {
+      "pid": 4099,
+      "name": "Aqara Light Switch",
+      "partNumber": "AK175"
+    },
+    {
+      "pid": 4100,
+      "name": "Aqara Light Switch",
+      "partNumber": "AK176"
+    },
+    {
+      "pid": 4101,
+      "name": "Aqara Light Switch",
+      "partNumber": "AK177"
+    },
+    {
+      "pid": 4106,
+      "name": "Aqara Test Product 100A",
+      "partNumber": "AK105"
+    },
+    {
+      "pid": 6146,
+      "name": "Aqara Smart Light",
+      "partNumber": "AL228"
+    },
+    {
+      "pid": 6148,
+      "name": "Aqara Smart Light",
+      "partNumber": "AL229"
+    },
+    {
+      "pid": 6150,
+      "name": "Aqara Smart Light",
+      "partNumber": "AL230"
+    },
+    {
+      "pid": 6145,
+      "name": "Aqara Smart Light",
+      "partNumber": "AL228"
+    },
+    {
+      "pid": 6147,
+      "name": "Aqara Smart Light",
+      "partNumber": "AL229"
+    },
+    {
+      "pid": 6149,
+      "name": "Aqara Smart Light",
+      "partNumber": "AL230"
+    },
+    {
+      "pid": 10244,
+      "name": "Aqara Test Product 2804",
+      "partNumber": "AD051"
+    },
+    {
+      "pid": 16386,
+      "name": "Aqara Test Product 4002",
+      "partNumber": "AR028"
+    },
+    {
+      "pid": 2049,
+      "name": "Aqara CPE Hub",
+      "partNumber": "AG045"
+    },
+    {
+      "pid": 8196,
+      "name": "Aqara Test Product 2004",
+      "partNumber": "AA016"
+    }
+  ]
+}

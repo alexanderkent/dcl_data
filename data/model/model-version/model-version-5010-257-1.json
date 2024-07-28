@@ -1,0 +1,17 @@
+{
+  "vid": 5010,
+  "pid": 257,
+  "softwareVersion": 1,
+  "softwareVersionString": "1.0.0 Build 220930 Rel.143947",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 1,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1acw4mmmf26e7jkxqm5epu7g56tcgz0walk3vs8"
+}

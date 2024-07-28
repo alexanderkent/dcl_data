@@ -1,0 +1,45 @@
+{
+  "vid": 4933,
+  "products": [
+    {
+      "pid": 40961,
+      "name": "MSS115",
+      "partNumber": "A001A000"
+    },
+    {
+      "pid": 40962,
+      "name": "MSS315",
+      "partNumber": "A002B000"
+    },
+    {
+      "pid": 40963,
+      "name": "MSS315",
+      "partNumber": "A003C000"
+    },
+    {
+      "pid": 40965,
+      "name": "MSS315",
+      "partNumber": "A005D000"
+    },
+    {
+      "pid": 40970,
+      "name": "MSS315",
+      "partNumber": "A00AA100"
+    },
+    {
+      "pid": 16897,
+      "name": "MS600",
+      "partNumber": ""
+    },
+    {
+      "pid": 8193,
+      "name": "MSH450",
+      "partNumber": ""
+    },
+    {
+      "pid": 45057,
+      "name": "MSP844",
+      "partNumber": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "vid": 4921,
+  "pid": 104,
+  "softwareVersion": 101170,
+  "softwareVersionString": "1.01.170",
+  "cdVersionNumber": 0,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://ota.gelighting.com/5c798671f10670a1a70a5eb0acc70deb",
+  "otaFileSize": "1839190",
+  "otaChecksum": "5QVGF5toKbA83yhmv2+HaQNSJl+ZOinOMLqU5bx0CVU=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 101170,
+  "releaseNotesUrl": "",
+  "creator": "cosmos130t4m26ynex82jcgkqguxpffpva05e4zugn0xc"
+}

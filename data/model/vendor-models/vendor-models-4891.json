@@ -1,0 +1,50 @@
+{
+  "vid": 4891,
+  "products": [
+    {
+      "pid": 2,
+      "name": "ESP32-C Series",
+      "partNumber": "ESP32C"
+    },
+    {
+      "pid": 4096,
+      "name": "ESP32 C3 Bulb",
+      "partNumber": "ESP32C3Bulb"
+    },
+    {
+      "pid": 4098,
+      "name": "ESP32 C2 Bulb",
+      "partNumber": "ESP32C2Bulb"
+    },
+    {
+      "pid": 8205,
+      "name": "Smart Plug",
+      "partNumber": "SmartPlug"
+    },
+    {
+      "pid": 4100,
+      "name": "Smart lightbulb",
+      "partNumber": "Smartlightbulb"
+    },
+    {
+      "pid": 8202,
+      "name": "Smart Plug",
+      "partNumber": "SmartPlug"
+    },
+    {
+      "pid": 8204,
+      "name": "Smart Plug",
+      "partNumber": "SmartPlug"
+    },
+    {
+      "pid": 14337,
+      "name": "Window Covering",
+      "partNumber": "WindowCovering"
+    },
+    {
+      "pid": 4116,
+      "name": "ACK Wi-Fi RGBCW Light",
+      "partNumber": "RGBCW Light"
+    }
+  ]
+}

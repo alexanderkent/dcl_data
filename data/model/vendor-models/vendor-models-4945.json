@@ -1,0 +1,30 @@
+{
+  "vid": 4945,
+  "products": [
+    {
+      "pid": 65533,
+      "name": "HooRii Smart Plug",
+      "partNumber": "SP-OOP-002"
+    },
+    {
+      "pid": 65531,
+      "name": "HooRii window Covering",
+      "partNumber": "CD-WC-001"
+    },
+    {
+      "pid": 65532,
+      "name": "HooRii Contact Sensor",
+      "partNumber": "SD-CS-001"
+    },
+    {
+      "pid": 65530,
+      "name": "HooRii Occupancy Sensor",
+      "partNumber": "SD-OS-001"
+    },
+    {
+      "pid": 65517,
+      "name": "HooRii window Covering 002",
+      "partNumber": "HooRii window Covering 002"
+    }
+  ]
+}

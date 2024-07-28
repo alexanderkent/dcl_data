@@ -1,0 +1,17 @@
+{
+  "vid": 4442,
+  "pid": 54,
+  "softwareVersion": 198340,
+  "softwareVersionString": "3.6.196",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://nl54-firmware.s3.amazonaws.com/3.6.196_r7.matter",
+  "otaFileSize": "751420",
+  "otaChecksum": "RlPCuiPPD9kHub4btSo//lmV7hstmLqmkFUVKTSerIU=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 198317,
+  "maxApplicableSoftwareVersion": 198340,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1sggrrmw05e6alve8umwdaszade5qxyt53kthud"
+}

@@ -1,0 +1,17 @@
+{
+  "vid": 5431,
+  "pid": 2165,
+  "softwareVersion": 1,
+  "softwareVersionString": "1.1.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 1,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1vq5h0dwl6kwvhngmc4yptnd5mp5003lpvy9cep"
+}

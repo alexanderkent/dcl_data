@@ -1,0 +1,17 @@
+{
+  "vid": 4874,
+  "pid": 80,
+  "softwareVersion": 6650,
+  "softwareVersionString": "3.2.1",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://eve-updates.evehome.com/matter/eve_energy_eu-3.2.1-matter-benc-enc-4E71C921-3218-4E56-9928-527DA7A3BE88.bin",
+  "otaFileSize": "890915",
+  "otaChecksum": " MO+9nc1o5vG74qC85pvd9MVe6QGbFQNbG2mbQvzRIVA=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 6200,
+  "maxApplicableSoftwareVersion": 6649,
+  "releaseNotesUrl": "https://www.evehome.com/matter-release-notes?product=eve-energy-europe&version=3-2-1",
+  "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+}

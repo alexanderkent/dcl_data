@@ -1,0 +1,17 @@
+{
+  "vid": 4767,
+  "pid": 1,
+  "softwareVersion": 50397184,
+  "softwareVersionString": "3.1.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://firmware.level.co/Echo_GeminiMatter_CustomerApp_B05_3.1.0_Release_Signed_OTA.ota",
+  "otaFileSize": "920550",
+  "otaChecksum": "LgQGlK9Ns6DCB5J2+D20Bj7+sgLmIbEu5bms6hcfx70=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 50336512,
+  "maxApplicableSoftwareVersion": 67108863,
+  "releaseNotesUrl": "",
+  "creator": "cosmos184avw2fenz4z8dqgstsvsxpd27zfmqhscrjhl4"
+}

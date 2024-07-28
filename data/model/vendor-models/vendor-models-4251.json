@@ -1,0 +1,50 @@
+{
+  "vid": 4251,
+  "products": [
+    {
+      "pid": 4096,
+      "name": "Decora Smart Wi-Fi 2nd Gen Dimmer",
+      "partNumber": "D26HD"
+    },
+    {
+      "pid": 4097,
+      "name": "Decora Smart Wi-Fi 2nd Gen Switch",
+      "partNumber": "D215S"
+    },
+    {
+      "pid": 4098,
+      "name": "Decora Smart Wi-Fi 2nd Gen Mini Plug-In Dimmer",
+      "partNumber": "D23LP"
+    },
+    {
+      "pid": 4100,
+      "name": "Decora Smart Wi-Fi 2nd Gen Outlet",
+      "partNumber": "D215R"
+    },
+    {
+      "pid": 4105,
+      "name": "Decora Smart Wi-Fi 2nd Gen Outdoor Plug-In Switch",
+      "partNumber": "D215O"
+    },
+    {
+      "pid": 4099,
+      "name": "Decora Smart Wi-Fi 2nd Gen Mini Plug-In Switch",
+      "partNumber": "D215P"
+    },
+    {
+      "pid": 4108,
+      "name": "VM2D3 Decora Evolve Smart Dimmer Module",
+      "partNumber": "VM2D3"
+    },
+    {
+      "pid": 4109,
+      "name": "VM2S1 Decora Evolve Smart Switch Module",
+      "partNumber": "VM2S1"
+    },
+    {
+      "pid": 4107,
+      "name": "D2ELV Decora Smart Wi-Fi ELV Dimmer",
+      "partNumber": "D2ELV"
+    }
+  ]
+}

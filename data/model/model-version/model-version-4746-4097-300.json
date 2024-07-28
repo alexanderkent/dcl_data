@@ -1,0 +1,17 @@
+{
+  "vid": 4746,
+  "pid": 4097,
+  "softwareVersion": 300,
+  "softwareVersionString": "3.0.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 100,
+  "maxApplicableSoftwareVersion": 999,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1hfpl8an3ankcd3st2sxs8n79ady0r9gsr6q79q"
+}

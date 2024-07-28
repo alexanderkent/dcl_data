@@ -1,0 +1,15 @@
+{
+  "vid": 5171,
+  "products": [
+    {
+      "pid": 902,
+      "name": "Smart Gateway 2.0",
+      "partNumber": "SL13S"
+    },
+    {
+      "pid": 886,
+      "name": "Smart Rainbow LED",
+      "partNumber": "IB12S"
+    }
+  ]
+}

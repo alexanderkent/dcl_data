@@ -1,0 +1,17 @@
+{
+  "vid": 5170,
+  "pid": 4098,
+  "softwareVersion": 202,
+  "softwareVersionString": "2.0.2",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 202,
+  "maxApplicableSoftwareVersion": 2002,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1swq8f23kmwtlh782usqysrqlgqyvx7e4dljale"
+}

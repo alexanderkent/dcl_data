@@ -1,0 +1,15 @@
+{
+  "vid": 5239,
+  "products": [
+    {
+      "pid": 1101,
+      "name": "Door/Window sensor",
+      "partNumber": "MIR-MC500-MT"
+    },
+    {
+      "pid": 1201,
+      "name": "PIR motion sensor",
+      "partNumber": "MIR-IR500-MT"
+    }
+  ]
+}

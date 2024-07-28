@@ -1,0 +1,20 @@
+{
+  "vid": 4633,
+  "products": [
+    {
+      "pid": 5,
+      "name": "Mixpad D1",
+      "partNumber": "1"
+    },
+    {
+      "pid": 1,
+      "name": "Smart Dimmer Switch",
+      "partNumber": "1"
+    },
+    {
+      "pid": 42,
+      "name": "MixPad M2",
+      "partNumber": "1"
+    }
+  ]
+}

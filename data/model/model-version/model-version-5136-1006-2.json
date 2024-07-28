@@ -1,0 +1,17 @@
+{
+  "vid": 5136,
+  "pid": 1006,
+  "softwareVersion": 2,
+  "softwareVersionString": "2.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://gitee.com/iMing999/test_open/blob/master/oem_quec_bk7231n_matter_light_2_2.ota.bin",
+  "otaFileSize": "680335",
+  "otaChecksum": "/14Cn3Jn6RXmcTcmPttbqWMvx2GP6v+IZoZcu9LNQBo=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 9999,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1dqrg6w2jjs7sft59dpqngjzyfdjh4xjn5rjct5"
+}

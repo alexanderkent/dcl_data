@@ -1,0 +1,25 @@
+{
+  "vid": 4877,
+  "products": [
+    {
+      "pid": 256,
+      "name": "BL602 Wi-Fi Relay",
+      "partNumber": "0100"
+    },
+    {
+      "pid": 257,
+      "name": "BL602 Wi-Fi Plug",
+      "partNumber": "0101"
+    },
+    {
+      "pid": 258,
+      "name": "Bouffalo Bridge",
+      "partNumber": "0102"
+    },
+    {
+      "pid": 259,
+      "name": "Bouffalo Color Light",
+      "partNumber": "0103"
+    }
+  ]
+}

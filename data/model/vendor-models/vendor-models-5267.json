@@ -1,0 +1,15 @@
+{
+  "vid": 5267,
+  "products": [
+    {
+      "pid": 1693,
+      "name": "Wi-Fi Mini Smart Plug",
+      "partNumber": "WF36M"
+    },
+    {
+      "pid": 2207,
+      "name": "Outdoor smart plug",
+      "partNumber": "MP22M"
+    }
+  ]
+}

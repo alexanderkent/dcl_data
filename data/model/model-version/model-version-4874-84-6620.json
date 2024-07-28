@@ -1,0 +1,17 @@
+{
+  "vid": 4874,
+  "pid": 84,
+  "softwareVersion": 6620,
+  "softwareVersionString": "3.2.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://eve-updates.evehome.com/matter/eve_energy_uk-3.2.0-matter-benc-enc-34F359A9-2DD3-469C-A512-009792F14D14.bin",
+  "otaFileSize": "890882",
+  "otaChecksum": "tyMCmnFGpmKiDwKx2/iIPnSha+SN8HeYW23pzv6nGPA=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 6200,
+  "maxApplicableSoftwareVersion": 6619,
+  "releaseNotesUrl": "https://www.evehome.com/matter-release-notes?product=eve-energy-uk&version=3-2-0",
+  "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+}

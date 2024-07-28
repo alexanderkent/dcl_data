@@ -1,0 +1,17 @@
+{
+  "vid": 4767,
+  "pid": 1,
+  "softwareVersion": 50336512,
+  "softwareVersionString": "3.0.19",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 50336512,
+  "maxApplicableSoftwareVersion": 50336768,
+  "releaseNotesUrl": "",
+  "creator": "cosmos184avw2fenz4z8dqgstsvsxpd27zfmqhscrjhl4"
+}

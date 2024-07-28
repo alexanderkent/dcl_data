@@ -1,0 +1,30 @@
+{
+  "vid": 4972,
+  "products": [
+    {
+      "pid": 8193,
+      "name": "Smart Wi-Fi Plug",
+      "partNumber": "P2302-EU"
+    },
+    {
+      "pid": 8194,
+      "name": "Smart Wi-Fi Plug",
+      "partNumber": "P2302-UK"
+    },
+    {
+      "pid": 8195,
+      "name": "Smart Wi-Fi Plug",
+      "partNumber": "P2302-NA"
+    },
+    {
+      "pid": 12289,
+      "name": "A60 RGBW Smart bulb 806lm",
+      "partNumber": "LS0052"
+    },
+    {
+      "pid": 12290,
+      "name": "A60 RGBW Smart bulb 806lm",
+      "partNumber": "LS0053"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "vid": 5218,
+  "products": [
+    {
+      "pid": 1,
+      "name": "Magic Cube A001",
+      "partNumber": "MFC001"
+    },
+    {
+      "pid": 2,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS001"
+    },
+    {
+      "pid": 3,
+      "name": "Magic Cube EVS",
+      "partNumber": "MFS011"
+    },
+    {
+      "pid": 4,
+      "name": "Magic Cube B001",
+      "partNumber": "MFR001"
+    },
+    {
+      "pid": 4098,
+      "name": "Magic Cube A001",
+      "partNumber": "MFC002"
+    },
+    {
+      "pid": 4099,
+      "name": "Magic Cube A001",
+      "partNumber": "MFC003"
+    },
+    {
+      "pid": 4100,
+      "name": "Magic Cube A001",
+      "partNumber": "MFC004"
+    },
+    {
+      "pid": 4101,
+      "name": "Magic Cube A001",
+      "partNumber": "MFC005"
+    },
+    {
+      "pid": 4102,
+      "name": "Magic Cube A001",
+      "partNumber": "MFC006"
+    },
+    {
+      "pid": 4103,
+      "name": "Magic Cube A001",
+      "partNumber": "MFC007"
+    },
+    {
+      "pid": 4104,
+      "name": "Magic Cube A001",
+      "partNumber": "MFC008"
+    },
+    {
+      "pid": 4105,
+      "name": "Magic Cube A001",
+      "partNumber": "MFC009"
+    },
+    {
+      "pid": 4106,
+      "name": "Magic Cube A001",
+      "partNumber": "MFC010"
+    },
+    {
+      "pid": 5,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS04"
+    },
+    {
+      "pid": 8194,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS002"
+    },
+    {
+      "pid": 8195,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS003"
+    },
+    {
+      "pid": 8196,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS004"
+    },
+    {
+      "pid": 8197,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS005"
+    },
+    {
+      "pid": 8200,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS008"
+    },
+    {
+      "pid": 8201,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS009"
+    },
+    {
+      "pid": 8212,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS014"
+    },
+    {
+      "pid": 8213,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS015"
+    },
+    {
+      "pid": 8214,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS016"
+    },
+    {
+      "pid": 8215,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS017"
+    },
+    {
+      "pid": 8216,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS018"
+    },
+    {
+      "pid": 8217,
+      "name": "Magic Cube DS001",
+      "partNumber": "MFDS019"
+    },
+    {
+      "pid": 20481,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS041"
+    },
+    {
+      "pid": 20482,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS042"
+    },
+    {
+      "pid": 20483,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS043"
+    },
+    {
+      "pid": 20484,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS044"
+    },
+    {
+      "pid": 20485,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS045"
+    },
+    {
+      "pid": 20486,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS046"
+    },
+    {
+      "pid": 20487,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS047"
+    },
+    {
+      "pid": 20488,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS048"
+    },
+    {
+      "pid": 20489,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS049"
+    },
+    {
+      "pid": 20490,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0410"
+    },
+    {
+      "pid": 20491,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0411"
+    },
+    {
+      "pid": 20492,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0412"
+    },
+    {
+      "pid": 20493,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0413"
+    },
+    {
+      "pid": 20494,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0414"
+    },
+    {
+      "pid": 20495,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0415"
+    },
+    {
+      "pid": 20496,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0416"
+    },
+    {
+      "pid": 20497,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0417"
+    },
+    {
+      "pid": 20498,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0418"
+    },
+    {
+      "pid": 20499,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0419"
+    },
+    {
+      "pid": 20500,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0420"
+    },
+    {
+      "pid": 20501,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0421"
+    },
+    {
+      "pid": 20502,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0422"
+    },
+    {
+      "pid": 20503,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0423"
+    },
+    {
+      "pid": 20504,
+      "name": "Magic Cube WS01",
+      "partNumber": "MFS0424"
+    },
+    {
+      "pid": 6,
+      "name": "Magic Cube B001",
+      "partNumber": "MFB001"
+    }
+  ]
+}

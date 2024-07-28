@@ -1,0 +1,30 @@
+{
+  "vid": 5163,
+  "products": [
+    {
+      "pid": 2,
+      "name": "LeTianPai Presence Sensor Box",
+      "partNumber": "730"
+    },
+    {
+      "pid": 4097,
+      "name": "LeTianPai Smart Light Bulb",
+      "partNumber": "705"
+    },
+    {
+      "pid": 4098,
+      "name": "LeTianPai Smart Switch 1 Way",
+      "partNumber": "D706A"
+    },
+    {
+      "pid": 4099,
+      "name": "LeTianPai Smart Switch 2 Way",
+      "partNumber": "D706B"
+    },
+    {
+      "pid": 4100,
+      "name": "LeTianPai Smart Switch 3 Way",
+      "partNumber": "D706C"
+    }
+  ]
+}

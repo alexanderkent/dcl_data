@@ -1,0 +1,75 @@
+{
+  "vid": 1,
+  "products": [
+    {
+      "pid": 257,
+      "name": "CS/CU-HU18ZKY",
+      "partNumber": "-"
+    },
+    {
+      "pid": 258,
+      "name": "CS/CU-HU12AKYF",
+      "partNumber": "-"
+    },
+    {
+      "pid": 259,
+      "name": "CS/CU-HU18AKYF",
+      "partNumber": "-"
+    },
+    {
+      "pid": 260,
+      "name": "CS/CU-XU12AKYF",
+      "partNumber": "-"
+    },
+    {
+      "pid": 261,
+      "name": "CS/CU-XU18AKYF",
+      "partNumber": "-"
+    },
+    {
+      "pid": 262,
+      "name": "CS/CU-VU18AKYF",
+      "partNumber": "-"
+    },
+    {
+      "pid": 263,
+      "name": "CS/CU-EU12AKY5FM",
+      "partNumber": "-"
+    },
+    {
+      "pid": 264,
+      "name": "CS/CU-EU18AKY5XFM",
+      "partNumber": "-"
+    },
+    {
+      "pid": 265,
+      "name": "CS/CU-EU24AKY5FM",
+      "partNumber": "-"
+    },
+    {
+      "pid": 266,
+      "name": "CS/CU-NU12ZKY5W",
+      "partNumber": "-"
+    },
+    {
+      "pid": 267,
+      "name": "CS/CU-NU18ZKY5W",
+      "partNumber": "-"
+    },
+    {
+      "pid": 268,
+      "name": "CS/CU-NU12ZKY4W",
+      "partNumber": "-"
+    },
+    {
+      "pid": 269,
+      "name": "CS/CU-NU18ZKY4W",
+      "partNumber": "-"
+    },
+    {
+      "pid": 270,
+      "name": "CS/CU-NU24ZKY4W",
+      "partNumber": "-"
+    }
+  ]
+}

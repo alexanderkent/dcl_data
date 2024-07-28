@@ -1,0 +1,17 @@
+{
+  "vid": 4998,
+  "pid": 2,
+  "softwareVersion": 1,
+  "softwareVersionString": "v1.0.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://skyluxprdatomfirmware.blob.core.windows.net/ota-upgrades/atom-ota-iwindow-v1.c47a72e.bin",
+  "otaFileSize": "932850",
+  "otaChecksum": "bcKdfdpm8nTn4ZQOUNMxqVyoBlTwuRfPhVVCdPAE5hA=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 1,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1f9haxa732cy6rmm3nc88q9fxx9zv0m0qn3kzcm"
+}

@@ -1,0 +1,15 @@
+{
+  "vid": 4978,
+  "products": [
+    {
+      "pid": 1,
+      "name": "M2D Bridge",
+      "partNumber": "M2D-B-1"
+    },
+    {
+      "pid": 2,
+      "name": "IM Pushbutton Module",
+      "partNumber": "MPB-4-1"
+    }
+  ]
+}

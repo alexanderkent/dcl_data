@@ -1,0 +1,17 @@
+{
+  "vid": 5405,
+  "pid": 1,
+  "softwareVersion": 1,
+  "softwareVersionString": "1.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "Initial certified firmware for Matter 1.2",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 65535,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1gdsaqujca3y67fmfza5l79j4kpm8wlmq8wcapx"
+}

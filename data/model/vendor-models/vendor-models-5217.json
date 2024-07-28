@@ -1,0 +1,15 @@
+{
+  "vid": 5217,
+  "products": [
+    {
+      "pid": 1,
+      "name": "Xinda Caupureye Smart Bulb",
+      "partNumber": "Xinda A19"
+    },
+    {
+      "pid": 2,
+      "name": "Xinda ACK Smart Bulb",
+      "partNumber": "Xinda A19 002"
+    }
+  ]
+}

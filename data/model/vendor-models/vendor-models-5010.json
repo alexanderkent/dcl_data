@@ -1,0 +1,115 @@
+{
+  "vid": 5010,
+  "products": [
+    {
+      "pid": 257,
+      "name": "Tapo Smart Plug",
+      "partNumber": "P100M"
+    },
+    {
+      "pid": 258,
+      "name": "Tapo Smart Wi-Fi Outlet Extender",
+      "partNumber": "P306"
+    },
+    {
+      "pid": 259,
+      "name": "Tapo Smart Plug, Energy Monitoring",
+      "partNumber": "P110M"
+    },
+    {
+      "pid": 769,
+      "name": "Smart Multicolor Bulb",
+      "partNumber": "L535E"
+    },
+    {
+      "pid": 260,
+      "name": "Tapo Smart Plug, Energy Monitoring",
+      "partNumber": "P110M"
+    },
+    {
+      "pid": 261,
+      "name": "Tapo Smart Plug, Energy Monitoring",
+      "partNumber": "P110M"
+    },
+    {
+      "pid": 262,
+      "name": "Tapo Smart Plug, Energy Monitoring",
+      "partNumber": "P110M"
+    },
+    {
+      "pid": 263,
+      "name": "Tapo Smart Plug, Energy Monitoring",
+      "partNumber": "P110M"
+    },
+    {
+      "pid": 264,
+      "name": "Tapo Smart Plug, Energy Monitoring",
+      "partNumber": "P110M"
+    },
+    {
+      "pid": 265,
+      "name": "Tapo Smart Plug, Energy Monitoring",
+      "partNumber": "P110M"
+    },
+    {
+      "pid": 266,
+      "name": "Tapo Smart Plug, Energy Monitoring",
+      "partNumber": "P110M"
+    },
+    {
+      "pid": 267,
+      "name": "Tapo Smart Plug, Energy Monitoring",
+      "partNumber": "P110M"
+    },
+    {
+      "pid": 268,
+      "name": "Tapo Smart Plug, Energy Monitoring",
+      "partNumber": "P110M"
+    },
+    {
+      "pid": 1025,
+      "name": "Tapo Smart IoT Hub",
+      "partNumber": "H100"
+    },
+    {
+      "pid": 1026,
+      "name": "Tapo Smart Hub",
+      "partNumber": "H200"
+    },
+    {
+      "pid": 269,
+      "name": "Tapo Smart Power Strip",
+      "partNumber": "P300M"
+    },
+    {
+      "pid": 271,
+      "name": "Tapo Smart Power Strip",
+      "partNumber": "P304M"
+    },
+    {
+      "pid": 270,
+      "name": "Tapo Mini Smart Wi-Fi Plug, Energy Monitoring",
+      "partNumber": "P115M"
+    },
+    {
+      "pid": 513,
+      "name": "Tapo Smart Wi-Fi Light Switch",
+      "partNumber": "S515"
+    },
+    {
+      "pid": 514,
+      "name": "Tapo Smart Wi-Fi Dimmer Switch, 3-way kit",
+      "partNumber": "S515D"
+    },
+    {
+      "pid": 273,
+      "name": "Tapo Smart Wi-Fi In-wall Outlet",
+      "partNumber": "P210M"
+    },
+    {
+      "pid": 1027,
+      "name": "Smart HomeBase",
+      "partNumber": "H500"
+    }
+  ]
+}

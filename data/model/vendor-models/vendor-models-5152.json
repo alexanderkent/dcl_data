@@ -1,0 +1,25 @@
+{
+  "vid": 5152,
+  "products": [
+    {
+      "pid": 2,
+      "name": "EcoFlow Smart Plug",
+      "partNumber": "0x0001"
+    },
+    {
+      "pid": 3,
+      "name": "EcoFlow Smart Plug",
+      "partNumber": "0x0001"
+    },
+    {
+      "pid": 1,
+      "name": "EcoFlow Smart Plug",
+      "partNumber": "0x0001"
+    },
+    {
+      "pid": 16,
+      "name": "EcoFlow PowerInsight",
+      "partNumber": "0x1"
+    }
+  ]
+}

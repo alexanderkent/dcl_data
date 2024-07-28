@@ -1,0 +1,50 @@
+{
+  "vid": 5159,
+  "products": [
+    {
+      "pid": 866,
+      "name": "Smart Plug",
+      "partNumber": "1"
+    },
+    {
+      "pid": 1116,
+      "name": "Smart Bulb GU10",
+      "partNumber": "00176642"
+    },
+    {
+      "pid": 1118,
+      "name": "Smart Bulb E27",
+      "partNumber": "00176640"
+    },
+    {
+      "pid": 1117,
+      "name": "Smart Bulb E14",
+      "partNumber": "00176641"
+    },
+    {
+      "pid": 1342,
+      "name": "Smart Bulb Filament",
+      "partNumber": "00176643_00176644"
+    },
+    {
+      "pid": 1851,
+      "name": "Smart outdoor Plug",
+      "partNumber": "00176655"
+    },
+    {
+      "pid": 2047,
+      "name": "Smart Plug with powermeter",
+      "partNumber": "00176654"
+    },
+    {
+      "pid": 2087,
+      "name": "Smart Home Hub",
+      "partNumber": "00176637"
+    },
+    {
+      "pid": 2113,
+      "name": "Smart outdoor Plug with powermeter",
+      "partNumber": "00176656"
+    }
+  ]
+}

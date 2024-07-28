@@ -1,0 +1,30 @@
+{
+  "vid": 4619,
+  "products": [
+    {
+      "pid": 4097,
+      "name": "Smart motion sensor",
+      "partNumber": "101010520"
+    },
+    {
+      "pid": 4145,
+      "name": "Smart door sensor",
+      "partNumber": "100000001"
+    },
+    {
+      "pid": 4098,
+      "name": "Smart CO sensor",
+      "partNumber": "100000001"
+    },
+    {
+      "pid": 4099,
+      "name": "Smart smoke sensor",
+      "partNumber": "100000001"
+    },
+    {
+      "pid": 4102,
+      "name": "Smart smoke sensor",
+      "partNumber": "100000002"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "vid": 5136,
+  "products": [
+    {
+      "pid": 1002,
+      "name": "On/off Plug-in Unit",
+      "partNumber": "PMOPU1002"
+    },
+    {
+      "pid": 1004,
+      "name": "Dimmable Plug-In Unit",
+      "partNumber": "PMDPU1004"
+    },
+    {
+      "pid": 1003,
+      "name": "On/off Light Switch",
+      "partNumber": "PMOLS1003"
+    },
+    {
+      "pid": 1005,
+      "name": "Color Dimmer Switch",
+      "partNumber": "PMCDS1005"
+    },
+    {
+      "pid": 1000,
+      "name": "On/Off Light",
+      "partNumber": "PMOL1001"
+    },
+    {
+      "pid": 1001,
+      "name": "Extended Color Light",
+      "partNumber": "PMECL1000"
+    },
+    {
+      "pid": 1006,
+      "name": "T Extended Color Light",
+      "partNumber": "QTMECL010d"
+    }
+  ]
+}

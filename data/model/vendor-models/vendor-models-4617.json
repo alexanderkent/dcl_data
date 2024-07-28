@@ -1,0 +1,20 @@
+{
+  "vid": 4617,
+  "products": [
+    {
+      "pid": 12308,
+      "name": "SH Matter Bridge",
+      "partNumber": "SH-MB-1"
+    },
+    {
+      "pid": 12306,
+      "name": "Radiator Thermostat II [+M]",
+      "partNumber": "EU12306"
+    },
+    {
+      "pid": 12309,
+      "name": "Door/Window Contact II [+M]",
+      "partNumber": "EU12309"
+    }
+  ]
+}

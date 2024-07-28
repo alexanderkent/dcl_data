@@ -1,0 +1,340 @@
+{
+  "vid": 5155,
+  "products": [
+    {
+      "pid": 142,
+      "name": "LIFX Light",
+      "partNumber": "NIC3C1IN"
+    },
+    {
+      "pid": 141,
+      "name": "LIFX Neon",
+      "partNumber": "LFXNEON6.5"
+    },
+    {
+      "pid": 161,
+      "name": "LIFX Neon Outdoor",
+      "partNumber": "LFXNEON16/WP"
+    },
+    {
+      "pid": 171,
+      "name": "LIFX Spot",
+      "partNumber": "LFX/LV/SPOT/RND"
+    },
+    {
+      "pid": 174,
+      "name": "LIFX Path (Square)",
+      "partNumber": "LFX/LV/PATH/SQR"
+    },
+    {
+      "pid": 173,
+      "name": "LIFX Path (Round)",
+      "partNumber": "LFX/LV/PATH/RND"
+    },
+    {
+      "pid": 175,
+      "name": "LIFX PAR38",
+      "partNumber": "P38L4AE26"
+    },
+    {
+      "pid": 169,
+      "name": "LIFX A21",
+      "partNumber": "LFXA211600RGBW"
+    },
+    {
+      "pid": 176,
+      "name": "LIFX Ceiling",
+      "partNumber": "LFXRND1556C/WH"
+    },
+    {
+      "pid": 163,
+      "name": "LIFX A19",
+      "partNumber": "A19L4AE26"
+    },
+    {
+      "pid": 164,
+      "name": "LIFX BR30",
+      "partNumber": "BR30L4AE26"
+    },
+    {
+      "pid": 214,
+      "name": "LIFX Linear",
+      "partNumber": "POC4AIN"
+    },
+    {
+      "pid": 213,
+      "name": "LIFX Linear",
+      "partNumber": "POC4AUS"
+    },
+    {
+      "pid": 212,
+      "name": "LIFX Linear",
+      "partNumber": "LC4C1IN"
+    },
+    {
+      "pid": 211,
+      "name": "LIFX Linear",
+      "partNumber": "LC4C1US"
+    },
+    {
+      "pid": 210,
+      "name": "LIFX Linear",
+      "partNumber": "BC4C1IN"
+    },
+    {
+      "pid": 209,
+      "name": "LIFX Linear",
+      "partNumber": "BC4C1US"
+    },
+    {
+      "pid": 206,
+      "name": "LIFX Linear",
+      "partNumber": "NIC4C1IN"
+    },
+    {
+      "pid": 205,
+      "name": "LIFX Linear",
+      "partNumber": "NIC4C1US"
+    },
+    {
+      "pid": 204,
+      "name": "LIFX Linear",
+      "partNumber": "LSC41IN"
+    },
+    {
+      "pid": 203,
+      "name": "LIFX Linear",
+      "partNumber": "LSC41US"
+    },
+    {
+      "pid": 208,
+      "name": "LIFX Linear",
+      "partNumber": "LXTC4C1IN"
+    },
+    {
+      "pid": 207,
+      "name": "LIFX Linear",
+      "partNumber": "LXTC4C1US"
+    },
+    {
+      "pid": 162,
+      "name": "LIFX Linear",
+      "partNumber": "LFXNEON16/WP/AU"
+    },
+    {
+      "pid": 170,
+      "name": "LIFX Color",
+      "partNumber": "A21L4AE27"
+    },
+    {
+      "pid": 165,
+      "name": "LIFX Color",
+      "partNumber": "A19L4AE27"
+    },
+    {
+      "pid": 166,
+      "name": "LIFX Color",
+      "partNumber": "BR30L4AE27"
+    },
+    {
+      "pid": 167,
+      "name": "LIFX Color",
+      "partNumber": "DC4AAU"
+    },
+    {
+      "pid": 179,
+      "name": "LIFX Color",
+      "partNumber": "DR4C4AUS"
+    },
+    {
+      "pid": 180,
+      "name": "LIFX Color",
+      "partNumber": "DC4C4AUS"
+    },
+    {
+      "pid": 168,
+      "name": "LIFX Color",
+      "partNumber": "DR6C4AUS"
+    },
+    {
+      "pid": 178,
+      "name": "LIFX Color",
+      "partNumber": "DC6C4AUS"
+    },
+    {
+      "pid": 181,
+      "name": "LIFX Color",
+      "partNumber": "MC4AE26"
+    },
+    {
+      "pid": 182,
+      "name": "LIFX Color",
+      "partNumber": "MC4AE27"
+    },
+    {
+      "pid": 183,
+      "name": "LIFX Color",
+      "partNumber": "MFC4AE26"
+    },
+    {
+      "pid": 184,
+      "name": "LIFX Color",
+      "partNumber": "MFC4AE27"
+    },
+    {
+      "pid": 185,
+      "name": "LIFX Color",
+      "partNumber": "CPL4AE12"
+    },
+    {
+      "pid": 186,
+      "name": "LIFX Color",
+      "partNumber": "CPL4AE14"
+    },
+    {
+      "pid": 187,
+      "name": "LIFX Color",
+      "partNumber": "CCL4AE12"
+    },
+    {
+      "pid": 188,
+      "name": "LIFX Color",
+      "partNumber": "CCL4AE14"
+    },
+    {
+      "pid": 189,
+      "name": "LIFX Color",
+      "partNumber": "FSTL4E26"
+    },
+    {
+      "pid": 190,
+      "name": "LIFX Color",
+      "partNumber": "FSTL4E27"
+    },
+    {
+      "pid": 191,
+      "name": "LIFX Color",
+      "partNumber": "LXA19L4AE26"
+    },
+    {
+      "pid": 192,
+      "name": "LIFX Color",
+      "partNumber": "LXA19L4AE27"
+    },
+    {
+      "pid": 195,
+      "name": "LIFX Color",
+      "partNumber": "LXB30L4AE26"
+    },
+    {
+      "pid": 196,
+      "name": "LIFX Color",
+      "partNumber": "LXB30L4AE27"
+    },
+    {
+      "pid": 217,
+      "name": "LIFX Color",
+      "partNumber": "T10PL4AE26"
+    },
+    {
+      "pid": 218,
+      "name": "LIFX Color",
+      "partNumber": "T10PL4AE27"
+    },
+    {
+      "pid": 215,
+      "name": "LIFX Color",
+      "partNumber": "CPL4AE26"
+    },
+    {
+      "pid": 216,
+      "name": "LIFX Color",
+      "partNumber": "CPL4AE27"
+    },
+    {
+      "pid": 177,
+      "name": "LIFX Panel",
+      "partNumber": "LCR15L4W1AU"
+    },
+    {
+      "pid": 201,
+      "name": "LIFX Panel",
+      "partNumber": "LCR1326L4W1"
+    },
+    {
+      "pid": 202,
+      "name": "LIFX Panel",
+      "partNumber": "LCR1326L4W1AU"
+    },
+    {
+      "pid": 197,
+      "name": "LIFX Panel",
+      "partNumber": "LCR13L4W1"
+    },
+    {
+      "pid": 198,
+      "name": "LIFX Panel",
+      "partNumber": "LCR13L4W1AU"
+    },
+    {
+      "pid": 199,
+      "name": "LIFX Panel",
+      "partNumber": "LCR8L4W1"
+    },
+    {
+      "pid": 200,
+      "name": "LIFX Panel",
+      "partNumber": "LCR8L4W1AU"
+    },
+    {
+      "pid": 219,
+      "name": "LIFX Panel",
+      "partNumber": "CMC4AUS"
+    },
+    {
+      "pid": 220,
+      "name": "LIFX Panel",
+      "partNumber": "CMC4AIN"
+    },
+    {
+      "pid": 221,
+      "name": "LIFX Spot",
+      "partNumber": "LSS4A"
+    },
+    {
+      "pid": 222,
+      "name": "LIFX Path (Round)",
+      "partNumber": "LPR4A"
+    },
+    {
+      "pid": 119,
+      "name": "LIFX Linear",
+      "partNumber": "BC3C2US"
+    },
+    {
+      "pid": 120,
+      "name": "LIFX Linear",
+      "partNumber": "BC3C2IN"
+    },
+    {
+      "pid": 143,
+      "name": "LIFX Linear",
+      "partNumber": "LSC31US"
+    },
+    {
+      "pid": 144,
+      "name": "LIFX Linear",
+      "partNumber": "LSC31IN"
+    },
+    {
+      "pid": 117,
+      "name": "LIFX Linear",
+      "partNumber": "LC3C2US"
+    },
+    {
+      "pid": 118,
+      "name": "LIFX Linear",
+      "partNumber": "LC3C2IN"
+    }
+  ]
+}

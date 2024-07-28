@@ -1,0 +1,20 @@
+{
+  "vid": 5124,
+  "products": [
+    {
+      "pid": 32768,
+      "name": "Smart Wi-Fi Plug",
+      "partNumber": "SP-M"
+    },
+    {
+      "pid": 32769,
+      "name": "Smart Wi-Fi Plug",
+      "partNumber": "WP3"
+    },
+    {
+      "pid": 4101,
+      "name": "Smart Color Light",
+      "partNumber": "SCLA5"
+    }
+  ]
+}

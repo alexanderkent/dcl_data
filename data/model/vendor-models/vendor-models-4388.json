@@ -1,0 +1,80 @@
+{
+  "vid": 4388,
+  "products": [
+    {
+      "pid": 1750,
+      "name": "JascoPro Series RGBWW A19 Bulb",
+      "partNumber": "81886"
+    },
+    {
+      "pid": 1752,
+      "name": "JascoPro Series RGBWW BR30 Bulb",
+      "partNumber": "81889"
+    },
+    {
+      "pid": 1754,
+      "name": "JascoPro Series RGBWW Surface Mount Light",
+      "partNumber": "81901"
+    },
+    {
+      "pid": 1843,
+      "name": "JascoProSeries 1-Outlet Tether Plug-In",
+      "partNumber": "81910"
+    },
+    {
+      "pid": 2116,
+      "name": "JascoPro Series 1 Grounded Outlet",
+      "partNumber": "81913"
+    },
+    {
+      "pid": 1753,
+      "name": "JascoPro Series RGBWW Retrofit Downlight",
+      "partNumber": "81902"
+    },
+    {
+      "pid": 761,
+      "name": "Enbrighten Micro Plug",
+      "partNumber": "81197"
+    },
+    {
+      "pid": 685,
+      "name": "Enbrighten 2-Outlet Wi-Fi Plug",
+      "partNumber": "81198"
+    },
+    {
+      "pid": 684,
+      "name": "Enbrighten 2-Outlet Wi-Fi Plug",
+      "partNumber": "81200"
+    },
+    {
+      "pid": 1374,
+      "name": "Enbrighten Plug-in Dimmer Receiver",
+      "partNumber": "62720"
+    },
+    {
+      "pid": 1501,
+      "name": "Enbrighten Indoor Plug-in Receiver",
+      "partNumber": "62717/62719/62721"
+    },
+    {
+      "pid": 1503,
+      "name": "Enbrighten Outdoor Plug-in Receiver",
+      "partNumber": "62718"
+    },
+    {
+      "pid": 1813,
+      "name": "JascoProSeries EmergencyFlash SingleButton",
+      "partNumber": "81915"
+    },
+    {
+      "pid": 1827,
+      "name": "JascoProSeries 4Button Scene Controller",
+      "partNumber": "81914"
+    },
+    {
+      "pid": 1789,
+      "name": "JascoPro Series Rocker Switch",
+      "partNumber": "81919"
+    }
+  ]
+}

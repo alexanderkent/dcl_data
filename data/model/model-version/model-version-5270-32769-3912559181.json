@@ -1,0 +1,17 @@
+{
+  "vid": 5270,
+  "pid": 32769,
+  "softwareVersion": 3912559181,
+  "softwareVersionString": "v1.2",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://fotaimages.s3.us-west-2.amazonaws.com/on-off-light-app.bin",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 3912559181,
+  "maxApplicableSoftwareVersion": 3912559681,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1czce74826vrvdr8z4je4m5ltrlz9ks49w2phcv"
+}

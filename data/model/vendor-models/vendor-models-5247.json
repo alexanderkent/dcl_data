@@ -1,0 +1,20 @@
+{
+  "vid": 5247,
+  "products": [
+    {
+      "pid": 3,
+      "name": "U-tec Smart Plug",
+      "partNumber": "UU2311-28"
+    },
+    {
+      "pid": 4,
+      "name": "U-tec Smart Switch",
+      "partNumber": "UT2312-30"
+    },
+    {
+      "pid": 2,
+      "name": "Bright A19 Color",
+      "partNumber": "UN2310-19"
+    }
+  ]
+}

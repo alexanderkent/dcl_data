@@ -1,0 +1,15 @@
+{
+  "vid": 4961,
+  "products": [
+    {
+      "pid": 2,
+      "name": "Inovelli Fan Switch",
+      "partNumber": "VTM35-SN"
+    },
+    {
+      "pid": 1,
+      "name": "Inovelli Dimmer Switch",
+      "partNumber": "VTM31-SN"
+    }
+  ]
+}

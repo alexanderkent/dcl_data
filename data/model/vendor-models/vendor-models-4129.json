@@ -1,0 +1,35 @@
+{
+  "vid": 4129,
+  "products": [
+    {
+      "pid": 1,
+      "name": "Netatmo Smart 2-in-1 Sensor",
+      "partNumber": "NAS01"
+    },
+    {
+      "pid": 3,
+      "name": "Smart Lights Smart Plug",
+      "partNumber": "WWMP10"
+    },
+    {
+      "pid": 4,
+      "name": "Smart Lights Outdoor Plug",
+      "partNumber": "WWMP31"
+    },
+    {
+      "pid": 5,
+      "name": "Radiant Smart Switch",
+      "partNumber": "WWMRL10WH"
+    },
+    {
+      "pid": 6,
+      "name": "Radiant Smart LED Dimmer",
+      "partNumber": "WWMRL51WH"
+    },
+    {
+      "pid": 7,
+      "name": "Radiant Smart Receptacle",
+      "partNumber": "WWMRR15WH"
+    }
+  ]
+}

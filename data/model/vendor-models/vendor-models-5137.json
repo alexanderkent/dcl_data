@@ -1,0 +1,195 @@
+{
+  "vid": 5137,
+  "products": [
+    {
+      "pid": 1,
+      "name": "Freedompro Light (LB0104-A)",
+      "partNumber": "LB0104-A"
+    },
+    {
+      "pid": 2,
+      "name": "Freedompro Light (LB0104-C)",
+      "partNumber": "LB0104-C"
+    },
+    {
+      "pid": 3,
+      "name": "Freedompro Light (LB0104-B)",
+      "partNumber": "LB0104-B"
+    },
+    {
+      "pid": 4,
+      "name": "Freedompro Light (LB0104-D)",
+      "partNumber": "LB0104-D"
+    },
+    {
+      "pid": 5,
+      "name": "Freedompro Light (LB0202-A)",
+      "partNumber": "LB0202-A"
+    },
+    {
+      "pid": 6,
+      "name": "Freedompro Light (LB0202-C)",
+      "partNumber": "LB0202-C"
+    },
+    {
+      "pid": 7,
+      "name": "Freedompro Light (LB0202-B)",
+      "partNumber": "LB0202-B"
+    },
+    {
+      "pid": 8,
+      "name": "Freedompro Light (LB0202-D)",
+      "partNumber": "LB0202-D"
+    },
+    {
+      "pid": 9,
+      "name": "Freedompro Light (LB0602-E)",
+      "partNumber": "LB0602-E"
+    },
+    {
+      "pid": 10,
+      "name": "Freedompro Light (LB0602-F)",
+      "partNumber": "LB0602-F"
+    },
+    {
+      "pid": 11,
+      "name": "Freedompro Light (LB0801-E)",
+      "partNumber": "LB0801-E"
+    },
+    {
+      "pid": 12,
+      "name": "Freedompro Light (LB0801-F)",
+      "partNumber": "LB0801-F"
+    },
+    {
+      "pid": 13,
+      "name": "Freedompro Shutter (WC0102-A)",
+      "partNumber": "Shutter Module"
+    },
+    {
+      "pid": 14,
+      "name": "Freedompro Shutter (WC0102-C)",
+      "partNumber": "Shutter Module"
+    },
+    {
+      "pid": 15,
+      "name": "Freedompro Shutter (WC0102-B)",
+      "partNumber": "Shutter Module"
+    },
+    {
+      "pid": 16,
+      "name": "Freedompro Shutter (WC0102-D)",
+      "partNumber": "Shutter Module"
+    },
+    {
+      "pid": 17,
+      "name": "Freedompro Shutter (WC0201-A)",
+      "partNumber": "Shutter Module"
+    },
+    {
+      "pid": 18,
+      "name": "Freedompro Shutter (WC0201-C)",
+      "partNumber": "Shutter Module"
+    },
+    {
+      "pid": 19,
+      "name": "Freedompro Shutter (WC0201-B)",
+      "partNumber": "Shutter Module"
+    },
+    {
+      "pid": 20,
+      "name": "Freedompro Shutter (WC0201-D)",
+      "partNumber": "Shutter Module"
+    },
+    {
+      "pid": 21,
+      "name": "Freedompro Shutter (WC0601-E)",
+      "partNumber": "Shutter Module"
+    },
+    {
+      "pid": 22,
+      "name": "Freedompro Shutter (WC0601-F)",
+      "partNumber": "Shutter Module"
+    },
+    {
+      "pid": 23,
+      "name": "Freedompro Outlet (OL0202-A)",
+      "partNumber": "Outlet Module"
+    },
+    {
+      "pid": 24,
+      "name": "Freedompro Outlet (OL0202-C)",
+      "partNumber": "Outlet Module"
+    },
+    {
+      "pid": 25,
+      "name": "Freedompro Outlet (OL0202-B)",
+      "partNumber": "Outlet Module"
+    },
+    {
+      "pid": 26,
+      "name": "Freedompro Outlet (OL0202-D)",
+      "partNumber": "Outlet Module"
+    },
+    {
+      "pid": 27,
+      "name": "Freedompro Dry Contact (SW0302-A)",
+      "partNumber": "Dry Contact Module"
+    },
+    {
+      "pid": 28,
+      "name": "Freedompro Dry Contact (SW0302-C)",
+      "partNumber": "Dry Contact Module"
+    },
+    {
+      "pid": 29,
+      "name": "Freedompro Dry Contact (SW0302-B)",
+      "partNumber": "Dry Contact Module"
+    },
+    {
+      "pid": 30,
+      "name": "Freedompro Dry Contact (SW0302-D)",
+      "partNumber": "Dry Contact Module"
+    },
+    {
+      "pid": 31,
+      "name": "Freedompro Outlet (OL0602-E)",
+      "partNumber": "Outlet Module"
+    },
+    {
+      "pid": 32,
+      "name": "Freedompro Outlet (OL0602-F)",
+      "partNumber": "Outlet Module"
+    },
+    {
+      "pid": 33,
+      "name": "Freedompro Dry Contact (SW0702-E)",
+      "partNumber": "Dry Contact Module"
+    },
+    {
+      "pid": 34,
+      "name": "Freedompro Dry Contact (SW0702-F)",
+      "partNumber": "Dry Contact Module"
+    },
+    {
+      "pid": 35,
+      "name": "Freedompro Outlet (OL0801-E)",
+      "partNumber": "Outlet Module"
+    },
+    {
+      "pid": 36,
+      "name": "Freedompro Outlet (OL0801-F)",
+      "partNumber": "Outlet Module"
+    },
+    {
+      "pid": 37,
+      "name": "Freedompro Dry Contact (SW0901-E)",
+      "partNumber": "Dry Contact Module"
+    },
+    {
+      "pid": 38,
+      "name": "Freedompro Dry Contact (SW0901-F)",
+      "partNumber": "Dry Contact Module"
+    }
+  ]
+}

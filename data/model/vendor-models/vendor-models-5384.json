@@ -1,0 +1,15 @@
+{
+  "vid": 5384,
+  "products": [
+    {
+      "pid": 1798,
+      "name": "Mat Thread LED CCT Controller",
+      "partNumber": "Thread LED CCT Controller"
+    },
+    {
+      "pid": 1799,
+      "name": "Mat Thread LED Dim Controller",
+      "partNumber": "Mat Thread LED Dim Controller"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "vid": 4874,
+  "pid": 87,
+  "softwareVersion": 7143,
+  "softwareVersionString": "3.3.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 7143,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+}

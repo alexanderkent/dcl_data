@@ -1,0 +1,25 @@
+{
+  "vid": 5202,
+  "products": [
+    {
+      "pid": 1,
+      "name": "i6",
+      "partNumber": "0"
+    },
+    {
+      "pid": 2,
+      "name": "es6",
+      "partNumber": "0"
+    },
+    {
+      "pid": 3,
+      "name": "Haiku H/I Series",
+      "partNumber": "0"
+    },
+    {
+      "pid": 4,
+      "name": "Haiku L Series",
+      "partNumber": "0"
+    }
+  ]
+}

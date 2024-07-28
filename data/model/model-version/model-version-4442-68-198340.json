@@ -1,0 +1,17 @@
+{
+  "vid": 4442,
+  "pid": 68,
+  "softwareVersion": 198340,
+  "softwareVersionString": "3.6.196",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://nl68-firmware.s3.amazonaws.com/3.6.196_r8.matter",
+  "otaFileSize": "742116",
+  "otaChecksum": "LnX3jwdP3JitgbBP8UmYOTwgZg6tOa6Wk2Ylhy8feOU=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 198317,
+  "maxApplicableSoftwareVersion": 198340,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1sggrrmw05e6alve8umwdaszade5qxyt53kthud"
+}

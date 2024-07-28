@@ -1,0 +1,35 @@
+{
+  "vid": 5009,
+  "products": [
+    {
+      "pid": 257,
+      "name": "Kasa Smart Wifi Plug, Energy Monitoring",
+      "partNumber": "KP125M"
+    },
+    {
+      "pid": 513,
+      "name": "Kasa Smart Wi-Fi Light Switch",
+      "partNumber": "KS205"
+    },
+    {
+      "pid": 514,
+      "name": "Kasa Smart Wi-Fi Dimmer Switch",
+      "partNumber": "KS225"
+    },
+    {
+      "pid": 258,
+      "name": "Kasa Smart Outdoor Plug",
+      "partNumber": "EP40M"
+    },
+    {
+      "pid": 515,
+      "name": "Smart Wi-Fi Dimmer Fan",
+      "partNumber": "KS240"
+    },
+    {
+      "pid": 1025,
+      "name": "Kasa Smart IoT Hub",
+      "partNumber": "KH100"
+    }
+  ]
+}

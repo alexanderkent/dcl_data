@@ -1,0 +1,620 @@
+{
+  "vid": 4999,
+  "products": [
+    {
+      "pid": 25057,
+      "name": "Govee LED Strip Light M1(5m/16.4ft)",
+      "partNumber": "H61E1"
+    },
+    {
+      "pid": 25056,
+      "name": "Govee LED Strip Light M1(2m/6.56ft)",
+      "partNumber": "H61E0"
+    },
+    {
+      "pid": 25043,
+      "name": "Govee Neon Light",
+      "partNumber": "H61D3"
+    },
+    {
+      "pid": 25045,
+      "name": "Govee Neon Rope Light 2",
+      "partNumber": "H61D5"
+    },
+    {
+      "pid": 24940,
+      "name": "Govee Outdoor Strip Light 2",
+      "partNumber": "H616C"
+    },
+    {
+      "pid": 24941,
+      "name": "Govee Outdoor Strip Light 2",
+      "partNumber": "H616D"
+    },
+    {
+      "pid": 24942,
+      "name": "Govee Outdoor Strip Light 2",
+      "partNumber": "H616E"
+    },
+    {
+      "pid": 25047,
+      "name": "Govee Neon Rope Light 2",
+      "partNumber": "H61D7"
+    },
+    {
+      "pid": 25046,
+      "name": "Govee Neon Rope Light 2",
+      "partNumber": "H61D6"
+    },
+    {
+      "pid": 25044,
+      "name": "Govee Neon Rope Light 2",
+      "partNumber": "H61D4"
+    },
+    {
+      "pid": 25042,
+      "name": "Govee Neon Rope Light 2",
+      "partNumber": "H61D2"
+    },
+    {
+      "pid": 28778,
+      "name": "Govee RGBWWIC Permanent Outdoor Lights Pro",
+      "partNumber": "H706A"
+    },
+    {
+      "pid": 28779,
+      "name": "Govee RGBWWIC Permanent Outdoor Lights Pro",
+      "partNumber": "H706B"
+    },
+    {
+      "pid": 28780,
+      "name": "Govee RGBWWIC Permanent Outdoor Lights Pro",
+      "partNumber": "H706C"
+    },
+    {
+      "pid": 25009,
+      "name": "Govee LED Strip Light",
+      "partNumber": "H61B1"
+    },
+    {
+      "pid": 25061,
+      "name": "Govee LED Strip Light",
+      "partNumber": "H61E5"
+    },
+    {
+      "pid": 28723,
+      "name": "Govee String Light",
+      "partNumber": "H7033"
+    },
+    {
+      "pid": 28724,
+      "name": "Govee String Light",
+      "partNumber": "H7034"
+    },
+    {
+      "pid": 24714,
+      "name": "Govee Wall Light",
+      "partNumber": "H608A"
+    },
+    {
+      "pid": 24730,
+      "name": "Govee Wall Light",
+      "partNumber": "H609A"
+    },
+    {
+      "pid": 24712,
+      "name": "Wall Sconces",
+      "partNumber": "H6088"
+    },
+    {
+      "pid": 24713,
+      "name": "Wall Sconces",
+      "partNumber": "H6089"
+    },
+    {
+      "pid": 26121,
+      "name": "Govee Gaming Light",
+      "partNumber": "H6609"
+    },
+    {
+      "pid": 26120,
+      "name": "Govee Gaming Light",
+      "partNumber": "H6608"
+    },
+    {
+      "pid": 25027,
+      "name": "Govee Neon Light",
+      "partNumber": "H61C3"
+    },
+    {
+      "pid": 25029,
+      "name": "Govee Neon Light",
+      "partNumber": "H61C5"
+    },
+    {
+      "pid": 25028,
+      "name": "Govee Neon Light",
+      "partNumber": "H61C4"
+    },
+    {
+      "pid": 25026,
+      "name": "Govee Neon Light",
+      "partNumber": "H61C2"
+    },
+    {
+      "pid": 24876,
+      "name": "Govee Strip Light S",
+      "partNumber": "H612C"
+    },
+    {
+      "pid": 20613,
+      "name": "Smart Plug Pro",
+      "partNumber": "H5085"
+    },
+    {
+      "pid": 28972,
+      "name": "Smart Air Purifier 2",
+      "partNumber": "H712C"
+    },
+    {
+      "pid": 24717,
+      "name": "Govee String Downlights",
+      "partNumber": "H608D"
+    },
+    {
+      "pid": 24729,
+      "name": "Govee TV Backlight 3 Lite",
+      "partNumber": "H6099"
+    },
+    {
+      "pid": 24682,
+      "name": "Govee Glide Hexagon Light Panels Ultra",
+      "partNumber": "H606A"
+    },
+    {
+      "pid": 24715,
+      "name": "Govee String Downlights",
+      "partNumber": "H608B"
+    },
+    {
+      "pid": 24728,
+      "name": "Govee Smart TV Backlight 3S",
+      "partNumber": "H6098"
+    },
+    {
+      "pid": 28789,
+      "name": "Govee Outdoor Wall Light",
+      "partNumber": "H7075"
+    },
+    {
+      "pid": 24716,
+      "name": "Govee String Downlights",
+      "partNumber": "H608C"
+    },
+    {
+      "pid": 24700,
+      "name": "Govee Floor Lamp",
+      "partNumber": "H607C"
+    },
+    {
+      "pid": 24678,
+      "name": "Govee Glide Hexagon Light Panels Ultra",
+      "partNumber": "H6066"
+    },
+    {
+      "pid": 28792,
+      "name": "Govee Outdoor Wall Light",
+      "partNumber": "H7078"
+    },
+    {
+      "pid": 24878,
+      "name": "Govee Strip Light S",
+      "partNumber": "H612E"
+    },
+    {
+      "pid": 24874,
+      "name": "Govee Strip Light S",
+      "partNumber": "H612A"
+    },
+    {
+      "pid": 24875,
+      "name": "Govee Strip Light S",
+      "partNumber": "H612B"
+    },
+    {
+      "pid": 24877,
+      "name": "Govee Strip Light S",
+      "partNumber": "H612D"
+    },
+    {
+      "pid": 24879,
+      "name": "Govee Strip Light S",
+      "partNumber": "H612F"
+    },
+    {
+      "pid": 24701,
+      "name": "Govee Floor Lamp",
+      "partNumber": "H607D"
+    },
+    {
+      "pid": 24675,
+      "name": "Govee Glide Wall Light",
+      "partNumber": "H6063"
+    },
+    {
+      "pid": 24674,
+      "name": "Govee Glide Wall Light",
+      "partNumber": "H6062"
+    },
+    {
+      "pid": 26177,
+      "name": "Govee Neon Light for skirting",
+      "partNumber": "H6641"
+    },
+    {
+      "pid": 26176,
+      "name": "Govee Neon Light for skirting",
+      "partNumber": "H6640"
+    },
+    {
+      "pid": 28853,
+      "name": "Govee Cutain Lights",
+      "partNumber": "H70B5"
+    },
+    {
+      "pid": 28852,
+      "name": "Govee Cutain Lights",
+      "partNumber": "H70B4"
+    },
+    {
+      "pid": 28933,
+      "name": "Smart Tower Fan 2 Max (42 Inch)",
+      "partNumber": "H7105"
+    },
+    {
+      "pid": 28983,
+      "name": "Smart Space Heater 2 Lite (11 Inch)",
+      "partNumber": "H7137"
+    },
+    {
+      "pid": 28966,
+      "name": "Smart Mini Air Purifier",
+      "partNumber": "H7126"
+    },
+    {
+      "pid": 28931,
+      "name": "Smart Mini Tower Fan",
+      "partNumber": "H7103"
+    },
+    {
+      "pid": 28946,
+      "name": "Smart Air Circulator Fan 2 (9 lnch)",
+      "partNumber": "H7112"
+    },
+    {
+      "pid": 29000,
+      "name": "Smart Humidifier 2 Lite (4.5L)",
+      "partNumber": "H7148"
+    },
+    {
+      "pid": 28969,
+      "name": "Smart Air Purifier 2 Pro (Sensor)",
+      "partNumber": "H7129"
+    },
+    {
+      "pid": 28967,
+      "name": "Smart Mini Air Purifier",
+      "partNumber": "H7127"
+    },
+    {
+      "pid": 28968,
+      "name": "Smart Air Purifier 2 Pro",
+      "partNumber": "H7128"
+    },
+    {
+      "pid": 29006,
+      "name": "Smart Humidifier Lite",
+      "partNumber": "H714E"
+    },
+    {
+      "pid": 28992,
+      "name": "Smart Humidifier Lite",
+      "partNumber": "H7140"
+    },
+    {
+      "pid": 28999,
+      "name": "Smart Mini Humidifier (baby)",
+      "partNumber": "H7147"
+    },
+    {
+      "pid": 29001,
+      "name": "Smart Humidifier 2 Lite (6L)",
+      "partNumber": "H7149"
+    },
+    {
+      "pid": 28964,
+      "name": "Smart Air Purifier 2 (Sensor)",
+      "partNumber": "H7124"
+    },
+    {
+      "pid": 29053,
+      "name": "Smart Countertop Ice Maker",
+      "partNumber": "H717D"
+    },
+    {
+      "pid": 28869,
+      "name": "Govee string lights",
+      "partNumber": "H70C5"
+    },
+    {
+      "pid": 28868,
+      "name": "Govee string lights",
+      "partNumber": "H70C4"
+    },
+    {
+      "pid": 28771,
+      "name": "Govee Outdoor Flood Light",
+      "partNumber": "H7063"
+    },
+    {
+      "pid": 32860,
+      "name": "Govee Permanent Outdoor Lights Elite",
+      "partNumber": "H805C"
+    },
+    {
+      "pid": 32859,
+      "name": "Govee Permanent Outdoor Lights Elite",
+      "partNumber": "H805B"
+    },
+    {
+      "pid": 32858,
+      "name": "Govee Permanent Outdoor Lights Elite",
+      "partNumber": "H805A"
+    },
+    {
+      "pid": 28765,
+      "name": "Govee Permanent Outdoor Lights 2",
+      "partNumber": "H705D"
+    },
+    {
+      "pid": 28766,
+      "name": "Govee Permanent Outdoor Lights 2",
+      "partNumber": "H705E"
+    },
+    {
+      "pid": 28767,
+      "name": "Govee Permanent Outdoor Lights 2",
+      "partNumber": "H705F"
+    },
+    {
+      "pid": 28777,
+      "name": "Govee Outdoor Deck Lights",
+      "partNumber": "H7069"
+    },
+    {
+      "pid": 28776,
+      "name": "Govee Outdoor Deck Lights",
+      "partNumber": "H7068"
+    },
+    {
+      "pid": 28775,
+      "name": "Govee Outdoor Deck Lights",
+      "partNumber": "H7067"
+    },
+    {
+      "pid": 28851,
+      "name": "Govee Cutain Lights",
+      "partNumber": "H70B3"
+    },
+    {
+      "pid": 32906,
+      "name": "Govee String Downlights",
+      "partNumber": "H808A"
+    },
+    {
+      "pid": 24610,
+      "name": "Govee Table Lamp 2",
+      "partNumber": "H6022"
+    },
+    {
+      "pid": 25078,
+      "name": "Govee Strip Light 2 Pro",
+      "partNumber": "H61F6"
+    },
+    {
+      "pid": 25077,
+      "name": "Govee Strip Light 2 Pro",
+      "partNumber": "H61F5"
+    },
+    {
+      "pid": 28873,
+      "name": "Govee string lights",
+      "partNumber": "H70C9"
+    },
+    {
+      "pid": 28872,
+      "name": "Govee string lights",
+      "partNumber": "H70C8"
+    },
+    {
+      "pid": 28871,
+      "name": "Govee string lights",
+      "partNumber": "H70C7"
+    },
+    {
+      "pid": 28870,
+      "name": "Govee string lights",
+      "partNumber": "H70C6"
+    },
+    {
+      "pid": 25062,
+      "name": "Govee COB Strip Lignt Pro",
+      "partNumber": "H61E6"
+    },
+    {
+      "pid": 28883,
+      "name": "Govee Icicle Lights",
+      "partNumber": "H70D3"
+    },
+    {
+      "pid": 28882,
+      "name": "Govee Icicle Lights",
+      "partNumber": "H70D2"
+    },
+    {
+      "pid": 28881,
+      "name": "Govee Icicle Lights",
+      "partNumber": "H70D1"
+    },
+    {
+      "pid": 24643,
+      "name": "Govee TV Light Bars 2",
+      "partNumber": "H6043"
+    },
+    {
+      "pid": 24642,
+      "name": "Govee TV Light Bars 2",
+      "partNumber": "H6042"
+    },
+    {
+      "pid": 26641,
+      "name": "Govee Net lights",
+      "partNumber": "H6811"
+    },
+    {
+      "pid": 26640,
+      "name": "Govee Net lights",
+      "partNumber": "H6810"
+    },
+    {
+      "pid": 28835,
+      "name": "Govee Outdoor Strip Light Pro",
+      "partNumber": "H70A3"
+    },
+    {
+      "pid": 28834,
+      "name": "Govee Outdoor Strip Light Pro",
+      "partNumber": "H70A2"
+    },
+    {
+      "pid": 28833,
+      "name": "Govee Outdoor Strip Light Pro",
+      "partNumber": "H70A1"
+    },
+    {
+      "pid": 32964,
+      "name": "Govee string lights",
+      "partNumber": "H80C4"
+    },
+    {
+      "pid": 25001,
+      "name": "Govee Outdoor Neon Rope Light",
+      "partNumber": "H61A9"
+    },
+    {
+      "pid": 26657,
+      "name": "Govee Meteor shower Lights",
+      "partNumber": "H6821"
+    },
+    {
+      "pid": 32802,
+      "name": "Govee Table Lamp 2",
+      "partNumber": "H8022"
+    },
+    {
+      "pid": 26688,
+      "name": "Govee Cone Lights",
+      "partNumber": "H6840"
+    },
+    {
+      "pid": 26656,
+      "name": "Govee Meteor shower Lights",
+      "partNumber": "H6820"
+    },
+    {
+      "pid": 25074,
+      "name": "Govee Strip Light 2 Pro",
+      "partNumber": "H61F2"
+    },
+    {
+      "pid": 24633,
+      "name": "Govee Wall Sconce",
+      "partNumber": "H6039"
+    },
+    {
+      "pid": 28760,
+      "name": "Govee Outdoor Flood Light 2",
+      "partNumber": "H7058"
+    },
+    {
+      "pid": 28759,
+      "name": "Govee Outdoor Flood Light 2",
+      "partNumber": "H7057"
+    },
+    {
+      "pid": 26624,
+      "name": "Govee Christmas Tree Lights",
+      "partNumber": "H6800"
+    },
+    {
+      "pid": 32977,
+      "name": "Govee Icicle Lights",
+      "partNumber": "H80D1"
+    },
+    {
+      "pid": 28730,
+      "name": "Govee Outdoor Frame Dots Lights",
+      "partNumber": "H703A"
+    },
+    {
+      "pid": 28731,
+      "name": "Govee Outdoor Frame Dots Lights",
+      "partNumber": "H703B"
+    },
+    {
+      "pid": 24593,
+      "name": "Govee Smart LED Bulb",
+      "partNumber": "H6011"
+    },
+    {
+      "pid": 24727,
+      "name": "Govee TV Backlight 3 Lite",
+      "partNumber": "H6097"
+    },
+    {
+      "pid": 24723,
+      "name": "Govee Star Light Projector",
+      "partNumber": "H6093"
+    },
+    {
+      "pid": 24666,
+      "name": "Govee TV Backlight 3 Lite Kit with Strip Light and Light Bars",
+      "partNumber": "H605A"
+    },
+    {
+      "pid": 24737,
+      "name": "Govee Ceiling Light",
+      "partNumber": "H60A1"
+    },
+    {
+      "pid": 26642,
+      "name": "Govee Net lights",
+      "partNumber": "H6812"
+    },
+    {
+      "pid": 28784,
+      "name": "Govee Outdoor Laser Lights",
+      "partNumber": "H7070"
+    },
+    {
+      "pid": 26115,
+      "name": "Govee AI Sync Box Kit 2",
+      "partNumber": "H6603"
+    },
+    {
+      "pid": 32892,
+      "name": "Govee Corner Floor Lamp 2",
+      "partNumber": "H807C"
+    }
+  ]
+}

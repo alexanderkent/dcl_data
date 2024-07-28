@@ -1,0 +1,35 @@
+{
+  "vid": 4488,
+  "products": [
+    {
+      "pid": 257,
+      "name": "Tapo Mini Plug",
+      "partNumber": "P125M"
+    },
+    {
+      "pid": 513,
+      "name": "Tapo Smart Wi-Fi Light Switch",
+      "partNumber": "S505"
+    },
+    {
+      "pid": 514,
+      "name": "Tapo Smart Wi-Fi Dimmer Switch",
+      "partNumber": "S505D"
+    },
+    {
+      "pid": 260,
+      "name": "Tapo Smart Wi-Fi Lamp Dimmer Kit",
+      "partNumber": "P135"
+    },
+    {
+      "pid": 258,
+      "name": "Tapo Smart Wi-Fi Power Strip",
+      "partNumber": "P300"
+    },
+    {
+      "pid": 259,
+      "name": "Tapo Smart Outdoor Plug",
+      "partNumber": "P400M"
+    }
+  ]
+}

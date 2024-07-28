@@ -1,0 +1,17 @@
+{
+  "vid": 5273,
+  "pid": 32773,
+  "softwareVersion": 10000,
+  "softwareVersionString": "CISF-SL24-V1.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 100000,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1krps7m6xtj0whqura6dkzh8fezdf5marpj2fkr"
+}

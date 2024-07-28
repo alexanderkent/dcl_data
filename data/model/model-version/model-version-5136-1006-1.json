@@ -1,0 +1,17 @@
+{
+  "vid": 5136,
+  "pid": 1006,
+  "softwareVersion": 1,
+  "softwareVersionString": "V1.0.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://iot-oss.quectelcn.com/paas2/8289/1149357898179039232/OTA/oem_quec_bk7231n_matter_light_test-ota_1_1_ota.bin",
+  "otaFileSize": "691888",
+  "otaChecksum": "259d31b4abb1ea08098895e3537dca0baa283bba22142c0680015eb583c1e79d",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 9999,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1dqrg6w2jjs7sft59dpqngjzyfdjh4xjn5rjct5"
+}

@@ -1,0 +1,20 @@
+{
+  "vid": 5407,
+  "products": [
+    {
+      "pid": 1610,
+      "name": "Apporo Smart Switch",
+      "partNumber": "ASMW-001"
+    },
+    {
+      "pid": 1700,
+      "name": "Apporo Smart Switch",
+      "partNumber": "ASMW-002"
+    },
+    {
+      "pid": 1701,
+      "name": "Apporo Smart Switch",
+      "partNumber": "ASMW-003"
+    }
+  ]
+}

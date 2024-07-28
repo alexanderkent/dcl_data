@@ -1,0 +1,17 @@
+{
+  "vid": 5163,
+  "pid": 2,
+  "softwareVersion": 8,
+  "softwareVersionString": "8.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://d4owc89rbj03p.cloudfront.net/ota/L730/l730-sensor-ota-v8.bin",
+  "otaFileSize": "1577038",
+  "otaChecksum": "hL5Hq4ZxSACEub0iqQFhIIL7DWipjMItBQp3hq0+O/Q=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 7,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1xfnupkyac4cxnsgtwcme6v7mhh7wgydd8qs47u"
+}

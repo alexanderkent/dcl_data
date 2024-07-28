@@ -1,0 +1,17 @@
+{
+  "vid": 4977,
+  "pid": 516,
+  "softwareVersion": 23,
+  "softwareVersionString": "1.2.1+1",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://resources.tridonic.com/assets/matter/fota/1.2.1+1/tri-wrp-nrf52840_wrp_driver-28004489-db96de51-matter-prod.ota",
+  "otaFileSize": "779566",
+  "otaChecksum": "ZGqgLOYTPCW2P4wRco0pJp5zTixBHnRtQUfWi1G7rp8=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 21,
+  "maxApplicableSoftwareVersion": 22,
+  "releaseNotesUrl": "https://resources.tridonic.com/assets/matter/fota/changelog/Changelog.html",
+  "creator": "cosmos16ad3em3nrqzf854p03audmgdl3pc384467yzav"
+}

@@ -1,0 +1,15 @@
+{
+  "vid": 4125,
+  "products": [
+    {
+      "pid": 1,
+      "name": "Yale Assure Matter Module",
+      "partNumber": "Ayr-mod-mt1-usa"
+    },
+    {
+      "pid": 32774,
+      "name": "Spider GDO",
+      "partNumber": "123456789ABCDE6"
+    }
+  ]
+}

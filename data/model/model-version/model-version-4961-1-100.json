@@ -1,0 +1,17 @@
+{
+  "vid": 4961,
+  "pid": 1,
+  "softwareVersion": 100,
+  "softwareVersionString": "1.0.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://files.inovelli.com/firmware/VTM31-SN/Production/1.0.0/VTM31-SN_V100.ota",
+  "otaFileSize": "487716",
+  "otaChecksum": "CpN0DQhXD9y6FZ5UDP99VrEvo1R3l6TKrjRmItalzYE=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 1,
+  "maxApplicableSoftwareVersion": 65535,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1d4hu84klpq60g483np70za283tl4j57qsu8sau"
+}

@@ -1,0 +1,2250 @@
+{
+  "vid": 4107,
+  "products": [
+    {
+      "pid": 8580,
+      "name": "WiZ P45.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 2,
+      "name": "BSB002",
+      "partNumber": "046677458478"
+    },
+    {
+      "pid": 8457,
+      "name": "WiZ A67.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8542,
+      "name": "WiZ Candle",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8538,
+      "name": "WiZ A.B22 Warm White",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8733,
+      "name": "WiZ G95 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8206,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8599,
+      "name": "WiZ G95 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8600,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8604,
+      "name": "WiZ G25 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8605,
+      "name": "WiZ ST19 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8610,
+      "name": "WiZ A.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8609,
+      "name": "WiZ G95.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8207,
+      "name": "WiZ A.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8611,
+      "name": "WiZ A.B22",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8612,
+      "name": "WiZ A.B22",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8608,
+      "name": "WiZ G95.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8613,
+      "name": "WiZ A.E26",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8614,
+      "name": "WiZ G95.E26",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8601,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8602,
+      "name": "WiZ G95 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8603,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8606,
+      "name": "WiZ G25 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8607,
+      "name": "WiZ ST19 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8643,
+      "name": "WiZ ELPAS Bollard",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8644,
+      "name": "WiZ ELPAS Bollard",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8452,
+      "name": "WiZ GU10",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8475,
+      "name": "WiZ GU10",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8453,
+      "name": "WiZ Candle",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8476,
+      "name": "WiZ Candle",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8548,
+      "name": "WiZ A67.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8477,
+      "name": "WiZ A.B22",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8537,
+      "name": "WiZ A.E27 Warm White",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8478,
+      "name": "WiZ G95.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8535,
+      "name": "WiZ GU10 Warm White",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8536,
+      "name": "WiZ Candle Warm White",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8584,
+      "name": "WiZ P45.E14",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8581,
+      "name": "WiZ P45.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8722,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8723,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8724,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8725,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8726,
+      "name": "WiZ Candle Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8727,
+      "name": "WiZ Candle Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8728,
+      "name": "WiZ G125 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8729,
+      "name": "WiZ G125 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8730,
+      "name": "WiZ G200 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8731,
+      "name": "WiZ G200 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8732,
+      "name": "WiZ G95 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8734,
+      "name": "WiZ PS160 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8735,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8736,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8721,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8737,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8195,
+      "name": "WiZ LED Strip",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8451,
+      "name": "WiZ A.B22",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8521,
+      "name": "WiZ A.E27 Warm White",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8455,
+      "name": "WiZ G95.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8519,
+      "name": "WiZ GU10 Warm White",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8520,
+      "name": "WiZ Candle Warm White",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8583,
+      "name": "WiZ P45.E14",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8582,
+      "name": "WiZ A80.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8638,
+      "name": "WiZ String Lights",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8639,
+      "name": "WiZ String Lights",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8201,
+      "name": "WiZ LED Strip",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8203,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8738,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8739,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8740,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8741,
+      "name": "WiZ Candle Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8742,
+      "name": "WiZ Candle Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8743,
+      "name": "WiZ G125 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8744,
+      "name": "WiZ G125 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8745,
+      "name": "WiZ G200 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8746,
+      "name": "WiZ G200 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8747,
+      "name": "WiZ G95 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8748,
+      "name": "WiZ G95 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8749,
+      "name": "WiZ PS160 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8750,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8751,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8720,
+      "name": "WiZ A60 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8752,
+      "name": "WiZ ST64 Filament\t",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8209,
+      "name": "WiZ ELPAS Wall",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8210,
+      "name": "WiZ Outdoor Ground Spot",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8628,
+      "name": "WiZ Ceiling",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8629,
+      "name": "WiZ Ceiling",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8636,
+      "name": "WiZ Multi-color Neon Flex Strip",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8627,
+      "name": "WiZ Downlight",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8637,
+      "name": "WiZ Multi-color Neon Flex Strip",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8632,
+      "name": "WiZ Spot Light",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8597,
+      "name": "WiZ Spot Light",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8598,
+      "name": "WiZ Spot Light",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8796,
+      "name": "WiZ Downlight",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8551,
+      "name": "WiZ A67.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8571,
+      "name": "WiZ GU10",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8193,
+      "name": "WiZ A.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8454,
+      "name": "WiZ A67.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8456,
+      "name": "WiZ A.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8546,
+      "name": "WiZ GU10",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8547,
+      "name": "WiZ Candle",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8522,
+      "name": "WiZ A.B22 Warm White",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8579,
+      "name": "WiZ A80.E27",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8543,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8552,
+      "name": "WiZ A19",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8215,
+      "name": "WiZ Portrait",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8196,
+      "name": "WiZ Downlight",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8622,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8616,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8202,
+      "name": "WiZ A19 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8653,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8213,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8198,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8768,
+      "name": "WiZ Mobile",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8199,
+      "name": "WiZ Linear",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8662,
+      "name": "WiZ A19 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8510,
+      "name": "WiZ LED Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8754,
+      "name": "WiZ Hero",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8200,
+      "name": "WiZ Hero",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8757,
+      "name": "WiZ Squire",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8758,
+      "name": "WiZ Squire",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8788,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8787,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8790,
+      "name": "WiZ Linear",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8615,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8780,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8782,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8772,
+      "name": "WiZ Mobile",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8773,
+      "name": "WiZ Mobile",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8640,
+      "name": "WiZ String Lights",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8786,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8633,
+      "name": "WiZ LED Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8764,
+      "name": "WiZ Pole",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8771,
+      "name": "WiZ Pole",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8765,
+      "name": "WiZ Pole",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8792,
+      "name": "WiZ ELPAS Wall",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8642,
+      "name": "WiZ Outdoor Ground Spot",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8753,
+      "name": "WiZ Hero",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8214,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8540,
+      "name": "WiZ A60.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8654,
+      "name": "WiZ GU10",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8655,
+      "name": "WiZ Candle",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8712,
+      "name": "WiZ G16.5 Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8711,
+      "name": "WiZ Candle Filament",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8511,
+      "name": "WiZ LED Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8813,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8815,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8479,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8713,
+      "name": "WiZ A19 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8714,
+      "name": "WiZ ST19 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8762,
+      "name": "WiZ Dual Zone",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8761,
+      "name": "WiZ Hero",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8480,
+      "name": "WiZ A60",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8585,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8800,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8617,
+      "name": "WiZ Modular Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8618,
+      "name": "WiZ Modular Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8774,
+      "name": "WiZ Mobile",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8635,
+      "name": "WiZ LED Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8514,
+      "name": "WiZ LED Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8816,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8499,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8678,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8680,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8689,
+      "name": "WiZ G95 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8691,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8549,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8756,
+      "name": "WiZ Squire",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8763,
+      "name": "WiZ Squire",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8506,
+      "name": "WiZ Ceiling Light",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8515,
+      "name": "WiZ LED Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8576,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8791,
+      "name": "WiZ Linear",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8205,
+      "name": "WiZ Modular Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8766,
+      "name": "WiZ Pole",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8769,
+      "name": "WiZ Mobile",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8482,
+      "name": "WiZ A67.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8586,
+      "name": "WiZ A67.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8577,
+      "name": "WiZ A60.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8481,
+      "name": "WiZ A60.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8539,
+      "name": "WiZ A60.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8641,
+      "name": "WiZ String Lights",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8507,
+      "name": "WiZ Ceiling Light",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8781,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8789,
+      "name": "WiZ Linear",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8803,
+      "name": "WiZ A21.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8804,
+      "name": "WiZ A21.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8807,
+      "name": "WiZ A21.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8808,
+      "name": "WiZ A21.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8801,
+      "name": "WiZ Outdoor LED Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8802,
+      "name": "WiZ Outdoor LED Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8805,
+      "name": "WiZ A67.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8806,
+      "name": "WiZ A67.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8664,
+      "name": "WiZ ST19 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8666,
+      "name": "WiZ G25 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8818,
+      "name": "WiZ Linear",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8463,
+      "name": "WiZ A21",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8558,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8675,
+      "name": "WiZ G16.5 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8673,
+      "name": "WiZ Candle Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8665,
+      "name": "WiZ G25 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8648,
+      "name": "WiZ R20",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8650,
+      "name": "WiZ BR40",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8212,
+      "name": "WiZ PAR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8527,
+      "name": "WiZ A21 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8528,
+      "name": "WiZ A21 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8448,
+      "name": "WiZ A21",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8554,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8460,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8555,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8592,
+      "name": "WiZ PAR38",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8663,
+      "name": "WiZ ST19 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8667,
+      "name": "WiZ A15 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8669,
+      "name": "WiZ Candle Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8578,
+      "name": "WiZ A23",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8670,
+      "name": "WiZ Candle Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8672,
+      "name": "WiZ Candle Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8674,
+      "name": "WiZ Candle Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8529,
+      "name": "WiZ A21 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8530,
+      "name": "WiZ A21 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8557,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8591,
+      "name": "WiZ PAR38",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8574,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 3,
+      "name": "Philips Hue Bridge Test",
+      "partNumber": "046677458478"
+    },
+    {
+      "pid": 4,
+      "name": "Philips Hue Bridge Test 2",
+      "partNumber": "046677458478"
+    },
+    {
+      "pid": 8809,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8811,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8810,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8812,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8509,
+      "name": "WiZ LED Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8505,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8496,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8492,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8794,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8458,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8553,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8459,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8523,
+      "name": "WiZ A19 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8524,
+      "name": "WiZ A19 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8525,
+      "name": "WiZ BR30 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8526,
+      "name": "WiZ BR30 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8594,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8550,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8572,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8573,
+      "name": "WiZ G.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8556,
+      "name": "WiZ A21",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8483,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8595,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8695,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8696,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8697,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8698,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8699,
+      "name": "WiZ Candle Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8700,
+      "name": "WiZ Candle Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8701,
+      "name": "WiZ G125 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8702,
+      "name": "WiZ G125 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8703,
+      "name": "WiZ G200 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8704,
+      "name": "WiZ G200 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8705,
+      "name": "WiZ G95 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8706,
+      "name": "WiZ G95 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8707,
+      "name": "WiZ PS160 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8708,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8709,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8694,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8710,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8656,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8645,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8575,
+      "name": "WiZ A60",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8589,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8587,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8494,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8495,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8497,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8491,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8647,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8657,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8646,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8658,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8814,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8649,
+      "name": "WiZ R20",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8651,
+      "name": "WiZ BR40",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8668,
+      "name": "WiZ A15 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8671,
+      "name": "WiZ G16.5 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8676,
+      "name": "WiZ G16.5 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8679,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8681,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8682,
+      "name": "WiZ Candle Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8683,
+      "name": "WiZ Candle Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8684,
+      "name": "WiZ G125 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8685,
+      "name": "WiZ G125 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8686,
+      "name": "WiZ G200 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8687,
+      "name": "WiZ G200 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8688,
+      "name": "WiZ G95 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8677,
+      "name": "WiZ PS160 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8690,
+      "name": "WiZ PS160 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8692,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8661,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8693,
+      "name": "WiZ ST64 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8652,
+      "name": "WiZ PAR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8776,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8777,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8778,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8779,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8793,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8795,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8192,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8449,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8541,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8450,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8516,
+      "name": "WiZ A19 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8194,
+      "name": "WiZ A19 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8517,
+      "name": "WiZ BR30 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8518,
+      "name": "WiZ BR30 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8544,
+      "name": "WiZ A.B22",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8545,
+      "name": "WiZ G.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8559,
+      "name": "WiZ A21",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8532,
+      "name": "WiZ GU10 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8534,
+      "name": "WiZ GU10 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8461,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8533,
+      "name": "WiZ Candle Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8531,
+      "name": "WiZ Candle Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8462,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8760,
+      "name": "WiZ Hero",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8503,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8204,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8596,
+      "name": "WiZ A23",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8619,
+      "name": "WiZ Modular Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8620,
+      "name": "WiZ Modular Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8621,
+      "name": "WiZ Modular Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8588,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8590,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8829,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8830,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8216,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8820,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8819,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8821,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8217,
+      "name": "WiZ A19 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8823,
+      "name": "WiZ A19 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8825,
+      "name": "WiZ BR30 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8827,
+      "name": "WiZ BR30 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8822,
+      "name": "WiZ A19 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8824,
+      "name": "WiZ A19 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8826,
+      "name": "WiZ BR30 Warm White",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8828,
+      "name": "WiZ BR30 Daylight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8831,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8832,
+      "name": "WiZ Downlight",
+      "partNumber": " - "
+    },
+    {
+      "pid": 8833,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8834,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8835,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8836,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8837,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8838,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8839,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8840,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8841,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8842,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8843,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8844,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8845,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8846,
+      "name": "WiZ Wall Light Classic",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8847,
+      "name": "WiZ Wall Light Classic",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8197,
+      "name": "WiZ Smart Plug",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8484,
+      "name": "WiZ Smart Plug",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8485,
+      "name": "WiZ Smart Plug",
+      "partNumber": " -"
+    },
+    {
+      "pid": 8486,
+      "name": "WiZ Smart Plug",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8848,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8849,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8853,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8854,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8855,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8856,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8878,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8879,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8880,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8881,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8882,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8883,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8884,
+      "name": "WiZ A.B22",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8885,
+      "name": "WiZ G95.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8886,
+      "name": "WiZ G95.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8887,
+      "name": "WiZ A.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8888,
+      "name": "WiZ G95.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8893,
+      "name": "WiZ A.B22",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8891,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8892,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8858,
+      "name": "WiZ Smart Plug",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8864,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8865,
+      "name": "WiZ Candle",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8866,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8867,
+      "name": "WiZ A19",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8868,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8869,
+      "name": "WiZ BR30",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8870,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8871,
+      "name": "WiZ A.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8872,
+      "name": "WiZ A.B22",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8873,
+      "name": "WiZ A.B22",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8874,
+      "name": "WiZ G95.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8875,
+      "name": "WiZ G95.E27",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8876,
+      "name": "WiZ A.E26",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8877,
+      "name": "WiZ G95.E26",
+      "partNumber": "-"
+    },
+    {
+      "pid": 8894,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8895,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8896,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8897,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8898,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8899,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8900,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8901,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8902,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8903,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8904,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8905,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8906,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8889,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8890,
+      "name": "WiZ GU10",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8860,
+      "name": "WiZ Fairy Light",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8862,
+      "name": "WiZ Fairy Light",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8863,
+      "name": "WiZ Fairy Light",
+      "partNumber": "- "
+    },
+    {
+      "pid": 24578,
+      "name": "HALO Motion Flood (ESF)",
+      "partNumber": "- "
+    },
+    {
+      "pid": 24576,
+      "name": "HALO Flood (ESF)",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8907,
+      "name": "WiZ Neon Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8908,
+      "name": "WiZ Neon Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8909,
+      "name": "WiZ Neon Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8910,
+      "name": "WiZ Neon Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8911,
+      "name": "WiZ Neon Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8912,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8914,
+      "name": "WiZ Ceiling",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8919,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8920,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8921,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8922,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8923,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8924,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8925,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8926,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8927,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8928,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8929,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8930,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8931,
+      "name": "WiZ Color Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8932,
+      "name": "Multi-color Neon Flex Strip",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8916,
+      "name": "WiZ Downlight",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8917,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8918,
+      "name": "WiZ A60 Filament",
+      "partNumber": "- "
+    },
+    {
+      "pid": 8933,
+      "name": "WiZ Smart Plug",
+      "partNumber": "- "
+    },
+    {
+      "pid": 24584,
+      "name": "HALO Downlight (RLDM)",
+      "partNumber": "- "
+    },
+    {
+      "pid": 24585,
+      "name": "HALO Downlight (RLDM)",
+      "partNumber": "- "
+    },
+    {
+      "pid": 24586,
+      "name": "HALO Adjustable (RADM)",
+      "partNumber": "- "
+    },
+    {
+      "pid": 24587,
+      "name": "HALO Adjustable (RADM)",
+      "partNumber": "- "
+    }
+  ]
+}

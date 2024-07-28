@@ -1,0 +1,17 @@
+{
+  "vid": 4874,
+  "pid": 84,
+  "softwareVersion": 6650,
+  "softwareVersionString": "3.2.1",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://eve-updates.evehome.com/matter/eve_energy_uk-3.2.1-matter-benc-enc-D25C5F75-9CB1-4555-A550-302CBD750E58.bin",
+  "otaFileSize": "890914",
+  "otaChecksum": "urrTEnLN6iZQx1I5o1ONtDW1I9y91GQ9bkmGkOx9g2Y=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 6200,
+  "maxApplicableSoftwareVersion": 6649,
+  "releaseNotesUrl": "https://www.evehome.com/matter-release-notes?product=eve-energy-uk&version=3-2-1",
+  "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+}

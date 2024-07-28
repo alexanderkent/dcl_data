@@ -1,0 +1,55 @@
+{
+  "vid": 4442,
+  "products": [
+    {
+      "pid": 67,
+      "name": "Essentials A19-A60",
+      "partNumber": "NL67"
+    },
+    {
+      "pid": 68,
+      "name": "Essentials Lightstrip",
+      "partNumber": "NL68"
+    },
+    {
+      "pid": 53,
+      "name": "Essentials BR30",
+      "partNumber": "NL53"
+    },
+    {
+      "pid": 54,
+      "name": "Essentials GU10",
+      "partNumber": "NL54"
+    },
+    {
+      "pid": 65,
+      "name": "Essentials Downlight",
+      "partNumber": "NL65"
+    },
+    {
+      "pid": 1809,
+      "name": "Essentials Holiday String Lights",
+      "partNumber": "NL71K1"
+    },
+    {
+      "pid": 73,
+      "name": "Nanoleaf Outdoor Lights",
+      "partNumber": "NL73"
+    },
+    {
+      "pid": 72,
+      "name": "Nanoleaf Indoor Lights",
+      "partNumber": "NL72"
+    },
+    {
+      "pid": 71,
+      "name": "Essentials Holiday String Lights",
+      "partNumber": "NL71"
+    },
+    {
+      "pid": 75,
+      "name": "Essentials Wifi A19/A60 Bulb",
+      "partNumber": "NL75"
+    }
+  ]
+}

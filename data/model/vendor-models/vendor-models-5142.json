@@ -1,0 +1,15 @@
+{
+  "vid": 5142,
+  "products": [
+    {
+      "pid": 2817,
+      "name": "Umbra Cono Lamp",
+      "partNumber": "SQUB01"
+    },
+    {
+      "pid": 2819,
+      "name": "Umbra Cup Lamp",
+      "partNumber": "SQUB03"
+    }
+  ]
+}

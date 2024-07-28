@@ -1,0 +1,20 @@
+{
+  "vid": 5168,
+  "products": [
+    {
+      "pid": 1036,
+      "name": "Smart Bulb P3",
+      "partNumber": "Smart Bulb P3"
+    },
+    {
+      "pid": 1037,
+      "name": "Smart Bulb",
+      "partNumber": "P4"
+    },
+    {
+      "pid": 2268,
+      "name": "Nous A8M",
+      "partNumber": "A8M"
+    }
+  ]
+}

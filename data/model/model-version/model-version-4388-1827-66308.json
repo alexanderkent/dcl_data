@@ -1,0 +1,17 @@
+{
+  "vid": 4388,
+  "pid": 1827,
+  "softwareVersion": 66308,
+  "softwareVersionString": "1.3.4",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 66308,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1plq44ld0knhhffhyq8rqw7l73jr05229mj7828"
+}

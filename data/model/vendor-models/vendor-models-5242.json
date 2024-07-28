@@ -1,0 +1,15 @@
+{
+  "vid": 5242,
+  "products": [
+    {
+      "pid": 849,
+      "name": "Smart Plug",
+      "partNumber": "ET06/SP10/SP10W1/SP10W2"
+    },
+    {
+      "pid": 851,
+      "name": "Smart Plug",
+      "partNumber": "-"
+    }
+  ]
+}

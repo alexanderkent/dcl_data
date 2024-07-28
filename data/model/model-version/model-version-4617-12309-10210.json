@@ -1,0 +1,17 @@
+{
+  "vid": 4617,
+  "pid": 12309,
+  "softwareVersion": 10210,
+  "softwareVersionString": "1.02.10",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "0",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 10210,
+  "releaseNotesUrl": "https://www.bosch-smarthome.com/release-notes/",
+  "creator": "cosmos1lugc5ushxpnwkmgd6xjstqw9d52hccn4t36rvf"
+}

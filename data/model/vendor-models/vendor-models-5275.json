@@ -1,0 +1,15 @@
+{
+  "vid": 5275,
+  "products": [
+    {
+      "pid": 40961,
+      "name": "SMART LED BULB",
+      "partNumber": "A60"
+    },
+    {
+      "pid": 45057,
+      "name": "SMART FILAMENT LAMP",
+      "partNumber": "T30"
+    }
+  ]
+}

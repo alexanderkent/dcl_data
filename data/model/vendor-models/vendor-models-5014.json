@@ -1,0 +1,15 @@
+{
+  "vid": 5014,
+  "products": [
+    {
+      "pid": 1082,
+      "name": "Air Purifier",
+      "partNumber": "P200 Pro"
+    },
+    {
+      "pid": 1088,
+      "name": "Air Purifier",
+      "partNumber": "P100 Pro"
+    }
+  ]
+}

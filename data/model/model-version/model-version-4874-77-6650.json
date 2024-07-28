@@ -1,0 +1,17 @@
+{
+  "vid": 4874,
+  "pid": 77,
+  "softwareVersion": 6650,
+  "softwareVersionString": "3.2.1",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://eve-updates.evehome.com/matter/eve_door-3.2.1-matter-benc-enc-3F54862C-1F6C-427A-A650-EC2B739B4734.bin",
+  "otaFileSize": "825988",
+  "otaChecksum": "mBMigz3GQBHLo0itKvjq2ANhdIgdaXd2V20I//vp9tg=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 6200,
+  "maxApplicableSoftwareVersion": 6649,
+  "releaseNotesUrl": "https://www.evehome.com/matter-release-notes?product=eve-door-window&version=3-2-1",
+  "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+}

@@ -1,0 +1,15 @@
+{
+  "vid": 5192,
+  "products": [
+    {
+      "pid": 32770,
+      "name": "LivingStyle plug",
+      "partNumber": "0"
+    },
+    {
+      "pid": 32769,
+      "name": "LivingStyle light test",
+      "partNumber": "1"
+    }
+  ]
+}

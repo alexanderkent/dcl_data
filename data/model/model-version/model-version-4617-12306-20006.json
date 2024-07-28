@@ -1,0 +1,17 @@
+{
+  "vid": 4617,
+  "pid": 12306,
+  "softwareVersion": 20006,
+  "softwareVersionString": "2.00.06",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://prod.ota-updates.bosch-smarthome.com/v1/updates/BTH-RAD/matter_206_prod.ota",
+  "otaFileSize": "773752",
+  "otaChecksum": "x7S7YeGjnjiA30Gt4INC/B+sjv3c4YGzFS2WZCV4nqM=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 20006,
+  "releaseNotesUrl": "https://www.bosch-smarthome.com/release-notes/",
+  "creator": "cosmos1st2klatuyees0dke3mes52h3822sf4570e8hxm"
+}

@@ -1,0 +1,17 @@
+{
+  "vid": 4125,
+  "pid": 32774,
+  "softwareVersion": 4,
+  "softwareVersionString": "prerelease",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "initial",
+  "softwareVersionValid": true,
+  "otaUrl": "https://d370dsmtk49v7c.cloudfront.net/ota/matterV4.ota",
+  "otaFileSize": "874908",
+  "otaChecksum": "Eu1KcuOaApMQSUGT7d2/DmrHzRSRH8rqzbWwXQGwsqI=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 3,
+  "maxApplicableSoftwareVersion": 10,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1syeyurygp3ttk3utp4qc8svu38grck09fnx8w7"
+}

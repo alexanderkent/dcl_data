@@ -1,0 +1,40 @@
+{
+  "vid": 4952,
+  "products": [
+    {
+      "pid": 32769,
+      "name": "Philips Smart TV",
+      "partNumber": "1"
+    },
+    {
+      "pid": 32770,
+      "name": "Philips Smart TV",
+      "partNumber": "1"
+    },
+    {
+      "pid": 32771,
+      "name": "Philips Smart TV",
+      "partNumber": "1"
+    },
+    {
+      "pid": 32772,
+      "name": "Philips Smart TV",
+      "partNumber": "1"
+    },
+    {
+      "pid": 36867,
+      "name": "AOC Smart TV",
+      "partNumber": "1"
+    },
+    {
+      "pid": 32773,
+      "name": "Philips Smart TV",
+      "partNumber": "1"
+    },
+    {
+      "pid": 36869,
+      "name": "AOC Smart TV",
+      "partNumber": "1"
+    }
+  ]
+}

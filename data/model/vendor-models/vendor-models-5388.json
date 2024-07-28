@@ -1,0 +1,15 @@
+{
+  "vid": 5388,
+  "products": [
+    {
+      "pid": 1872,
+      "name": "Smart Wi-Fi single plug",
+      "partNumber": "NHP-S611M"
+    },
+    {
+      "pid": 1395,
+      "name": "Smart Bulb",
+      "partNumber": "NHB-C110M"
+    }
+  ]
+}

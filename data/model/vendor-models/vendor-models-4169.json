@@ -1,0 +1,15 @@
+{
+  "vid": 4169,
+  "products": [
+    {
+      "pid": 5632,
+      "name": "RS9116 Wi-Fi NCP SoCs",
+      "partNumber": " RS9116X-SB-EVK1"
+    },
+    {
+      "pid": 9216,
+      "name": "EFR32MG24X",
+      "partNumber": "xG24-RB4187C"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "vid": 5394,
+  "products": [
+    {
+      "pid": 1808,
+      "name": "Smart Bulb",
+      "partNumber": "ST-LB2100C-9W2-WF5MT-G2"
+    },
+    {
+      "pid": 775,
+      "name": "Smart Plug",
+      "partNumber": "Smart-PFW04-G-M"
+    }
+  ]
+}

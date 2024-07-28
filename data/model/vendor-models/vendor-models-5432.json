@@ -1,0 +1,10 @@
+{
+  "vid": 5432,
+  "products": [
+    {
+      "pid": 2255,
+      "name": "Smart Thermostat",
+      "partNumber": "BHT-18"
+    }
+  ]
+}

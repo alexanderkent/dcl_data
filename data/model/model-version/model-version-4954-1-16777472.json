@@ -1,0 +1,17 @@
+{
+  "vid": 4954,
+  "pid": 1,
+  "softwareVersion": 16777472,
+  "softwareVersionString": "1.0.1",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://downloads.iot.siegenia-smartcloud.com/7b2e84c2634c29c78c3ca4342cbacb4bc776616667dc49776107b3136678852e.ota",
+  "otaFileSize": "781286",
+  "otaChecksum": "ruZSeuJorWKc/oGTZvI2h1okFsLdwi7ZeAN978Rn9Wc=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 16777216,
+  "releaseNotesUrl": "",
+  "creator": "cosmos19uy3kac2ndayacvfvrpfd349hd2p70wdnewwxh"
+}

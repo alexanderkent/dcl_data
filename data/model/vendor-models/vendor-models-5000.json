@@ -1,0 +1,15 @@
+{
+  "vid": 5000,
+  "products": [
+    {
+      "pid": 6,
+      "name": "CYW30739 Thermostat",
+      "partNumber": "CYW30739B2"
+    },
+    {
+      "pid": 3,
+      "name": "Infineon WIFI Door Lock with OPTIGA Trust M MTR",
+      "partNumber": "SP006008195"
+    }
+  ]
+}

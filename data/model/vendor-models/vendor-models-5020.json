@@ -1,0 +1,165 @@
+{
+  "vid": 5020,
+  "products": [
+    {
+      "pid": 65534,
+      "name": "Zemismart MT01 Slide Curtain",
+      "partNumber": "MT01"
+    },
+    {
+      "pid": 53249,
+      "name": "Zemismart downlight",
+      "partNumber": "ZML1"
+    },
+    {
+      "pid": 53250,
+      "name": "Zemismart bulb",
+      "partNumber": "ZML2"
+    },
+    {
+      "pid": 65535,
+      "name": "Zemismart Matter Roller Motor",
+      "partNumber": "ZM25M"
+    },
+    {
+      "pid": 61154,
+      "name": "Zemismart Inline Module",
+      "partNumber": "ZME2"
+    },
+    {
+      "pid": 65296,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "MT82"
+    },
+    {
+      "pid": 65283,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "MT03"
+    },
+    {
+      "pid": 65301,
+      "name": "Zemismart Thread Roller Motor",
+      "partNumber": "MT25A"
+    },
+    {
+      "pid": 65297,
+      "name": "Zemismart Thread Roller Motor",
+      "partNumber": "MT15"
+    },
+    {
+      "pid": 65281,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "MT01"
+    },
+    {
+      "pid": 903,
+      "name": "Zemismart M1 Hub",
+      "partNumber": "M1"
+    },
+    {
+      "pid": 65376,
+      "name": "Zemismart MT25B Roller Motor",
+      "partNumber": "MT25B"
+    },
+    {
+      "pid": 53251,
+      "name": "Zemismart Light Strip Driver",
+      "partNumber": "ZML3"
+    },
+    {
+      "pid": 43777,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM606-6"
+    },
+    {
+      "pid": 43778,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM606-1"
+    },
+    {
+      "pid": 43779,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM606-2"
+    },
+    {
+      "pid": 43780,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM606-3"
+    },
+    {
+      "pid": 43781,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM606-4"
+    },
+    {
+      "pid": 43825,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM202-4"
+    },
+    {
+      "pid": 43826,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM202-1"
+    },
+    {
+      "pid": 43827,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM202-2"
+    },
+    {
+      "pid": 43828,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM202-3"
+    },
+    {
+      "pid": 43799,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM106-1"
+    },
+    {
+      "pid": 43800,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM106-2"
+    },
+    {
+      "pid": 43801,
+      "name": "Zemismart WiFi Smart Switch",
+      "partNumber": "ZM106-3"
+    },
+    {
+      "pid": 5020,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "ZM25A"
+    },
+    {
+      "pid": 64040,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "ZM82A"
+    },
+    {
+      "pid": 64049,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "ZM01"
+    },
+    {
+      "pid": 64004,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "ZM16A"
+    },
+    {
+      "pid": 64050,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "ZM02"
+    },
+    {
+      "pid": 64001,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "ZM25A"
+    },
+    {
+      "pid": 64017,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "ZM25C"
+    }
+  ]
+}

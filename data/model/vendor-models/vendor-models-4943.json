@@ -1,0 +1,30 @@
+{
+  "vid": 4943,
+  "products": [
+    {
+      "pid": 5890,
+      "name": "mediola Matter Bridge",
+      "partNumber": "MMB-01"
+    },
+    {
+      "pid": 5891,
+      "name": "MMB-001-48",
+      "partNumber": "MMB-001-48"
+    },
+    {
+      "pid": 5892,
+      "name": "MMB-001-4",
+      "partNumber": "MMB-001-4"
+    },
+    {
+      "pid": 5896,
+      "name": "MMB-001-8",
+      "partNumber": "MMB-001-8"
+    },
+    {
+      "pid": 6024,
+      "name": "MMB-001-88",
+      "partNumber": "MMB-001-88"
+    }
+  ]
+}

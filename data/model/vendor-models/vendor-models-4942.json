@@ -1,0 +1,25 @@
+{
+  "vid": 4942,
+  "products": [
+    {
+      "pid": 1,
+      "name": "Smart Radiator Thermostat X",
+      "partNumber": "VA04"
+    },
+    {
+      "pid": 2,
+      "name": "Smart Thermostat X",
+      "partNumber": "RU04"
+    },
+    {
+      "pid": 3,
+      "name": "Wireless Temperature Sensor X",
+      "partNumber": "SU04"
+    },
+    {
+      "pid": 6,
+      "name": "Wireless Temperature Sensor X",
+      "partNumber": "SU04"
+    }
+  ]
+}

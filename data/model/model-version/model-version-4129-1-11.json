@@ -1,0 +1,17 @@
+{
+  "vid": 4129,
+  "pid": 1,
+  "softwareVersion": 11,
+  "softwareVersionString": "0.0.11",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 11,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1elm6sf9yd2n7y0l0rve4zru0ukanv76vtrjnt3"
+}

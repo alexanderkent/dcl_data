@@ -1,0 +1,17 @@
+{
+  "vid": 4874,
+  "pid": 89,
+  "softwareVersion": 6650,
+  "softwareVersionString": "3.2.1",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://eve-updates.evehome.com/matter/eve_motion-3.2.1-matter-benc-enc-CF2853C8-8EA6-478C-87FA-3A5EAB5CFF30.bin",
+  "otaFileSize": "848658",
+  "otaChecksum": "HyPg9Tclmy7arOigK792HSlrvGN7iV91QM32RhB2FHw=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 6200,
+  "maxApplicableSoftwareVersion": 6649,
+  "releaseNotesUrl": "https://www.evehome.com/matter-release-notes?product=eve-motion&version=3-2-1",
+  "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+}

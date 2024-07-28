@@ -1,0 +1,17 @@
+{
+  "vid": 4934,
+  "pid": 16398,
+  "softwareVersion": 3,
+  "softwareVersionString": "Rafael Matter SDK 1.0(B)",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 3,
+  "releaseNotesUrl": "",
+  "creator": "cosmos14myns7fehcxm2c896k5syhzr7zsyf7g4jdlk08"
+}

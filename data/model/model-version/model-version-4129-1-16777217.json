@@ -1,0 +1,17 @@
+{
+  "vid": 4129,
+  "pid": 1,
+  "softwareVersion": 16777217,
+  "softwareVersionString": "1.0.1",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://n3tfw.blob.core.windows.net/nas-beta/nas-1.0.1.ota",
+  "otaFileSize": "704218",
+  "otaChecksum": "wVaFJUcH9AYnb0Yw228NryAagTggoqTGrpCTw0devyc=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 16777217,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1elm6sf9yd2n7y0l0rve4zru0ukanv76vtrjnt3"
+}

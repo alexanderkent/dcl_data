@@ -1,0 +1,17 @@
+{
+  "vid": 4442,
+  "pid": 65,
+  "softwareVersion": 198340,
+  "softwareVersionString": "3.6.196",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://nl65-firmware.s3.amazonaws.com/3.6.196_r0.matter",
+  "otaFileSize": "753412",
+  "otaChecksum": "R7A1XI385zgjBkYf9+JAbtZqVUs+zIbejQxlZH05CNw=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 198317,
+  "maxApplicableSoftwareVersion": 198340,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1sggrrmw05e6alve8umwdaszade5qxyt53kthud"
+}

@@ -1,0 +1,1270 @@
+{
+  "vid": 5120,
+  "products": [
+    {
+      "pid": 1001,
+      "name": "Smart Light",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1003,
+      "name": "Downlight",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1004,
+      "name": "Smart Light",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1005,
+      "name": "Smart Light",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1006,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1007,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1008,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1009,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1010,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1011,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1012,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1013,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1014,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M024"
+    },
+    {
+      "pid": 1015,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M024"
+    },
+    {
+      "pid": 1016,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M024"
+    },
+    {
+      "pid": 1017,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M024"
+    },
+    {
+      "pid": 1018,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M025"
+    },
+    {
+      "pid": 1019,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M025"
+    },
+    {
+      "pid": 1020,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M025"
+    },
+    {
+      "pid": 1021,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M025"
+    },
+    {
+      "pid": 1022,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M026"
+    },
+    {
+      "pid": 1023,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M026"
+    },
+    {
+      "pid": 1024,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M026"
+    },
+    {
+      "pid": 1025,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M026"
+    },
+    {
+      "pid": 1026,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M026"
+    },
+    {
+      "pid": 1027,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M026"
+    },
+    {
+      "pid": 1028,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M027"
+    },
+    {
+      "pid": 1029,
+      "name": "Smart Light Switch",
+      "partNumber": "M027"
+    },
+    {
+      "pid": 1030,
+      "name": "Smart Light",
+      "partNumber": "M027"
+    },
+    {
+      "pid": 1031,
+      "name": "Smart Switch",
+      "partNumber": "M027"
+    },
+    {
+      "pid": 1032,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M027"
+    },
+    {
+      "pid": 1033,
+      "name": "UA-RGBCWBulb",
+      "partNumber": "M027"
+    },
+    {
+      "pid": 1002,
+      "name": "SmartHomePlug",
+      "partNumber": "M05X-P-00"
+    },
+    {
+      "pid": 1034,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1035,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1036,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1037,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1038,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1039,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1040,
+      "name": "Smart Plug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1041,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1042,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1043,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1044,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1045,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1046,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1047,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1048,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1049,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1050,
+      "name": "UA-SmartPlug",
+      "partNumber": "M023"
+    },
+    {
+      "pid": 1051,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1052,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1053,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1054,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1055,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1056,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1057,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1058,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1059,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1060,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1061,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1062,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1063,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1064,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1065,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1066,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1067,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1068,
+      "name": "UA-SmartPlug",
+      "partNumber": "M028"
+    },
+    {
+      "pid": 1069,
+      "name": "UA-TVPlayer",
+      "partNumber": "M022"
+    },
+    {
+      "pid": 1070,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1072,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1073,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1074,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1075,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1076,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1077,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1078,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1079,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1080,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1081,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1082,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1083,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1084,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1085,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1086,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1087,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1088,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1089,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1090,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1091,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1092,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1093,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1094,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1095,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1096,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1097,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1098,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1099,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1100,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M30"
+    },
+    {
+      "pid": 1101,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M35"
+    },
+    {
+      "pid": 1102,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M35"
+    },
+    {
+      "pid": 1103,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M35"
+    },
+    {
+      "pid": 1104,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M35"
+    },
+    {
+      "pid": 1105,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M35"
+    },
+    {
+      "pid": 1106,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M35"
+    },
+    {
+      "pid": 1107,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M35"
+    },
+    {
+      "pid": 1108,
+      "name": "UA-SmartSwitch",
+      "partNumber": "M35"
+    },
+    {
+      "pid": 1112,
+      "name": "Smart Light",
+      "partNumber": "Smart Light"
+    },
+    {
+      "pid": 1119,
+      "name": "UA-ThreadSmartSwitch",
+      "partNumber": "M40"
+    },
+    {
+      "pid": 1110,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-00"
+    },
+    {
+      "pid": 1111,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-01"
+    },
+    {
+      "pid": 1122,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-02"
+    },
+    {
+      "pid": 1123,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-03"
+    },
+    {
+      "pid": 1124,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-04"
+    },
+    {
+      "pid": 1125,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-05"
+    },
+    {
+      "pid": 1126,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-06"
+    },
+    {
+      "pid": 1127,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-07"
+    },
+    {
+      "pid": 1128,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-08"
+    },
+    {
+      "pid": 1129,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-09"
+    },
+    {
+      "pid": 1130,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-0A"
+    },
+    {
+      "pid": 1131,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-0B"
+    },
+    {
+      "pid": 1132,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-0C"
+    },
+    {
+      "pid": 1133,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-0D"
+    },
+    {
+      "pid": 1134,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-0E"
+    },
+    {
+      "pid": 1135,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-0F"
+    },
+    {
+      "pid": 1136,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-10"
+    },
+    {
+      "pid": 1137,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-11"
+    },
+    {
+      "pid": 1138,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-12"
+    },
+    {
+      "pid": 1139,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-13"
+    },
+    {
+      "pid": 1140,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-14"
+    },
+    {
+      "pid": 1141,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-15"
+    },
+    {
+      "pid": 1142,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-16"
+    },
+    {
+      "pid": 1143,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-17"
+    },
+    {
+      "pid": 1144,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-18"
+    },
+    {
+      "pid": 1145,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-19"
+    },
+    {
+      "pid": 1146,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-1A"
+    },
+    {
+      "pid": 1147,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-1B"
+    },
+    {
+      "pid": 1148,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-1C"
+    },
+    {
+      "pid": 1149,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-1D"
+    },
+    {
+      "pid": 1150,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-1E"
+    },
+    {
+      "pid": 1151,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-1F"
+    },
+    {
+      "pid": 1152,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-20"
+    },
+    {
+      "pid": 1153,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-21"
+    },
+    {
+      "pid": 1154,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-22"
+    },
+    {
+      "pid": 1155,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-23"
+    },
+    {
+      "pid": 1156,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-24"
+    },
+    {
+      "pid": 1157,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-25"
+    },
+    {
+      "pid": 1158,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-26"
+    },
+    {
+      "pid": 1159,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-27"
+    },
+    {
+      "pid": 1160,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-28"
+    },
+    {
+      "pid": 1161,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-29"
+    },
+    {
+      "pid": 1162,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-2A"
+    },
+    {
+      "pid": 1163,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-2B"
+    },
+    {
+      "pid": 1164,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-2C"
+    },
+    {
+      "pid": 1165,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-2D"
+    },
+    {
+      "pid": 1166,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-2E"
+    },
+    {
+      "pid": 1167,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-2F"
+    },
+    {
+      "pid": 1168,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-30"
+    },
+    {
+      "pid": 1169,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-31"
+    },
+    {
+      "pid": 1170,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-32"
+    },
+    {
+      "pid": 1171,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-33"
+    },
+    {
+      "pid": 1172,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-34"
+    },
+    {
+      "pid": 1173,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-35"
+    },
+    {
+      "pid": 1174,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-36"
+    },
+    {
+      "pid": 1175,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-37"
+    },
+    {
+      "pid": 1176,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-38"
+    },
+    {
+      "pid": 1177,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-39"
+    },
+    {
+      "pid": 1178,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-3A"
+    },
+    {
+      "pid": 1179,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-3B"
+    },
+    {
+      "pid": 1180,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-3C"
+    },
+    {
+      "pid": 1181,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-3D"
+    },
+    {
+      "pid": 1182,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-3E"
+    },
+    {
+      "pid": 1183,
+      "name": "UA-SmartLight",
+      "partNumber": "M05X-3F"
+    },
+    {
+      "pid": 1114,
+      "name": "SmartHomePlug",
+      "partNumber": "M05X-P-00"
+    },
+    {
+      "pid": 1248,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-01"
+    },
+    {
+      "pid": 1249,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-02"
+    },
+    {
+      "pid": 1250,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-03"
+    },
+    {
+      "pid": 1251,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-04"
+    },
+    {
+      "pid": 1252,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-05"
+    },
+    {
+      "pid": 1253,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-06"
+    },
+    {
+      "pid": 1254,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-07"
+    },
+    {
+      "pid": 1255,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-08"
+    },
+    {
+      "pid": 1256,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-09"
+    },
+    {
+      "pid": 1257,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-0A"
+    },
+    {
+      "pid": 1258,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-0B"
+    },
+    {
+      "pid": 1259,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-0C"
+    },
+    {
+      "pid": 1260,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-0D"
+    },
+    {
+      "pid": 1261,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-0E"
+    },
+    {
+      "pid": 1262,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-0F"
+    },
+    {
+      "pid": 1263,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-10"
+    },
+    {
+      "pid": 1264,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-11"
+    },
+    {
+      "pid": 1265,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-12"
+    },
+    {
+      "pid": 1266,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-13"
+    },
+    {
+      "pid": 1267,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-14"
+    },
+    {
+      "pid": 1268,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-15"
+    },
+    {
+      "pid": 1269,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-16"
+    },
+    {
+      "pid": 1270,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-17"
+    },
+    {
+      "pid": 1271,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-18"
+    },
+    {
+      "pid": 1272,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-19"
+    },
+    {
+      "pid": 1273,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-1A"
+    },
+    {
+      "pid": 1274,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-1B"
+    },
+    {
+      "pid": 1275,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-1C"
+    },
+    {
+      "pid": 1276,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-1D"
+    },
+    {
+      "pid": 1277,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-1E"
+    },
+    {
+      "pid": 1278,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-1F"
+    },
+    {
+      "pid": 1279,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-20"
+    },
+    {
+      "pid": 1280,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-21"
+    },
+    {
+      "pid": 1281,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-22"
+    },
+    {
+      "pid": 1282,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-23"
+    },
+    {
+      "pid": 1283,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-24"
+    },
+    {
+      "pid": 1284,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-25"
+    },
+    {
+      "pid": 1285,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-26"
+    },
+    {
+      "pid": 1286,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-27"
+    },
+    {
+      "pid": 1287,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-28"
+    },
+    {
+      "pid": 1288,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-29"
+    },
+    {
+      "pid": 1289,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-2A"
+    },
+    {
+      "pid": 1290,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-2B"
+    },
+    {
+      "pid": 1291,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-2C"
+    },
+    {
+      "pid": 1292,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-2D"
+    },
+    {
+      "pid": 1293,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-2E"
+    },
+    {
+      "pid": 1294,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-2F"
+    },
+    {
+      "pid": 1295,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-30"
+    },
+    {
+      "pid": 1296,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-31"
+    },
+    {
+      "pid": 1297,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-32"
+    },
+    {
+      "pid": 1298,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-33"
+    },
+    {
+      "pid": 1299,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-34"
+    },
+    {
+      "pid": 1300,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-35"
+    },
+    {
+      "pid": 1301,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-36"
+    },
+    {
+      "pid": 1302,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-37"
+    },
+    {
+      "pid": 1303,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-38"
+    },
+    {
+      "pid": 1304,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-39"
+    },
+    {
+      "pid": 1305,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-3A"
+    },
+    {
+      "pid": 1306,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-3B"
+    },
+    {
+      "pid": 1307,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-3C"
+    },
+    {
+      "pid": 1308,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-3D"
+    },
+    {
+      "pid": 1309,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-3E"
+    },
+    {
+      "pid": 1310,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-3F"
+    },
+    {
+      "pid": 1311,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-40"
+    },
+    {
+      "pid": 1312,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-41"
+    },
+    {
+      "pid": 1313,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-42"
+    },
+    {
+      "pid": 1314,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-43"
+    },
+    {
+      "pid": 1315,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-44"
+    },
+    {
+      "pid": 1316,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-45"
+    },
+    {
+      "pid": 1317,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-46"
+    },
+    {
+      "pid": 1318,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-47"
+    },
+    {
+      "pid": 1319,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-48"
+    },
+    {
+      "pid": 1320,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-49"
+    },
+    {
+      "pid": 1321,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-4A"
+    },
+    {
+      "pid": 1322,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-4B"
+    },
+    {
+      "pid": 1323,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-4C"
+    },
+    {
+      "pid": 1324,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-4D"
+    },
+    {
+      "pid": 1325,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-4E"
+    },
+    {
+      "pid": 1326,
+      "name": "Smart Home Plug",
+      "partNumber": "M05X-P-4F"
+    }
+  ]
+}

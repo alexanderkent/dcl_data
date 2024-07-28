@@ -1,0 +1,90 @@
+{
+  "vid": 4874,
+  "products": [
+    {
+      "pid": 77,
+      "name": "Eve Door & Window",
+      "partNumber": "20EBN9901"
+    },
+    {
+      "pid": 80,
+      "name": "Eve Energy (Europe)",
+      "partNumber": "20EBO8301"
+    },
+    {
+      "pid": 83,
+      "name": "Eve Energy (U.S. & Canada)",
+      "partNumber": "20EBU4101"
+    },
+    {
+      "pid": 84,
+      "name": "Eve Energy (U.K.)",
+      "partNumber": "20EBT8601"
+    },
+    {
+      "pid": 94,
+      "name": "Eve Energy (Australia)",
+      "partNumber": "20ECF6001"
+    },
+    {
+      "pid": 89,
+      "name": "Eve Motion",
+      "partNumber": "20EBY9901"
+    },
+    {
+      "pid": 85,
+      "name": "Eve MotionBlinds",
+      "partNumber": "20CAA9901"
+    },
+    {
+      "pid": 79,
+      "name": "Eve Thermo",
+      "partNumber": "20EBP1701"
+    },
+    {
+      "pid": 87,
+      "name": "Eve Weather",
+      "partNumber": "20EBS9901"
+    },
+    {
+      "pid": 104,
+      "name": "Eve Thermo Control",
+      "partNumber": "20ECK9901"
+    },
+    {
+      "pid": 98,
+      "name": "Eve MotionBlinds",
+      "partNumber": "20CAB9901"
+    },
+    {
+      "pid": 105,
+      "name": "Eve Energy Outlet (U.S. & Canada)",
+      "partNumber": "20ECN4101"
+    },
+    {
+      "pid": 106,
+      "name": "Eve Energy (Switzerland)",
+      "partNumber": "20ECL1301"
+    },
+    {
+      "pid": 107,
+      "name": "Eve Energy Outdoor (Europe)",
+      "partNumber": "20ECM8301"
+    },
+    {
+      "pid": 100,
+      "name": "Eve MotionBlinds for Curtains",
+      "partNumber": "20CAH9901"
+    },
+    {
+      "pid": 93,
+      "name": "Eve Light Switch (U.S. & Canada)",
+      "partNumber": "20ECE4101"
+    },
+    {
+      "pid": 36865,
+      "name": "free@home System Access Point 2.0",
+      "partNumber": "2CKA006200A0154"
+    }
+  ]
+}

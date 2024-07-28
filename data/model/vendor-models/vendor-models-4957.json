@@ -1,0 +1,15 @@
+{
+  "vid": 4957,
+  "products": [
+    {
+      "pid": 176,
+      "name": "Nuki Smart Lock",
+      "partNumber": "0x00B0"
+    },
+    {
+      "pid": 177,
+      "name": "Nuki Smart Lock Pro",
+      "partNumber": "0x00B1"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "vid": 4977,
+  "products": [
+    {
+      "pid": 257,
+      "name": "Wireless module passive MTR",
+      "partNumber": "28004483"
+    },
+    {
+      "pid": 256,
+      "name": "Wireless module MTR",
+      "partNumber": "28004482"
+    },
+    {
+      "pid": 258,
+      "name": "Wireless module SR MTR​",
+      "partNumber": "28004484"
+    },
+    {
+      "pid": 512,
+      "name": "LED Converter MTR",
+      "partNumber": "28004485"
+    },
+    {
+      "pid": 513,
+      "name": "LED Converter MTR",
+      "partNumber": "28004486"
+    },
+    {
+      "pid": 514,
+      "name": "LED Converter MTR",
+      "partNumber": "28004487"
+    },
+    {
+      "pid": 515,
+      "name": "LED Converter MTR",
+      "partNumber": "28004488"
+    },
+    {
+      "pid": 516,
+      "name": "LED Converter MTR",
+      "partNumber": "28004489"
+    },
+    {
+      "pid": 517,
+      "name": "LED Converter MTR",
+      "partNumber": "28004490"
+    },
+    {
+      "pid": 518,
+      "name": "LED Converter MTR",
+      "partNumber": "28004491"
+    },
+    {
+      "pid": 519,
+      "name": "LED Converter MTR",
+      "partNumber": "28004492"
+    }
+  ]
+}

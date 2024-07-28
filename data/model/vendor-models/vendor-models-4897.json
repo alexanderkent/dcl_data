@@ -1,0 +1,50 @@
+{
+  "vid": 4897,
+  "products": [
+    {
+      "pid": 2,
+      "name": "Smart Plug-in Unit",
+      "partNumber": "0000000000000000000000000000001"
+    },
+    {
+      "pid": 11,
+      "name": "SONOFF SwitchMan Smart Wall Switch",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 12,
+      "name": "SONOFF SwitchMan Smart Wall Switch",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 13,
+      "name": "SONOFF SwitchMan Smart Wall Switch",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 36,
+      "name": "Smart Home Hub",
+      "partNumber": "00000000000000000000000000"
+    },
+    {
+      "pid": 15,
+      "name": "SONOFF MINI-D Wi-Fi Smart Switch",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 19,
+      "name": "SONOFF SmartGarageDoorController",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 20,
+      "name": "SONOFF SmartGarageDoorController",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 21,
+      "name": "SONOFF SmartGarageDoorController",
+      "partNumber": "00000000000000000000000000000001"
+    }
+  ]
+}

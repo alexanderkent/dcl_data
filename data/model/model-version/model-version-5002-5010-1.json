@@ -1,0 +1,17 @@
+{
+  "vid": 5002,
+  "pid": 5010,
+  "softwareVersion": 1,
+  "softwareVersionString": "1",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 65535,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1yvwf85sx9mp53kptfwfz49cmmznvj2j0efavzu"
+}

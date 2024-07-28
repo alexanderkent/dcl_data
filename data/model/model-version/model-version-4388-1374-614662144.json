@@ -1,0 +1,17 @@
+{
+  "vid": 4388,
+  "pid": 1374,
+  "softwareVersion": 614662144,
+  "softwareVersionString": "73.70.0.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 614662144,
+  "maxApplicableSoftwareVersion": 614662144,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1plq44ld0knhhffhyq8rqw7l73jr05229mj7828"
+}

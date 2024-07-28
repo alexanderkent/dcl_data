@@ -1,0 +1,25 @@
+{
+  "vid": 5127,
+  "products": [
+    {
+      "pid": 4232,
+      "name": "Smart Color Night Light",
+      "partNumber": "3RSNL02041WM"
+    },
+    {
+      "pid": 4488,
+      "name": "Smart WiFi Plug",
+      "partNumber": "3RSP03046W"
+    },
+    {
+      "pid": 4744,
+      "name": "Smart Bridge MZ1",
+      "partNumber": "3RMB01033WBZ"
+    },
+    {
+      "pid": 4233,
+      "name": "Smart Color Bulb ML1",
+      "partNumber": "3RCB01051W"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "vid": 5389,
+  "products": [
+    {
+      "pid": 1994,
+      "name": "Smart Light",
+      "partNumber": "F-SB01W"
+    },
+    {
+      "pid": 1993,
+      "name": "Smart Switch",
+      "partNumber": "F-SS01W"
+    }
+  ]
+}

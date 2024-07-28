@@ -1,0 +1,25 @@
+{
+  "vid": 5151,
+  "products": [
+    {
+      "pid": 4097,
+      "name": "DUC Blinds with SMARTWINGS",
+      "partNumber": "0"
+    },
+    {
+      "pid": 4098,
+      "name": "SmartWings Levitate with DUCTECH",
+      "partNumber": "-"
+    },
+    {
+      "pid": 4099,
+      "name": "DUC Wire",
+      "partNumber": "-"
+    },
+    {
+      "pid": 4100,
+      "name": "DUC Cozy",
+      "partNumber": "-"
+    }
+  ]
+}

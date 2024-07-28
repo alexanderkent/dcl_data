@@ -1,0 +1,17 @@
+{
+  "vid": 4169,
+  "pid": 9216,
+  "softwareVersion": 1,
+  "softwareVersionString": "Gecko SDK 4.1.1",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 1,
+  "maxApplicableSoftwareVersion": 1,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1js3g08nc2ahl5j497e6m9nnash5k9hajlzzxcp"
+}

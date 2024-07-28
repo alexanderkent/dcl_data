@@ -1,0 +1,15 @@
+{
+  "vid": 5235,
+  "products": [
+    {
+      "pid": 1149,
+      "name": "LIGHT CCT_M",
+      "partNumber": "LIGHT CCT_M"
+    },
+    {
+      "pid": 1588,
+      "name": "CCT LIGHT-M",
+      "partNumber": "CCT LIGHT-M"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "vid": 4469,
+  "products": [
+    {
+      "pid": 4097,
+      "name": "D-Link Smart Home Gateway",
+      "partNumber": "MS30"
+    },
+    {
+      "pid": 4098,
+      "name": "D-Link Smart Home Gateway",
+      "partNumber": "MS30N"
+    },
+    {
+      "pid": 4099,
+      "name": "D-Link Smart Home Gateway",
+      "partNumber": "MS60"
+    },
+    {
+      "pid": 8193,
+      "name": "D-Link Wi-Fi Smart Plug",
+      "partNumber": "DSP-W11M"
+    }
+  ]
+}

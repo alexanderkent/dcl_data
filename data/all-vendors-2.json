@@ -1,0 +1,808 @@
+{
+  "vendorInfo": [
+    {
+      "vendorID": 5124,
+      "vendorName": "Phaten",
+      "companyLegalName": "Shenzhen Phaten Technology Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "https://www.phaten.com",
+      "creator": "cosmos1h4rf0hjzf498s2lu0rf8m52ujst2gl7lpdnexs"
+    },
+    {
+      "vendorID": 5125,
+      "vendorName": "Ecovacs",
+      "companyLegalName": "Ecovacs Home Service Robotics Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1z4c6z3ppegtqvlrp83v3alpnguw7yygqyd2788"
+    },
+    {
+      "vendorID": 5127,
+      "vendorName": "ThirdReality",
+      "companyLegalName": "Jiangsu Shushi Technology Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1qwnh6tj4n938g3fmncqna22zmfxx50vnd22yux"
+    },
+    {
+      "vendorID": 5128,
+      "vendorName": "VELUX",
+      "companyLegalName": "VELUX A/S",
+      "companyPreferredName": "VELUX",
+      "vendorLandingPageURL": "https://www.velux.com/",
+      "creator": "cosmos1vtg02ugrtcn7wtxplfxn2uqh0z60vw072h73pl"
+    },
+    {
+      "vendorID": 5131,
+      "vendorName": "70mai Co., Ltd.",
+      "companyLegalName": "70mai Co., Ltd.",
+      "companyPreferredName": "70mai",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos16eywj3z0k6jaxnuycky4k7u2m8wt7qy9wclxv4"
+    },
+    {
+      "vendorID": 5136,
+      "vendorName": "Quectel",
+      "companyLegalName": "Quectel Wireless Solutions Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "https://www.quectel.com",
+      "creator": "cosmos1dqrg6w2jjs7sft59dpqngjzyfdjh4xjn5rjct5"
+    },
+    {
+      "vendorID": 5137,
+      "vendorName": "Freedompro",
+      "companyLegalName": "Freedompro S.r.l.",
+      "companyPreferredName": "Freedompro",
+      "vendorLandingPageURL": "https://freedompro.eu",
+      "creator": "cosmos1wp2vqn223g6a8wc4z56rhqhj00ph9hycqvfk6l"
+    },
+    {
+      "vendorID": 5139,
+      "vendorName": "1Home",
+      "companyLegalName": "1Home Solutions GmbH",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "https://www.1home.io/",
+      "creator": "cosmos1nzyp28afpumk0djal2w35s2pcl0q3e57euplkq"
+    },
+    {
+      "vendorID": 5141,
+      "vendorName": "Caveman",
+      "companyLegalName": "Nanoleaf Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1smgmnl90h9srczk926l5kt7rydjpq7x0smc5e7"
+    },
+    {
+      "vendorID": 5142,
+      "vendorName": "Umbra",
+      "companyLegalName": "Nanoleaf Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1eldeezdpcrcz2z034dku25j42cj69sshhl0ufm"
+    },
+    {
+      "vendorID": 5143,
+      "vendorName": "Konnected",
+      "companyLegalName": "Konnected Inc.",
+      "companyPreferredName": "Konnected",
+      "vendorLandingPageURL": "https://konnected.io",
+      "creator": "cosmos14d0cpj3zw7xl402mrvlzdzysacjl20fccg32m8"
+    },
+    {
+      "vendorID": 5144,
+      "vendorName": "Klite",
+      "companyLegalName": "Zhejiang Klite Lighting Holdings Co.,Ltd.",
+      "companyPreferredName": "Klite",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1dw5fzly4qjr3y335fv8lmtn6u25hz7e27a2seg"
+    },
+    {
+      "vendorID": 5145,
+      "vendorName": "Lorex",
+      "companyLegalName": "Lorex Technology Inc.",
+      "companyPreferredName": "Lorex",
+      "vendorLandingPageURL": "https://www.lorex.com/",
+      "creator": "cosmos1c98nn3uphuya0w4km5uzamjwpkawksf5g6h5m5"
+    },
+    {
+      "vendorID": 5147,
+      "vendorName": "Rang Dong VN",
+      "companyLegalName": "Rang Dong Light Source & Vacuum Flask JSC",
+      "companyPreferredName": "Rang Dong Light Source & Vacuum Flask JSC",
+      "vendorLandingPageURL": "https://rangdong.com.vn/",
+      "creator": "cosmos1023z8vredmrn7xlzjlrlv6wdqh0fpzs8jlc9rx"
+    },
+    {
+      "vendorID": 5149,
+      "vendorName": "Secuyou APS",
+      "companyLegalName": "Secuyou ApS",
+      "companyPreferredName": "Secuyou",
+      "vendorLandingPageURL": "http://www.secuyou.dk",
+      "creator": "cosmos1nglnnk8v90m2f8xhv2ldhntm0xngsddvf3tdfn"
+    },
+    {
+      "vendorID": 5150,
+      "vendorName": "TUO Accessories LLC",
+      "companyLegalName": "TUO Accessories LLC",
+      "companyPreferredName": "TUO Accessories",
+      "vendorLandingPageURL": "http://tuoaccessories.com",
+      "creator": "cosmos1vn34dnlqvz5e997ws53yfj6a2622duzf3gg80d"
+    },
+    {
+      "vendorID": 5151,
+      "vendorName": "Ductech",
+      "companyLegalName": "DUCTECH Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos18nqp48ce5k7j8qvuwk7tnzmckwsd8k2tlnj850"
+    },
+    {
+      "vendorID": 5152,
+      "vendorName": "EcoFlow Inc.",
+      "companyLegalName": "EcoFlow Inc.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1w6juegqt52fzd8g3paes92q55trac2gvf4clce"
+    },
+    {
+      "vendorID": 5153,
+      "vendorName": "Kwikset",
+      "companyLegalName": "Kwikset",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1uzek7g4dv7j2k5x7qqgzz7j4w4jtts3j204fnn"
+    },
+    {
+      "vendorID": 5155,
+      "vendorName": "Feit Electric",
+      "companyLegalName": "Feit Electric Company Inc.",
+      "companyPreferredName": "Feit",
+      "vendorLandingPageURL": "https://www.feit.com",
+      "creator": "cosmos1a77lyrxp9rkxftl0aznnua490s2k0x2me5x4f6"
+    },
+    {
+      "vendorID": 5158,
+      "vendorName": "ELEGRP",
+      "companyLegalName": "ELE (Group) Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos10xq30d74glzmhnxrsynjmq4daekuy58uja7hnl"
+    },
+    {
+      "vendorID": 5159,
+      "vendorName": "Hama GmbH & Co. KG",
+      "companyLegalName": "Hama GmbH & Co. KG",
+      "companyPreferredName": "Hama GmbH & Co. KG",
+      "vendorLandingPageURL": "https://de.hama.com/",
+      "creator": "cosmos19904pgghdlqls30adtng659y7vxd428sm6z963"
+    },
+    {
+      "vendorID": 5163,
+      "vendorName": "LETIANPAI",
+      "companyLegalName": "Beijing Renhejia Technology Co., Ltd",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1xfnupkyac4cxnsgtwcme6v7mhh7wgydd8qs47u"
+    },
+    {
+      "vendorID": 5165,
+      "vendorName": "QH",
+      "companyLegalName": "Zhongshan QIHANG Electronic Technology Co.",
+      "companyPreferredName": "QIHANG",
+      "vendorLandingPageURL": "https://zsqhkj.1688.com/",
+      "creator": "cosmos13zzg6t6gaz36p8ctguatrguwuep9wmza6lptet"
+    },
+    {
+      "vendorID": 5167,
+      "vendorName": "QIACHIP",
+      "companyLegalName": "Shenzhen QIACHIP Wireless E-commerce Co.",
+      "companyPreferredName": "QIACHIP",
+      "vendorLandingPageURL": "https://qiachip.com",
+      "creator": "cosmos1rhjya3hdvpyr2a3ur7s5hj48ce2qndyfcz07ht"
+    },
+    {
+      "vendorID": 5168,
+      "vendorName": "L-TRADE",
+      "companyLegalName": "L-TRADE GROUP SP z.o.o.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos194gp2nmvvd8gpxnmgqj7466d4va090qm2tet2p"
+    },
+    {
+      "vendorID": 5170,
+      "vendorName": "ELKO EP, s.r.o.",
+      "companyLegalName": "ELKO EP, s.r.o.",
+      "companyPreferredName": "ELKO EP, s.r.o.",
+      "vendorLandingPageURL": "https://www.elkoep.cz/",
+      "creator": "cosmos1swq8f23kmwtlh782usqysrqlgqyvx7e4dljale"
+    },
+    {
+      "vendorID": 5171,
+      "vendorName": "MOMAX Technology (Hong Kong) Limited",
+      "companyLegalName": "MOMAX Technology (Hong Kong) Limited",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos14n7fk2marffxwytwe0yl63an4fa96z44mtxfek"
+    },
+    {
+      "vendorID": 5174,
+      "vendorName": "SinuxSoft",
+      "companyLegalName": "SinuxSoft Inc.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "https://sinux.kr",
+      "creator": "cosmos1hqnxstx4pkgp8a3lz78knmajqdkf3gnpelw6u2"
+    },
+    {
+      "vendorID": 5176,
+      "vendorName": "Topstar Lighting",
+      "companyLegalName": "Xiamen Topstar Lighting Co.,Ltd",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1s59zv3d336348lxam03zr3hh0vyzv6uqpv8zzt"
+    },
+    {
+      "vendorID": 5181,
+      "vendorName": "Onvis",
+      "companyLegalName": "Shenzhen Champon Technology Co., Ltd",
+      "companyPreferredName": "ChampOn",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1yxrfetv9dwsnum7cjkaj2d5fluecrhdpdkprrq"
+    },
+    {
+      "vendorID": 5184,
+      "vendorName": "VerLuce",
+      "companyLegalName": "VerLuce, Inc.",
+      "companyPreferredName": "VerLuce Smart Home",
+      "vendorLandingPageURL": "https://www.verluce.com",
+      "creator": "cosmos1rmrcm80zy4v29c04fc3mc307055zrxn030ef65"
+    },
+    {
+      "vendorID": 5185,
+      "vendorName": "Snowball",
+      "companyLegalName": "Shenzhen Snowball Technology Co., Ltd.",
+      "companyPreferredName": "Snowball",
+      "vendorLandingPageURL": "https://www.snowballtech.com",
+      "creator": "cosmos1zfyl24d6c8p7qhk7cxqcu9thnd9wlvr74dyyqu"
+    },
+    {
+      "vendorID": 5186,
+      "vendorName": "REHAU",
+      "companyLegalName": "REHAU Group",
+      "companyPreferredName": "REHAU",
+      "vendorLandingPageURL": "https://www.rehau.com/",
+      "creator": "cosmos1mn2w336q9444fm5tasm0788r44j0wctvmy6x9p"
+    },
+    {
+      "vendorID": 5187,
+      "vendorName": "Goods iQ",
+      "companyLegalName": "AMAX, Inc",
+      "companyPreferredName": "Goods iQ",
+      "vendorLandingPageURL": "https://pureopticsled.com/",
+      "creator": "cosmos1fjrjdsttewwa28hr0ypu08l92t2a65kqmamv6v"
+    },
+    {
+      "vendorID": 5189,
+      "vendorName": "Finesse Decor",
+      "companyLegalName": "Finesse Decor",
+      "companyPreferredName": "Finesse Decor",
+      "vendorLandingPageURL": "https://finessedecor.com/",
+      "creator": "cosmos1tje4rrdg7qxnjhuzwrfh20d0r9hxe4a8h4qj4u"
+    },
+    {
+      "vendorID": 5190,
+      "vendorName": "TAKE AS GLOBAL",
+      "companyLegalName": "TAKE AS GLOBAL",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1cz069h67unmsty00g8epqcg52gq9vajx0xlgfz"
+    },
+    {
+      "vendorID": 5192,
+      "vendorName": "LivingStyle",
+      "companyLegalName": "LivingStyle Enterprises Limited",
+      "companyPreferredName": "LivingStyle",
+      "vendorLandingPageURL": "http://www.eco-lux.com.cn/en/",
+      "creator": "cosmos166kxac0rquyt3479nhvsys0vmyt6tlqmkl8fef"
+    },
+    {
+      "vendorID": 5193,
+      "vendorName": "Evolux",
+      "companyLegalName": "ZUTTO TECHNOLOGIES S.A DE C.V",
+      "companyPreferredName": "Lloyd's",
+      "vendorLandingPageURL": "https://lloydscorp.com/en/",
+      "creator": "cosmos19qx3ze7a94cfheq90lpnmjf7tdrkcaar6nuhm7"
+    },
+    {
+      "vendorID": 5196,
+      "vendorName": "TrustAsia",
+      "companyLegalName": "TrustAsia Technologies, Inc.",
+      "companyPreferredName": "TrustAsia",
+      "vendorLandingPageURL": "https://www.trustasia.com",
+      "creator": "cosmos1xkau2h5jnmen2e6m5kd2ylfl8ejm7szh24x6yc"
+    },
+    {
+      "vendorID": 5197,
+      "vendorName": "Atios",
+      "companyLegalName": "Atios AG",
+      "companyPreferredName": "Atios AG",
+      "vendorLandingPageURL": "https://atios.ch",
+      "creator": "cosmos1x9yk0t0j0eszhje7c9g57jn4fzsfyse8etrvhf"
+    },
+    {
+      "vendorID": 5202,
+      "vendorName": "Big Ass Fans",
+      "companyLegalName": "Delta T LLC dba Big Ass Fans",
+      "companyPreferredName": "Big Ass Fans",
+      "vendorLandingPageURL": "https://www.bigassfans.com",
+      "creator": "cosmos1vgm5jz7f0rw44seff9873tz6faeg3qe9emuv4e"
+    },
+    {
+      "vendorID": 5205,
+      "vendorName": "MagentaHome",
+      "companyLegalName": "Deutsche Telekom AG",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "https://www.telekom.com",
+      "creator": "cosmos1d8uffwzar97jrazd48asg00hkp8p70mu6hjzcy"
+    },
+    {
+      "vendorID": 5207,
+      "vendorName": "Wistar motor",
+      "companyLegalName": "Hangzhou Wistar Mechanical & Electric Technology Co., Ltd",
+      "companyPreferredName": "Wistar",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1nphdzy3f6yvuqt7vaxth9vjyz6s7pmfjq9v6nv"
+    },
+    {
+      "vendorID": 5212,
+      "vendorName": "Pin Genie,Inc. ",
+      "companyLegalName": "Pin Genie,Inc. ",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "https://lockly.com/",
+      "creator": "cosmos18nrf2q033uhrjwcg0xpetqtg4rl77q7m6ph8cz"
+    },
+    {
+      "vendorID": 5213,
+      "vendorName": "Hosiden",
+      "companyLegalName": "Hosiden Corp.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1tl7s9h3qmcfxh76rjlcwxfkvhju379la6uwd2c"
+    },
+    {
+      "vendorID": 5215,
+      "vendorName": "Good Way Technology",
+      "companyLegalName": "Good Way Technology Co., Ltd.",
+      "companyPreferredName": "Good Way",
+      "vendorLandingPageURL": "https://siot.goodway.com.tw/",
+      "creator": "cosmos1qr7a4rlx9zepme5f2pnm93erjw9m7djqwevcvw"
+    },
+    {
+      "vendorID": 5216,
+      "vendorName": "lipro",
+      "companyLegalName": "Zhuhai Ruran Intelligent Technology Co., LTD",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos128tknn7vhd3peuwrca4kzjan7v23qez7x3xlle"
+    },
+    {
+      "vendorID": 5217,
+      "vendorName": "Xinda",
+      "companyLegalName": "Xinda Asset Management (Shenzhen) Co.,Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1regpq9syqwf3yz5jd32a4mkumheuuhj5nv3ewy"
+    },
+    {
+      "vendorID": 5218,
+      "vendorName": "Energy Magic Cube",
+      "companyLegalName": "Chengdu Energy Magic Cube Technology Co., Ltd",
+      "companyPreferredName": "Chengdu Energy Magic Cube Technology Co., Ltd",
+      "vendorLandingPageURL": "https://www.nmfiot.com/",
+      "creator": "cosmos1eu73krkwy8d7semkcmwdr9sxjvm8z2dskc0pdj"
+    },
+    {
+      "vendorID": 5219,
+      "vendorName": "Eberle",
+      "companyLegalName": "EBERLE Controls GmbH",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "https://eberle.de/",
+      "creator": "cosmos1x0nqnw767dxncqdhh4jnnhag4vvm9fx93gt5ap"
+    },
+    {
+      "vendorID": 5222,
+      "vendorName": "Hangzhou Hemos Lighting Company Limited",
+      "companyLegalName": "Hangzhou Hemos Lighting Company Limited",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos12h6s9cem2j42jvushdww6f835c60l0ld794jn7"
+    },
+    {
+      "vendorID": 5224,
+      "vendorName": "Anona Security Technology Limited",
+      "companyLegalName": "Anona Security Technology Limited",
+      "companyPreferredName": "Anona Security",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1v5aj8hzr6fpvkt7khp6v9r6y0nt4gvnm53wsw9"
+    },
+    {
+      "vendorID": 5226,
+      "vendorName": "Intecular",
+      "companyLegalName": "Intecular LLC",
+      "companyPreferredName": "Intecular",
+      "vendorLandingPageURL": "https://intecular.com",
+      "creator": "cosmos1jcncv8t5lgxfwm9xl98s73tn72n6f40ehrk77s"
+    },
+    {
+      "vendorID": 5230,
+      "vendorName": "SMART",
+      "companyLegalName": "Shenzhen PINXUAN Trading Co.",
+      "companyPreferredName": "SMART",
+      "vendorLandingPageURL": "https://shop06k6620793y97.1688.com/",
+      "creator": "cosmos1kuf3ar0ueurcrl6ty4m7sn3yeqljmp7fnznsj8"
+    },
+    {
+      "vendorID": 5231,
+      "vendorName": "SmartWings",
+      "companyLegalName": "SamrtWings Home LLC",
+      "companyPreferredName": "SamrtWings Home LLC",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1s48jw28zpjwdt7nqrpsmc0a2mgsdcz075ppe6h"
+    },
+    {
+      "vendorID": 5232,
+      "vendorName": "HOPERF",
+      "companyLegalName": "Shenzhen Hope Microelectronics Co., Ltd",
+      "companyPreferredName": "HOPERF",
+      "vendorLandingPageURL": "https://www.hoperf.com/",
+      "creator": "cosmos1epjk4cz3pgek53k979e0jsqdrx08ah2ejajcq0"
+    },
+    {
+      "vendorID": 5234,
+      "vendorName": "JLM",
+      "companyLegalName": "Zhejiang jiecang Linear Motion Technology Co.,Ltd",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1j69fkgpeec8ltajdyesqqqef4h86npqp0ll0fx"
+    },
+    {
+      "vendorID": 5235,
+      "vendorName": "Shenzhen Lelight technology Co.ltd",
+      "companyLegalName": "Shenzhen Lelight technology Co.ltd",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos122r0yhafv2gye74umhpg7z2f8vqnnfu5j2grvm"
+    },
+    {
+      "vendorID": 5236,
+      "vendorName": "None",
+      "companyLegalName": "Shenzhen Ruomu Zhilian Technology Co., Ltd.",
+      "companyPreferredName": "None",
+      "vendorLandingPageURL": "https://shop6t5551b735163.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0",
+      "creator": "cosmos130ttsvrd9q9cvza28jtjjvzdl5ylfn4cynypuq"
+    },
+    {
+      "vendorID": 5239,
+      "vendorName": "MULTI IR TECHNOLOGY CO., LTD",
+      "companyLegalName": "SHENZHEN MULTI IR TECHNOLOGY CO., LTD",
+      "companyPreferredName": "Multi IR",
+      "vendorLandingPageURL": "http://en.mirsz.cn/",
+      "creator": "cosmos1ggj8xh6frn060a66zhgvjps93mua4y255sdsga"
+    },
+    {
+      "vendorID": 5240,
+      "vendorName": "APYNOV",
+      "companyLegalName": "APYNOV SAS",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1lav3njvxk2fng67relawu2d5d6708xxjjgjrws"
+    },
+    {
+      "vendorID": 5242,
+      "vendorName": "Shenzhen Realwe Innovation Technology  Co., Ltd.",
+      "companyLegalName": "Shenzhen Realwe Innovation Technology  Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1jeke5cmj69f7d9qtr9zfaasau8kea4cm5vt474"
+    },
+    {
+      "vendorID": 5243,
+      "vendorName": "LUMIFLOW",
+      "companyLegalName": "LUMIFLOW INC",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1glgunxwg533tghqxevkhwxz8lfrpv9gpaum84u"
+    },
+    {
+      "vendorID": 5244,
+      "vendorName": "SHENAN YANGGUANG",
+      "companyLegalName": "SHENZHEN SHENAN YANGGUANG ELECTRONICS CO., LTD.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1zsqkmc6xssr66q3y5yzqynym3c3ehlgn3aaxxh"
+    },
+    {
+      "vendorID": 5245,
+      "vendorName": "Wenzhou Morning Electronics Co., Ltd.",
+      "companyLegalName": "Wenzhou Morning Electronics Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1k9z0ns8u0mvv5xd4htvynscyy907tcng3m7uye"
+    },
+    {
+      "vendorID": 5246,
+      "vendorName": "MIWA LOCK",
+      "companyLegalName": "MIWA LOCK Co., LTD.",
+      "companyPreferredName": "MIWA LOCK",
+      "vendorLandingPageURL": "https://www.miwa-lock.co.jp/",
+      "creator": "cosmos1aw603y3gr272vvchds8097aww6dhfyp0l9qyal"
+    },
+    {
+      "vendorID": 5247,
+      "vendorName": "U-tec Group Inc.",
+      "companyLegalName": "U-tec Group Inc.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1wk0689xgevpp3l4c5y6axw4qjpudzlcl6nkz0r"
+    },
+    {
+      "vendorID": 5248,
+      "vendorName": "Roborock",
+      "companyLegalName": "Beijing Roborock Technology Co., Ltd.",
+      "companyPreferredName": "Roborock",
+      "vendorLandingPageURL": "https://www.roborock.com",
+      "creator": "cosmos1azewtguu3264xf6xe0ylm2jn4tjw8pvj60v526"
+    },
+    {
+      "vendorID": 5249,
+      "vendorName": "Shenzhen Xenon Industrial Ltd",
+      "companyLegalName": "Shenzhen Xenon Industrial Ltd",
+      "companyPreferredName": "Shenzhen Xenon Industrial Ltd",
+      "vendorLandingPageURL": "http://www.xenon.cn",
+      "creator": "cosmos1l2qu9zhkhtfsvd5rc620gdl343ewah2utq5zpv"
+    },
+    {
+      "vendorID": 5251,
+      "vendorName": "jhome",
+      "companyLegalName": "Shenzhen Jijia Intelligent Technology Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1ce59xfdzd4tx8ex5e9tv49k90zwntljf0qgnv5"
+    },
+    {
+      "vendorID": 5254,
+      "vendorName": "Infibrite",
+      "companyLegalName": "Infibrite Inc",
+      "companyPreferredName": "Infibrite",
+      "vendorLandingPageURL": "https://www.Infibrite.com",
+      "creator": "cosmos1006y3znqnu0ryq6s5nqtqd52hcm539n94u6d6v"
+    },
+    {
+      "vendorID": 5256,
+      "vendorName": "Flic",
+      "companyLegalName": "Shortcut Labs AB",
+      "companyPreferredName": "Shortcut Labs (Flic)",
+      "vendorLandingPageURL": "https://flic.io",
+      "creator": "cosmos1tkzjp6p2v9m7xs3azjxhmztmxthz5ja8lek36y"
+    },
+    {
+      "vendorID": 5258,
+      "vendorName": "Occhio",
+      "companyLegalName": "Occhio GmbH",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos14g0e26azdsqpuumx5cq9l839uge83ay93yv50x"
+    },
+    {
+      "vendorID": 5259,
+      "vendorName": "Samraj",
+      "companyLegalName": "Samraj Technologies Limited",
+      "companyPreferredName": "Samraj",
+      "vendorLandingPageURL": "https://www.samraj.tech/",
+      "creator": "cosmos1lnpt2686007wzf68qsfpnk0lwuzkclrfnflq2t"
+    },
+    {
+      "vendorID": 5262,
+      "vendorName": "Binthen",
+      "companyLegalName": "Hangzhou Binthen intelligence technology Co., LTD",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1axmgaerfyruezzxuz5mjpwvedekxg89rllk6ke"
+    },
+    {
+      "vendorID": 5267,
+      "vendorName": "NIE-TECH Co., Ltd.",
+      "companyLegalName": "NIE-TECH Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos12swuy3wadmwd4vluvhlcdpjzmsc80ekdujz04p"
+    },
+    {
+      "vendorID": 5268,
+      "vendorName": "Martin Renz GmbH",
+      "companyLegalName": "Martin Renz GmbH",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "https://renz-gmbh.de/",
+      "creator": "cosmos17l3ut9xu6rzqy42sftxt68fm4wqpeq0vgpvyvq"
+    },
+    {
+      "vendorID": 5269,
+      "vendorName": "PACIFIC HOGAR, S.L.",
+      "companyLegalName": "PACIFIC HOGAR, S.L.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1mple7mg5nq449cpz6zwrmsjpx53kengd7hzhzu"
+    },
+    {
+      "vendorID": 5270,
+      "vendorName": "InnoPhase IOT",
+      "companyLegalName": "InnoPhase IOT Inc",
+      "companyPreferredName": "InnoPhase IOT Inc",
+      "vendorLandingPageURL": "https://innophaseiot.com/",
+      "creator": "cosmos1czce74826vrvdr8z4je4m5ltrlz9ks49w2phcv"
+    },
+    {
+      "vendorID": 5271,
+      "vendorName": "DMA Inc.",
+      "companyLegalName": "DMA Inc.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1v7y22lzdjl92r6peatmj2wm0gur294zmaprh2l"
+    },
+    {
+      "vendorID": 5273,
+      "vendorName": "CLIO",
+      "companyLegalName": "CLIO Co., Ltd.",
+      "companyPreferredName": "CLIO",
+      "vendorLandingPageURL": "https://www.iclio.com/",
+      "creator": "cosmos1krps7m6xtj0whqura6dkzh8fezdf5marpj2fkr"
+    },
+    {
+      "vendorID": 5275,
+      "vendorName": "AIGOSTAR",
+      "companyLegalName": "Agzzx Optoelectronics Technology Co., Ltd",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos19rjnu3h5pm5l8c3yqlf6kmuxnt3k3rr0zgvyga"
+    },
+    {
+      "vendorID": 5276,
+      "vendorName": "HONG KONG LAUNRAY INDUSTRY LIMITED",
+      "companyLegalName": "HONG KONG LAUNRAY INDUSTRY LIMITED",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1hksc9cggwm98wren9tvfre5k06zs7w7l0dfgs8"
+    },
+    {
+      "vendorID": 5279,
+      "vendorName": "Deyi Smart ",
+      "companyLegalName": "Deyi Smart Home Co.,Ltd",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1cuwltw8ncu80vhzk7fz65nqyzt3smsd64jy5hx"
+    },
+    {
+      "vendorID": 5282,
+      "vendorName": "Hugo",
+      "companyLegalName": "Hugo Brennenstuhl GmbH & Co. KG",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1073nsrgp7p90fhee3mrarvp6l2lp6ayn27kr4r"
+    },
+    {
+      "vendorID": 5293,
+      "vendorName": "Raex",
+      "companyLegalName": "Guangdong RAEX Intelligent Technology Co.,Ltd.",
+      "companyPreferredName": "Guangdong RAEX Intelligent Technology Co.,Ltd.",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos12q4krt68dmy8gvn7r4umzcupkyln4c4nmuw49q"
+    },
+    {
+      "vendorID": 5376,
+      "vendorName": "SmartWave",
+      "companyLegalName": "SmartWave Inc.",
+      "companyPreferredName": "SmartWave",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos18xp4c6ywuc4u6as8ny9crtky70w4gftxw9l8w0"
+    },
+    {
+      "vendorID": 5379,
+      "vendorName": "RM",
+      "companyLegalName": "Qingdao Ronco Mechanic Electronic Technology Co., Ltd.",
+      "companyPreferredName": "RM",
+      "vendorLandingPageURL": "https://www.ronco-tm.com/en/",
+      "creator": "cosmos1vpnzh6hu2pur3hel5ar2h9sz69hatsj454qkye"
+    },
+    {
+      "vendorID": 5380,
+      "vendorName": "Hangzhou Mango Network Technology Co, LTD.",
+      "companyLegalName": "Hangzhou Mango Network Technology Co, LTD.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1hjy6x3f6ypfvxj2lvx9dl0wqkt7j4gwvlh9tw3"
+    },
+    {
+      "vendorID": 5382,
+      "vendorName": "SAFEMO",
+      "companyLegalName": "SAFEMO PTE. LTD.",
+      "companyPreferredName": "SAFEMO",
+      "vendorLandingPageURL": "https://safemo.com/",
+      "creator": "cosmos125n9hnad4rq6ekht9pmyvfg7dwxxg4zlkvsmwt"
+    },
+    {
+      "vendorID": 5384,
+      "vendorName": "Rui Teng",
+      "companyLegalName": "Rui Teng Opto Technology Co.,Ltd",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos12t5dh6xrtaamxhvv7wz9kv2gfggxh4n47ejggx"
+    },
+    {
+      "vendorID": 5388,
+      "vendorName": "Nexxt Solutions LLC",
+      "companyLegalName": "Nexxt Solutions LLC",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1kejat894lhk6aqypwezmdy2kv804jcd032xnut"
+    },
+    {
+      "vendorID": 5389,
+      "vendorName": "Shenzhen Huayu Lian Technology Co., Ltd",
+      "companyLegalName": "Shenzhen Huayu Lian Technology Co., Ltd",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos18vqr7xfsyhxqwk7yhjah2agpe2qcgh7zew3sjp"
+    },
+    {
+      "vendorID": 5391,
+      "vendorName": "in-lite",
+      "companyLegalName": "in-lite Design B.V.",
+      "companyPreferredName": "in-lite Design B.V.",
+      "vendorLandingPageURL": "https://in-lite.com/en/",
+      "creator": "cosmos1p0mq620zlw9hqyv467ez0u3ws2pza4gj2dy9hj"
+    },
+    {
+      "vendorID": 5393,
+      "vendorName": "Saishigao",
+      "companyLegalName": "Hangzhou Saishigao Intelligent Technology Co., Ltd",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos16ygvjps405vq5prg0xlyrmym9xuft6gyu3jcna"
+    },
+    {
+      "vendorID": 5394,
+      "vendorName": "Yourlite",
+      "companyLegalName": "Ningbo Yourlite Imp. & Exp. Co., Ltd.",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1uxeph9pf7d6j784p2kzzknqnvhk82ym87g7jng"
+    },
+    {
+      "vendorID": 5395,
+      "vendorName": "ALPHA",
+      "companyLegalName": "Alpha Tubular Motors",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1eefv5l06c23zza2f503vrjeaqltdnfchksrfva"
+    },
+    {
+      "vendorID": 5396,
+      "vendorName": "Chuan Dian",
+      "companyLegalName": "Zhongshan Chuan Dian electronic Technology Co., LTD",
+      "companyPreferredName": "",
+      "vendorLandingPageURL": "",
+      "creator": "cosmos1g7yzhvclx5hpar6h087x0v38xll9v4n59smtpx"
+    },
+    {
+      "vendorID": 5401,
+      "vendorName": "i3 Engineering",
+      "companyLegalName": "I3 ENGINEERING LLC",
+      "companyPreferredName": "i3 Engineering",
+      "vendorLandingPageURL": "https://i3engineering.com/",
+      "creator": "cosmos1s6s8u63x04adrdzj4vf4c92n3cp96yq9qdj7gd"
+    }
+  ],
+  "pagination": {
+    "next_key": "AAAVGgAAAAAv",
+    "total": "0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "vid": 4701,
+  "pid": 1798,
+  "softwareVersion": 65793,
+  "softwareVersionString": "light-1.0.7",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://images.tuyacn.com/smart/firmware/matter/ota/d03ef9be73aa49cc8ca17a100154e8d59c9308caba5f114ce8b5dbaf0cbeb9d8.ota",
+  "otaFileSize": "516874",
+  "otaChecksum": "0D75vnOqScyMoXoQAVTo1ZyTCMq6XxFM6LXbrwy+udg=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 65792,
+  "releaseNotesUrl": "",
+  "creator": "cosmos13pwvzq2zk0r3fxuc2a5jhadnx6tda5ar2tcpp9"
+}

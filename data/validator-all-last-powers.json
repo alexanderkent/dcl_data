@@ -1,0 +1,44 @@
+{
+  "lastValidatorPower": [
+    {
+      "owner": "cosmosvaloper1z34c0ud0sh09am2rxz2ueh94rkx7lkhn5cu0sj",
+      "power": 10
+    },
+    {
+      "owner": "cosmosvaloper1rrac3hdy09vhzsf3g70dsvgt82zlgawgnf4txl",
+      "power": 10
+    },
+    {
+      "owner": "cosmosvaloper1rw0ssqkqakaqycaqpj7uhvc7puuyzhzluxl2cz",
+      "power": 10
+    },
+    {
+      "owner": "cosmosvaloper1yu2c4nldygfh2tfl6llgh7x2zvjygrlwj4lzyc",
+      "power": 10
+    },
+    {
+      "owner": "cosmosvaloper18agjaqga63t364utx0wezsep2grl2d8jjlzx69",
+      "power": 10
+    },
+    {
+      "owner": "cosmosvaloper1dj9avtfs5g9z6yxkh9kcgqhcw3cfc2sh3gcgym",
+      "power": 10
+    },
+    {
+      "owner": "cosmosvaloper1jyfr6zxzpf9rwjcwzfq7f524zpq0607xp4d4j7",
+      "power": 10
+    },
+    {
+      "owner": "cosmosvaloper1jjmvxty8jxe2fptydjsfejjxwx4ajdczgkrs2c",
+      "power": 10
+    },
+    {
+      "owner": "cosmosvaloper1k66hqfxp2346fztgk2xsctf8n9chzxzyxq6lju",
+      "power": 10
+    }
+  ],
+  "pagination": {
+    "next_key": null,
+    "total": "0"
+  }
+}

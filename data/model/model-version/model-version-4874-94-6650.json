@@ -1,0 +1,17 @@
+{
+  "vid": 4874,
+  "pid": 94,
+  "softwareVersion": 6650,
+  "softwareVersionString": "3.2.1",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://eve-updates.evehome.com/matter/eve_energy_au-3.2.1-matter-benc-enc-8A65BEE9-4A2F-4B61-9217-EF5BF81400CF.bin",
+  "otaFileSize": "890915",
+  "otaChecksum": "5OgCtas4B7KvRQelAF9IFF6QI6qmWQxxCBzDfco8VhE=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 6200,
+  "maxApplicableSoftwareVersion": 6649,
+  "releaseNotesUrl": "https://www.evehome.com/matter-release-notes?product=eve-energy-australia&version=3-2-1",
+  "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+}

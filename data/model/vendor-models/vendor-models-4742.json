@@ -1,0 +1,50 @@
+{
+  "vid": 4742,
+  "products": [
+    {
+      "pid": 2,
+      "name": "Smart Plug-in Unit",
+      "partNumber": "0000000000000000000000000000001"
+    },
+    {
+      "pid": 1,
+      "name": "Smart Color Light",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 11,
+      "name": "Wi-Fi Switch",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 12,
+      "name": "Wi-Fi Switch",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 13,
+      "name": "Wi-Fi Switch",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 35,
+      "name": "eWeLink Smart Bridge",
+      "partNumber": "0000000000000000000000000000000"
+    },
+    {
+      "pid": 36,
+      "name": "eWeLink Smart Bridge",
+      "partNumber": "0000000000000000000000000000000"
+    },
+    {
+      "pid": 125,
+      "name": "Color Temperature Light",
+      "partNumber": "00000000000000000000000000000001"
+    },
+    {
+      "pid": 61441,
+      "name": "Smart Plug-in Unit",
+      "partNumber": "0000000000000000000000000000001"
+    }
+  ]
+}

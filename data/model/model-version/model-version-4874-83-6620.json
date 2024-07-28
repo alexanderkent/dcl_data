@@ -1,0 +1,17 @@
+{
+  "vid": 4874,
+  "pid": 83,
+  "softwareVersion": 6620,
+  "softwareVersionString": "3.2.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://eve-updates.evehome.com/matter/eve_energy_us-3.2.0-matter-benc-enc-C41A9BCA-643D-47DC-A8C0-ABA9D314003D.bin",
+  "otaFileSize": "890882",
+  "otaChecksum": "G5NY7hMMGDvT1TtcVrjlRixigeeUSNW5s1PeH24ojHI=",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 6200,
+  "maxApplicableSoftwareVersion": 6619,
+  "releaseNotesUrl": "https://www.evehome.com/matter-release-notes?product=eve-energy-us-canada&version=3-2-0",
+  "creator": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t"
+}

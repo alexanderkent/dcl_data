@@ -1,0 +1,17 @@
+{
+  "vid": 5391,
+  "pid": 1,
+  "softwareVersion": 1002004,
+  "softwareVersionString": "1.2.4",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 1002004,
+  "maxApplicableSoftwareVersion": 1002004,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1p0mq620zlw9hqyv467ez0u3ws2pza4gj2dy9hj"
+}

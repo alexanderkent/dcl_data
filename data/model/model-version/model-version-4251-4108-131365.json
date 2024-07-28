@@ -1,0 +1,17 @@
+{
+  "vid": 4251,
+  "pid": 4108,
+  "softwareVersion": 131365,
+  "softwareVersionString": "2.1.25",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 131365,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1ypyp8zrqeu64rjmx3u34ghvl64uajr67uams3d"
+}

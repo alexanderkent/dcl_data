@@ -1,0 +1,20 @@
+{
+  "vid": 5141,
+  "products": [
+    {
+      "pid": 3073,
+      "name": "SQCM01",
+      "partNumber": "SQCM01"
+    },
+    {
+      "pid": 3074,
+      "name": "SQCM02",
+      "partNumber": "SQCM02"
+    },
+    {
+      "pid": 193,
+      "name": "Caveman Smart A19/A60 Light Bulb",
+      "partNumber": "SQCM01"
+    }
+  ]
+}

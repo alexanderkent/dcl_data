@@ -1,0 +1,168 @@
+{
+  "validator": [
+    {
+      "owner": "cosmosvaloper1z34c0ud0sh09am2rxz2ueh94rkx7lkhn5cu0sj",
+      "description": {
+        "moniker": "Lumi-VN-01",
+        "identity": "",
+        "website": "",
+        "details": ""
+      },
+      "pubKey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "K/4VIMkYLhYJlmLV/ePTw+C4/o1+pkMNuREuZIGihYY="
+      },
+      "power": 10,
+      "jailed": false,
+      "jailedReason": ""
+    },
+    {
+      "owner": "cosmosvaloper1rrac3hdy09vhzsf3g70dsvgt82zlgawgnf4txl",
+      "description": {
+        "moniker": "Tuya-VN-01",
+        "identity": "",
+        "website": "",
+        "details": ""
+      },
+      "pubKey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "QN1lu1PIsdqtIhBuqRCFb4N+NvJ0zvhXImDv9K6wjZs="
+      },
+      "power": 10,
+      "jailed": false,
+      "jailedReason": ""
+    },
+    {
+      "owner": "cosmosvaloper1rw0ssqkqakaqycaqpj7uhvc7puuyzhzluxl2cz",
+      "description": {
+        "moniker": "Comcast-VN-01",
+        "identity": "",
+        "website": "",
+        "details": ""
+      },
+      "pubKey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "HC+y1IE64YevIKtfQzZvWRtxTN9Uk+Tc+vI+afGk898="
+      },
+      "power": 10,
+      "jailed": false,
+      "jailedReason": ""
+    },
+    {
+      "owner": "cosmosvaloper1yu2c4nldygfh2tfl6llgh7x2zvjygrlwj4lzyc",
+      "description": {
+        "moniker": "DSR-VN-01",
+        "identity": "",
+        "website": "",
+        "details": ""
+      },
+      "pubKey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "UF0ca0pzRd/3qkNWAK2TPKDv5MhUk/ti4/uIsM4xhyY="
+      },
+      "power": 10,
+      "jailed": false,
+      "jailedReason": ""
+    },
+    {
+      "owner": "cosmosvaloper18agjaqga63t364utx0wezsep2grl2d8jjlzx69",
+      "description": {
+        "moniker": "CHARTER-VN-01",
+        "identity": "",
+        "website": "",
+        "details": ""
+      },
+      "pubKey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "J7koezPOL7k9MBbyT897TiEShoS6WGubgXW4zUpFB4A="
+      },
+      "power": 10,
+      "jailed": false,
+      "jailedReason": ""
+    },
+    {
+      "owner": "cosmosvaloper1dj9avtfs5g9z6yxkh9kcgqhcw3cfc2sh3gcgym",
+      "description": {
+        "moniker": "CSA-Genesis-VN-01",
+        "identity": "",
+        "website": "",
+        "details": ""
+      },
+      "pubKey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "h47v1Zmly9D+U/KCQNpqG2skg5/JJz6FNXF7mrtrtf4="
+      },
+      "power": 10,
+      "jailed": false,
+      "jailedReason": ""
+    },
+    {
+      "owner": "cosmosvaloper1jyfr6zxzpf9rwjcwzfq7f524zpq0607xp4d4j7",
+      "description": {
+        "moniker": "Commscope-DCL-VN-01",
+        "identity": "",
+        "website": "",
+        "details": ""
+      },
+      "pubKey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "9aY7qpK1zhfwJFVG2QtjmBc8ACxPlkg0Q5FmK15KzM8="
+      },
+      "power": 10,
+      "jailed": false,
+      "jailedReason": ""
+    },
+    {
+      "owner": "cosmosvaloper1jjmvxty8jxe2fptydjsfejjxwx4ajdczgkrs2c",
+      "description": {
+        "moniker": "Amazon-VN-01",
+        "identity": "",
+        "website": "",
+        "details": ""
+      },
+      "pubKey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "g2AKEqy1OMgmN+dgKsJ2Niz8gMdCwSvCorXOzkegEZw="
+      },
+      "power": 10,
+      "jailed": false,
+      "jailedReason": ""
+    },
+    {
+      "owner": "cosmosvaloper1k66hqfxp2346fztgk2xsctf8n9chzxzyxq6lju",
+      "description": {
+        "moniker": "Samsung-VN-01",
+        "identity": "",
+        "website": "",
+        "details": ""
+      },
+      "pubKey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "sUedSfNj0K6AcAhlTX23RAkC4QtrFMb3qAZiHUlqvuI="
+      },
+      "power": 10,
+      "jailed": false,
+      "jailedReason": ""
+    },
+    {
+      "owner": "cosmosvaloper1hk2lep7f9gqafsnzm6p5h65nxkyq496atsdsu6",
+      "description": {
+        "moniker": "Latch-VN-01",
+        "identity": "",
+        "website": "",
+        "details": ""
+      },
+      "pubKey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "eXKZJN+31b/CxoivWsAB9gzOVMVkJQBdRb1O4MwRN0A="
+      },
+      "power": 0,
+      "jailed": true,
+      "jailedReason": "CSA proposal to disable Latch-VN-01"
+    }
+  ],
+  "pagination": {
+    "next_key": null,
+    "total": "0"
+  }
+}

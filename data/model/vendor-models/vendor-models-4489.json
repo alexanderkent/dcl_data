@@ -1,0 +1,60 @@
+{
+  "vid": 4489,
+  "products": [
+    {
+      "pid": 844,
+      "name": "Ledvance Matter Filament RGBW",
+      "partNumber": "AC52861"
+    },
+    {
+      "pid": 845,
+      "name": "Ledvance Matter Filament RGBW",
+      "partNumber": "AC52862"
+    },
+    {
+      "pid": 843,
+      "name": "Ledvance Matter Filament RGBW",
+      "partNumber": "AC52863"
+    },
+    {
+      "pid": 1121,
+      "name": "Ledvance Matter Classic G RGBW",
+      "partNumber": "AC52859"
+    },
+    {
+      "pid": 831,
+      "name": "Ledvance Matter Classic A RGBW",
+      "partNumber": "AC52854"
+    },
+    {
+      "pid": 832,
+      "name": "Ledvance Matter Classic A RGBW",
+      "partNumber": "AC55417"
+    },
+    {
+      "pid": 829,
+      "name": "Ledvance Matter Classic A RGBW",
+      "partNumber": "AC52855"
+    },
+    {
+      "pid": 828,
+      "name": "Ledvance Matter Classic A RGBW",
+      "partNumber": "AC52856"
+    },
+    {
+      "pid": 835,
+      "name": "Ledvance Matter Classic B P RGBW",
+      "partNumber": "AC52858"
+    },
+    {
+      "pid": 833,
+      "name": "Ledvance Matter Classic B P RGBW",
+      "partNumber": "AC52857"
+    },
+    {
+      "pid": 1120,
+      "name": "Ledvance Matter PAR16 RGBW",
+      "partNumber": "AC52860"
+    }
+  ]
+}

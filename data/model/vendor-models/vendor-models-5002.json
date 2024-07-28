@@ -1,0 +1,15 @@
+{
+  "vid": 5002,
+  "products": [
+    {
+      "pid": 5010,
+      "name": "Nature Remo nano",
+      "partNumber": "Remo-5W1"
+    },
+    {
+      "pid": 2030,
+      "name": "Nature Remo Lapis",
+      "partNumber": "Remo-2W3"
+    }
+  ]
+}

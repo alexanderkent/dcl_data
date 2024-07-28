@@ -1,0 +1,17 @@
+{
+  "vid": 4930,
+  "pid": 1000,
+  "softwareVersion": 0,
+  "softwareVersionString": "0",
+  "cdVersionNumber": 0,
+  "firmwareInformation": "",
+  "softwareVersionValid": false,
+  "otaUrl": "https://raw.githubusercontent.com/cenfang/ota/main/beken7231_bsp.ota",
+  "otaFileSize": "667855",
+  "otaChecksum": "0",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 100,
+  "maxApplicableSoftwareVersion": 100,
+  "releaseNotesUrl": "",
+  "creator": "cosmos1aru484uj9dqkpnqg768tl6m66fvz9wkqcg79cw"
+}

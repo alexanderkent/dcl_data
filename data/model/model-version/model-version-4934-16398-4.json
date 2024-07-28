@@ -1,0 +1,17 @@
+{
+  "vid": 4934,
+  "pid": 16398,
+  "softwareVersion": 4,
+  "softwareVersionString": "4.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://github.com/RafaelMicro/matter_sdk/releases/download/1.1.0/chip-rt582-lighting-app-example.ota",
+  "otaFileSize": "457637",
+  "otaChecksum": "7f763616f9b4250540226ed32fbc643f4fb475bb24716544051a4ced04b4dc32",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 99,
+  "releaseNotesUrl": "",
+  "creator": "cosmos14myns7fehcxm2c896k5syhzr7zsyf7g4jdlk08"
+}

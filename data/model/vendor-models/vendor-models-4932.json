@@ -1,0 +1,30 @@
+{
+  "vid": 4932,
+  "products": [
+    {
+      "pid": 1053,
+      "name": "EUD62NPN-IPM/110-240V",
+      "partNumber": "30062007"
+    },
+    {
+      "pid": 1009,
+      "name": "ESR64NP-IPM",
+      "partNumber": "30064015"
+    },
+    {
+      "pid": 1010,
+      "name": "ESR64PF-IPM",
+      "partNumber": "30064021"
+    },
+    {
+      "pid": 1054,
+      "name": "EUD64NPN-IPM",
+      "partNumber": "30064017"
+    },
+    {
+      "pid": 1104,
+      "name": "ESB64NP-IPM",
+      "partNumber": "30064019"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "vid": 4910,
+  "products": [
+    {
+      "pid": 9985,
+      "name": "A19 Smart Bulb",
+      "partNumber": "PMECL9985"
+    },
+    {
+      "pid": 9986,
+      "name": "A19 Smart Bulb",
+      "partNumber": "PMECL9986"
+    },
+    {
+      "pid": 18177,
+      "name": "A19 Smart Bulb",
+      "partNumber": "PMECL18177"
+    },
+    {
+      "pid": 18178,
+      "name": "A19 Smart Bulb",
+      "partNumber": "PMECL18178"
+    },
+    {
+      "pid": 9987,
+      "name": "A19 Smart Bulb",
+      "partNumber": "PMECL9987"
+    }
+  ]
+}

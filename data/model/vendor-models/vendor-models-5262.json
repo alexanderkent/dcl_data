@@ -1,0 +1,15 @@
+{
+  "vid": 5262,
+  "products": [
+    {
+      "pid": 999,
+      "name": "DC tubular motor",
+      "partNumber": "BTM25DE"
+    },
+    {
+      "pid": 1,
+      "name": "BCM400D ",
+      "partNumber": "BCM400D "
+    }
+  ]
+}

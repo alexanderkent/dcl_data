@@ -1,0 +1,15 @@
+{
+  "vid": 4930,
+  "products": [
+    {
+      "pid": 1001,
+      "name": "BK7235 On/Off Lighting",
+      "partNumber": "BK7235 On/Off Lighting"
+    },
+    {
+      "pid": 1000,
+      "name": "beken ota test",
+      "partNumber": "1"
+    }
+  ]
+}

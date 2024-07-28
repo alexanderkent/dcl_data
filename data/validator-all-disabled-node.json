@@ -1,0 +1,36 @@
+{
+  "disabledValidator": [
+    {
+      "address": "cosmosvaloper1hk2lep7f9gqafsnzm6p5h65nxkyq496atsdsu6",
+      "creator": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+      "approvals": [
+        {
+          "address": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+          "time": "1690935788",
+          "info": "CSA proposal to disable Latch-VN-01"
+        },
+        {
+          "address": "cosmos1r4536sk78smtaeu6xnky2pdgm3z4kdjncv9mk6",
+          "time": "1690936339",
+          "info": "Approval from Samsung"
+        },
+        {
+          "address": "cosmos15hzlqqg27xm9e0eky3ynwepux4833ayygnzmcj",
+          "time": "1690974845",
+          "info": "Comcast Approval"
+        },
+        {
+          "address": "cosmos1hx657pawrp9294akamspsmj7y8y07mypwnh9a0",
+          "time": "1690983390",
+          "info": "DSR approval"
+        }
+      ],
+      "disabledByNodeAdmin": false,
+      "rejects": []
+    }
+  ],
+  "pagination": {
+    "next_key": null,
+    "total": "0"
+  }
+}

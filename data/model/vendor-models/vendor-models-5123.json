@@ -1,0 +1,25 @@
+{
+  "vid": 5123,
+  "products": [
+    {
+      "pid": 408,
+      "name": "RGB CCT Dimmable LED Downlight",
+      "partNumber": "ALD095MTRHA"
+    },
+    {
+      "pid": 404,
+      "name": "RGB CCT Dimmable LED A60 Globe ",
+      "partNumber": "GLD322MTRHA"
+    },
+    {
+      "pid": 1323,
+      "name": "Single Plugin Socket",
+      "partNumber": "PC191MTRHA"
+    },
+    {
+      "pid": 1258,
+      "name": "RGB + W Dimmable LED Lightstrip",
+      "partNumber": "ALD563MTRHA"
+    }
+  ]
+}

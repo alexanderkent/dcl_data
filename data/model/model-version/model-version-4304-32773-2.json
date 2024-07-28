@@ -1,0 +1,17 @@
+{
+  "vid": 4304,
+  "pid": 32773,
+  "softwareVersion": 2,
+  "softwareVersionString": "1.0",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 2,
+  "releaseNotesUrl": "https://github.com/Qorvo/QMatter",
+  "creator": "cosmos1qrpkuzgm7hfejejfyg20g34tjxlt4k8dsspq52"
+}

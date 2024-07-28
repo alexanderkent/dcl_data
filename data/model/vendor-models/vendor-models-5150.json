@@ -1,0 +1,35 @@
+{
+  "vid": 5150,
+  "products": [
+    {
+      "pid": 1,
+      "name": "arre Button",
+      "partNumber": "TSB3194"
+    },
+    {
+      "pid": 2,
+      "name": "TUO Contact Sensor",
+      "partNumber": "TCS0705"
+    },
+    {
+      "pid": 3,
+      "name": "arre Temperature Sensor",
+      "partNumber": "TTS-1195"
+    },
+    {
+      "pid": 4,
+      "name": "arre Smart Lock",
+      "partNumber": "ASL-1273"
+    },
+    {
+      "pid": 5,
+      "name": "arre Motion Sensor",
+      "partNumber": "AMS-042318"
+    },
+    {
+      "pid": 6,
+      "name": "arre Dimmer",
+      "partNumber": "ADS-0423"
+    }
+  ]
+}

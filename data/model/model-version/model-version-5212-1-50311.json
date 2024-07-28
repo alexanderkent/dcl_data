@@ -1,0 +1,17 @@
+{
+  "vid": 5212,
+  "pid": 1,
+  "softwareVersion": 50311,
+  "softwareVersionString": "05.03.11",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 999999,
+  "releaseNotesUrl": "",
+  "creator": "cosmos18nrf2q033uhrjwcg0xpetqtg4rl77q7m6ph8cz"
+}

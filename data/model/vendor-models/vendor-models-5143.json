@@ -1,0 +1,20 @@
+{
+  "vid": 5143,
+  "products": [
+    {
+      "pid": 4096,
+      "name": "Konnected Alarm Panel Pro",
+      "partNumber": "APPROv1"
+    },
+    {
+      "pid": 4112,
+      "name": "Konnected Garage Door Opener White",
+      "partNumber": "GDOv2-S"
+    },
+    {
+      "pid": 4128,
+      "name": "Konnected Garage Door Opener blaQ",
+      "partNumber": "GDOv2-Q"
+    }
+  ]
+}

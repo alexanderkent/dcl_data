@@ -1,0 +1,15 @@
+{
+  "vid": 5197,
+  "products": [
+    {
+      "pid": 4097,
+      "name": "Atios KNX Bridge",
+      "partNumber": "1001"
+    },
+    {
+      "pid": 8193,
+      "name": "SmartCore",
+      "partNumber": "2002"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "vid": 4974,
+  "pid": 8,
+  "softwareVersion": 171,
+  "softwareVersionString": "171",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "",
+  "otaFileSize": "0",
+  "otaChecksum": "",
+  "otaChecksumType": 0,
+  "minApplicableSoftwareVersion": 0,
+  "maxApplicableSoftwareVersion": 171,
+  "releaseNotesUrl": "",
+  "creator": "cosmos12st2nx5elvkyswv7nqw6xh6j67vg472lcv0299"
+}

@@ -1,0 +1,15 @@
+{
+  "vid": 4954,
+  "products": [
+    {
+      "pid": 1,
+      "name": "Smart window handle",
+      "partNumber": "ZHSM0020-002010"
+    },
+    {
+      "pid": 2,
+      "name": "Smart sensor",
+      "partNumber": "ZUFS1000-0J9010"
+    }
+  ]
+}

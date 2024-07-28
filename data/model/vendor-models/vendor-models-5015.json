@@ -1,0 +1,15 @@
+{
+  "vid": 5015,
+  "products": [
+    {
+      "pid": 2024,
+      "name": "Hub Mini",
+      "partNumber": "W0202203"
+    },
+    {
+      "pid": 2023,
+      "name": "Hub 2",
+      "partNumber": "W3202100"
+    }
+  ]
+}

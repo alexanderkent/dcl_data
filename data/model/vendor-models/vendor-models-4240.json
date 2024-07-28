@@ -1,0 +1,15 @@
+{
+  "vid": 4240,
+  "products": [
+    {
+      "pid": 4098,
+      "name": "SeeZero Display",
+      "partNumber": "PCK-CN"
+    },
+    {
+      "pid": 8193,
+      "name": "SeeZero Thermostat",
+      "partNumber": "PCK-HC"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+name: Validate JSON
+
+on: [push, pull_request]
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Validate JSON files
+        run: |
+          find data/ -name "*.json" -print0 | xargs -0 -I {} bash -c 'jq empty {} || echo "Invalid JSON in file: {}"'

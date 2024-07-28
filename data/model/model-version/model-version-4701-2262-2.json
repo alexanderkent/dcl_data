@@ -1,0 +1,17 @@
+{
+  "vid": 4701,
+  "pid": 2262,
+  "softwareVersion": 2,
+  "softwareVersionString": "light-1.5.9",
+  "cdVersionNumber": 1,
+  "firmwareInformation": "",
+  "softwareVersionValid": true,
+  "otaUrl": "https://images.tuyacn.com/smart/firmware/matter/ota/17192167559143118d83b.bin",
+  "otaFileSize": "526410",
+  "otaChecksum": "f135907208d8accbf537937e5c02eee60c95d4774f983825d0113d182bc00006",
+  "otaChecksumType": 1,
+  "minApplicableSoftwareVersion": 1,
+  "maxApplicableSoftwareVersion": 9,
+  "releaseNotesUrl": "",
+  "creator": "cosmos13pwvzq2zk0r3fxuc2a5jhadnx6tda5ar2tcpp9"
+}
