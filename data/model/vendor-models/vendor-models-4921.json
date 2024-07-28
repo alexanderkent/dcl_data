@@ -125,6 +125,16 @@
       "pid": 64,
       "name": "Cync Indoor Plug",
       "partNumber": "CPLGSTDBLW1MS"
+    },
+    {
+      "pid": 107,
+      "name": "Cync Reveal Full Color Light",
+      "partNumber": "CLEDA199CDRVMS"
+    },
+    {
+      "pid": 21,
+      "name": "Cync Full Color Bulb",
+      "partNumber": "CLEDA199CD1MS"
     }
   ]
 }

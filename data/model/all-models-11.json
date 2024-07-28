@@ -1,6 +1,46 @@
 {
   "model": [
     {
+      "vid": 4974,
+      "pid": 8,
+      "deviceTypeId": 19,
+      "productName": "Ambi Climate Mini 2",
+      "productLabel": "AM02",
+      "partNumber": "AM02",
+      "commissioningCustomFlow": 0,
+      "commissioningCustomFlowUrl": "",
+      "commissioningModeInitialStepsHint": 0,
+      "commissioningModeInitialStepsInstruction": "",
+      "commissioningModeSecondaryStepsHint": 0,
+      "commissioningModeSecondaryStepsInstruction": "",
+      "userManualUrl": "",
+      "supportUrl": "",
+      "productUrl": "",
+      "lsfUrl": "",
+      "lsfRevision": 0,
+      "creator": "cosmos12st2nx5elvkyswv7nqw6xh6j67vg472lcv0299"
+    },
+    {
+      "vid": 4977,
+      "pid": 256,
+      "deviceTypeId": 257,
+      "productName": "Wireless module MTR",
+      "productLabel": "Light/Switch Device",
+      "partNumber": "28004482",
+      "commissioningCustomFlow": 0,
+      "commissioningCustomFlowUrl": "",
+      "commissioningModeInitialStepsHint": 0,
+      "commissioningModeInitialStepsInstruction": "",
+      "commissioningModeSecondaryStepsHint": 0,
+      "commissioningModeSecondaryStepsInstruction": "",
+      "userManualUrl": "",
+      "supportUrl": "",
+      "productUrl": "https://www.tridonic.com/28004482",
+      "lsfUrl": "",
+      "lsfRevision": 0,
+      "creator": "cosmos16ad3em3nrqzf854p03audmgdl3pc384467yzav"
+    },
+    {
       "vid": 4977,
       "pid": 257,
       "deviceTypeId": 257,
@@ -1959,50 +1999,10 @@
       "lsfUrl": "",
       "lsfRevision": 0,
       "creator": "cosmos15qlrdtlxgkdwjy0u72elamlgu3cjffjc6rvf4e"
-    },
-    {
-      "vid": 4999,
-      "pid": 28775,
-      "deviceTypeId": 269,
-      "productName": "Govee Outdoor Deck Lights",
-      "productLabel": "Govee Outdoor Deck Lights",
-      "partNumber": "H7067",
-      "commissioningCustomFlow": 0,
-      "commissioningCustomFlowUrl": "",
-      "commissioningModeInitialStepsHint": 0,
-      "commissioningModeInitialStepsInstruction": "",
-      "commissioningModeSecondaryStepsHint": 0,
-      "commissioningModeSecondaryStepsInstruction": "",
-      "userManualUrl": "",
-      "supportUrl": "",
-      "productUrl": "",
-      "lsfUrl": "",
-      "lsfRevision": 0,
-      "creator": "cosmos15qlrdtlxgkdwjy0u72elamlgu3cjffjc6rvf4e"
-    },
-    {
-      "vid": 4999,
-      "pid": 28776,
-      "deviceTypeId": 269,
-      "productName": "Govee Outdoor Deck Lights",
-      "productLabel": "Govee Outdoor Deck Lights",
-      "partNumber": "H7068",
-      "commissioningCustomFlow": 0,
-      "commissioningCustomFlowUrl": "",
-      "commissioningModeInitialStepsHint": 0,
-      "commissioningModeInitialStepsInstruction": "",
-      "commissioningModeSecondaryStepsHint": 0,
-      "commissioningModeSecondaryStepsInstruction": "",
-      "userManualUrl": "",
-      "supportUrl": "",
-      "productUrl": "",
-      "lsfUrl": "",
-      "lsfRevision": 0,
-      "creator": "cosmos15qlrdtlxgkdwjy0u72elamlgu3cjffjc6rvf4e"
     }
   ],
   "pagination": {
-    "next_key": "AAAThy8AAHBpLw==",
+    "next_key": "AAAThy8AAHBnLw==",
     "total": "0"
   }
 }

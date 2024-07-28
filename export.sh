@@ -5,6 +5,9 @@ mkdir -p data/model/vendor-models/
 mkdir -p data/model/all-versions/
 mkdir -p data/model/model-version/
 
+# Status 
+/root/dcld status --node tcp://localhost:26657 | jq > ./data/status.json
+
 # Fetch Vendor Info
 echo "Fetching vendor info..."
 page=1

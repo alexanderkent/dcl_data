@@ -20,6 +20,16 @@
       "pid": 4,
       "name": "Haiku L Series",
       "partNumber": "0"
+    },
+    {
+      "pid": 5,
+      "name": "Speakeasy",
+      "partNumber": "0"
+    },
+    {
+      "pid": 6,
+      "name": "Turbo6",
+      "partNumber": "0"
     }
   ]
 }

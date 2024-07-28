@@ -1742,6 +1742,26 @@
     },
     {
       "vid": 4921,
+      "pid": 21,
+      "deviceTypeId": 269,
+      "productName": "Cync Full Color Bulb",
+      "productLabel": "Cync Full Color A19",
+      "partNumber": "CLEDA199CD1MS",
+      "commissioningCustomFlow": 0,
+      "commissioningCustomFlowUrl": "",
+      "commissioningModeInitialStepsHint": 1,
+      "commissioningModeInitialStepsInstruction": "Power off, power on",
+      "commissioningModeSecondaryStepsHint": 8,
+      "commissioningModeSecondaryStepsInstruction": "Factory reset method: power off/on 5 times, each time within 10s. After factory reset, device can enter commission mode again.",
+      "userManualUrl": "",
+      "supportUrl": "",
+      "productUrl": "",
+      "lsfUrl": "",
+      "lsfRevision": 0,
+      "creator": "cosmos130t4m26ynex82jcgkqguxpffpva05e4zugn0xc"
+    },
+    {
+      "vid": 4921,
       "pid": 41,
       "deviceTypeId": 269,
       "productName": "Cync Full Color Fixture",
@@ -1979,30 +1999,10 @@
       "lsfUrl": "",
       "lsfRevision": 0,
       "creator": "cosmos130t4m26ynex82jcgkqguxpffpva05e4zugn0xc"
-    },
-    {
-      "vid": 4921,
-      "pid": 105,
-      "deviceTypeId": 269,
-      "productName": "Cync Full Color Bulb",
-      "productLabel": "Cync Full Color A21",
-      "partNumber": "CLEDA2116CDMS",
-      "commissioningCustomFlow": 0,
-      "commissioningCustomFlowUrl": "",
-      "commissioningModeInitialStepsHint": 1,
-      "commissioningModeInitialStepsInstruction": "Power off, power on",
-      "commissioningModeSecondaryStepsHint": 8,
-      "commissioningModeSecondaryStepsInstruction": "Factory reset method: power off/on 5 times, each time within 10s. After factory reset, device can enter commission mode again.",
-      "userManualUrl": "",
-      "supportUrl": "",
-      "productUrl": "",
-      "lsfUrl": "",
-      "lsfRevision": 0,
-      "creator": "cosmos130t4m26ynex82jcgkqguxpffpva05e4zugn0xc"
     }
   ],
   "pagination": {
-    "next_key": "AAATOS8AAABuLw==",
+    "next_key": "AAATOS8AAABpLw==",
     "total": "0"
   }
 }
