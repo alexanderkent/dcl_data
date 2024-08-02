@@ -160,6 +160,21 @@
       "pid": 64017,
       "name": "Zemismart Smart Curtain",
       "partNumber": "ZM25C"
+    },
+    {
+      "pid": 65377,
+      "name": "Zemismart Thread Curtain Motor",
+      "partNumber": "MT01A"
+    },
+    {
+      "pid": 904,
+      "name": "Zemismart M6 Hub",
+      "partNumber": "M6"
+    },
+    {
+      "pid": 64018,
+      "name": "Zemismart Smart Curtain",
+      "partNumber": "ZM25D"
     }
   ]
 }

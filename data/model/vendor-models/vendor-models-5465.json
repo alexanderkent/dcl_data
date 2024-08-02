@@ -1,0 +1,15 @@
+{
+  "vid": 5465,
+  "products": [
+    {
+      "pid": 2359,
+      "name": "tink Basics Door and Window Sensor",
+      "partNumber": "TNKDSE241"
+    },
+    {
+      "pid": 2388,
+      "name": "Tink Basics Smart Bulb E27",
+      "partNumber": "TNKE27241"
+    }
+  ]
+}

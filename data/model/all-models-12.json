@@ -1922,6 +1922,26 @@
     },
     {
       "vid": 5020,
+      "pid": 904,
+      "deviceTypeId": 14,
+      "productName": "Zemismart M6 Hub",
+      "productLabel": "Zemismart M6 Hub",
+      "partNumber": "M6",
+      "commissioningCustomFlow": 0,
+      "commissioningCustomFlowUrl": "",
+      "commissioningModeInitialStepsHint": 0,
+      "commissioningModeInitialStepsInstruction": "",
+      "commissioningModeSecondaryStepsHint": 0,
+      "commissioningModeSecondaryStepsInstruction": "",
+      "userManualUrl": "",
+      "supportUrl": "https://www.zemismart.com/products/m1",
+      "productUrl": "https://www.zemismart.com/products/m1",
+      "lsfUrl": "",
+      "lsfRevision": 0,
+      "creator": "cosmos1mrv5zh6r6kcfln34vju5kfup4mv9lw27u33yj0"
+    },
+    {
+      "vid": 5020,
       "pid": 5020,
       "deviceTypeId": 514,
       "productName": "Zemismart Smart Curtain",
@@ -1979,30 +1999,10 @@
       "lsfUrl": "",
       "lsfRevision": 0,
       "creator": "cosmos1mrv5zh6r6kcfln34vju5kfup4mv9lw27u33yj0"
-    },
-    {
-      "vid": 5020,
-      "pid": 43779,
-      "deviceTypeId": 259,
-      "productName": "Zemismart WiFi Smart Switch",
-      "productLabel": "Zemismart WiFi Smart Switch",
-      "partNumber": "ZM606-2",
-      "commissioningCustomFlow": 0,
-      "commissioningCustomFlowUrl": "",
-      "commissioningModeInitialStepsHint": 0,
-      "commissioningModeInitialStepsInstruction": "",
-      "commissioningModeSecondaryStepsHint": 0,
-      "commissioningModeSecondaryStepsInstruction": "",
-      "userManualUrl": "",
-      "supportUrl": "https://www.zemismart.com/collections/matter-certified-device",
-      "productUrl": "https://www.zemismart.com/collections/matter-certified-device",
-      "lsfUrl": "",
-      "lsfRevision": 0,
-      "creator": "cosmos1mrv5zh6r6kcfln34vju5kfup4mv9lw27u33yj0"
     }
   ],
   "pagination": {
-    "next_key": "AAATnC8AAKsELw==",
+    "next_key": "AAATnC8AAKsDLw==",
     "total": "0"
   }
 }
